@@ -1,0 +1,83 @@
+
+zeusfrontlobby.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Eyes Glow
+  rotate: true
+  xy: 989, 400
+  size: 90, 29
+  orig: 90, 29
+  offset: 0, 0
+  index: -1
+FireScroll
+  rotate: false
+  xy: 2, 234
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+Head
+  rotate: false
+  xy: 190, 2
+  size: 161, 124
+  orig: 161, 124
+  offset: 0, 0
+  index: -1
+L Hand
+  rotate: true
+  xy: 190, 128
+  size: 104, 211
+  orig: 104, 211
+  offset: 0, 0
+  index: -1
+Lower Body
+  rotate: false
+  xy: 776, 371
+  size: 211, 119
+  orig: 211, 119
+  offset: 0, 0
+  index: -1
+Lower L Hand
+  rotate: true
+  xy: 776, 238
+  size: 131, 175
+  orig: 131, 175
+  offset: 0, 0
+  index: -1
+R Hand
+  rotate: true
+  xy: 403, 140
+  size: 92, 223
+  orig: 92, 223
+  offset: 0, 0
+  index: -1
+Text
+  rotate: false
+  xy: 628, 154
+  size: 146, 78
+  orig: 146, 78
+  offset: 0, 0
+  index: -1
+Upper Body
+  rotate: false
+  xy: 2, 42
+  size: 186, 190
+  orig: 186, 190
+  offset: 0, 0
+  index: -1
+lightning01_04
+  rotate: false
+  xy: 518, 234
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+lightning_01
+  rotate: false
+  xy: 260, 234
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

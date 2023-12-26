@@ -1,0 +1,69 @@
+
+sieutop2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+kc1
+  rotate: true
+  xy: 459, 88
+  size: 38, 50
+  orig: 38, 50
+  offset: 0, 0
+  index: -1
+kc2
+  rotate: false
+  xy: 361, 40
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 30
+  size: 186, 96
+  orig: 186, 96
+  offset: 0, 0
+  index: -1
+sao1
+  rotate: true
+  xy: 361, 2
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+sao2
+  rotate: true
+  xy: 361, 2
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+sao3
+  rotate: true
+  xy: 361, 2
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+sao4
+  rotate: true
+  xy: 306, 31
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+text1
+  rotate: false
+  xy: 306, 85
+  size: 151, 41
+  orig: 151, 41
+  offset: 0, 0
+  index: -1
+xe1
+  rotate: false
+  xy: 190, 38
+  size: 114, 88
+  orig: 114, 88
+  offset: 0, 0
+  index: -1

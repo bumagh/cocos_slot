@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c309943e-103e-4f68-9723-4d6d388fed9b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "AVENGERS SYMBOL5": {
+      "ver": "1.0.4",
+      "uuid": "719e975b-7522-4674-ac47-1ed26b83c9d1",
+      "rawTextureUuid": "c309943e-103e-4f68-9723-4d6d388fed9b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 506,
+      "height": 509,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

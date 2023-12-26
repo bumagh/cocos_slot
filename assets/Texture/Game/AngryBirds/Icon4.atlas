@@ -1,0 +1,55 @@
+
+Icon4.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Xe dien/main/fx-2
+  rotate: false
+  xy: 138, 16
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Xe dien/minigame/icon4/dendo
+  rotate: false
+  xy: 240, 68
+  size: 19, 10
+  orig: 19, 10
+  offset: 0, 0
+  index: -1
+Xe dien/minigame/icon4/denpha
+  rotate: false
+  xy: 240, 99
+  size: 64, 17
+  orig: 64, 17
+  offset: 0, 0
+  index: -1
+Xe dien/minigame/icon4/denxanh
+  rotate: false
+  xy: 306, 104
+  size: 24, 12
+  orig: 24, 12
+  offset: 0, 0
+  index: -1
+Xe dien/minigame/icon4/nhaymat
+  rotate: false
+  xy: 240, 80
+  size: 54, 17
+  orig: 54, 17
+  offset: 0, 0
+  index: -1
+Xe dien/minigame/icon4/than
+  rotate: false
+  xy: 2, 2
+  size: 134, 114
+  orig: 134, 114
+  offset: 0, 0
+  index: -1
+Xe dien/minigame/icon4/trongmat
+  rotate: false
+  xy: 138, 2
+  size: 29, 12
+  orig: 29, 12
+  offset: 0, 0
+  index: -1

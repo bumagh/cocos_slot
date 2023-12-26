@@ -1,0 +1,48 @@
+
+Sukien-RongThan-2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Rongthan/images/Rong/11
+  rotate: false
+  xy: 2, 122
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1
+Rongthan/images/Text/1
+  rotate: false
+  xy: 98, 9
+  size: 90, 63
+  orig: 90, 63
+  offset: 0, 0
+  index: -1
+Rongthan/images/Text/2
+  rotate: false
+  xy: 132, 186
+  size: 94, 64
+  orig: 94, 64
+  offset: 0, 0
+  index: -1
+Rongthan/images/Text/3
+  rotate: true
+  xy: 190, 14
+  size: 58, 64
+  orig: 58, 64
+  offset: 0, 0
+  index: -1
+Rongthan/images/Text/4
+  rotate: false
+  xy: 2, 2
+  size: 94, 70
+  orig: 94, 70
+  offset: 0, 0
+  index: -1
+Rongthan/images/light
+  rotate: false
+  xy: 2, 74
+  size: 200, 46
+  orig: 200, 46
+  offset: 0, 0
+  index: -1

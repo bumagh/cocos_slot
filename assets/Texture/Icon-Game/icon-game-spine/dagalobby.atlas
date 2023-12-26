@@ -1,0 +1,48 @@
+
+dagalobby.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 1
+  rotate: true
+  xy: 2, 21
+  size: 229, 364
+  orig: 229, 364
+  offset: 0, 0
+  index: -1
+Layer 92 copy
+  rotate: false
+  xy: 607, 145
+  size: 204, 105
+  orig: 204, 105
+  offset: 0, 0
+  index: -1
+bangdo
+  rotate: false
+  xy: 368, 2
+  size: 253, 52
+  orig: 253, 52
+  offset: 0, 0
+  index: -1
+da
+  rotate: false
+  xy: 813, 197
+  size: 73, 53
+  orig: 73, 53
+  offset: 0, 0
+  index: -1
+ga
+  rotate: false
+  xy: 607, 95
+  size: 70, 48
+  orig: 70, 48
+  offset: 0, 0
+  index: -1
+icongame
+  rotate: false
+  xy: 368, 56
+  size: 237, 194
+  orig: 237, 194
+  offset: 0, 0
+  index: -1

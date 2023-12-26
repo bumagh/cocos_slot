@@ -1,0 +1,41 @@
+
+ic_dai_ly.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 2, 94
+  size: 199, 128
+  orig: 199, 128
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 290, 303
+  size: 136, 74
+  orig: 136, 74
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 290, 379
+  size: 187, 127
+  orig: 187, 127
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 2, 2
+  size: 90, 159
+  orig: 90, 159
+  offset: 0, 0
+  index: -1
+Layer 62
+  rotate: false
+  xy: 2, 224
+  size: 286, 282
+  orig: 286, 282
+  offset: 0, 0
+  index: -1

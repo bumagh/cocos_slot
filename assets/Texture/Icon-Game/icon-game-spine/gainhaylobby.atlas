@@ -1,0 +1,69 @@
+
+gainhaylobby.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 2
+  size: 283, 408
+  orig: 283, 408
+  offset: 0, 0
+  index: -1
+arrow
+  rotate: false
+  xy: 909, 380
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+bang
+  rotate: true
+  xy: 412, 81
+  size: 204, 105
+  orig: 204, 105
+  offset: 0, 0
+  index: -1
+gai
+  rotate: false
+  xy: 769, 305
+  size: 78, 60
+  orig: 78, 60
+  offset: 0, 0
+  index: -1
+girlL
+  rotate: true
+  xy: 2, 287
+  size: 183, 537
+  orig: 183, 537
+  offset: 0, 0
+  index: -1
+khunglogo
+  rotate: false
+  xy: 541, 367
+  size: 366, 103
+  orig: 366, 103
+  offset: 0, 0
+  index: -1
+kimcuong
+  rotate: false
+  xy: 670, 278
+  size: 97, 87
+  orig: 97, 87
+  offset: 0, 0
+  index: -1
+nhay
+  rotate: false
+  xy: 412, 18
+  size: 105, 61
+  orig: 105, 61
+  offset: 0, 0
+  index: -1
+sao
+  rotate: false
+  xy: 541, 281
+  size: 127, 84
+  orig: 127, 84
+  offset: 0, 0
+  index: -1

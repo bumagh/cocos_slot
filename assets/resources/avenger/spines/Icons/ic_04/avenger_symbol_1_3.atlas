@@ -1,0 +1,34 @@
+
+avenger_symbol_1_3.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BACK
+  rotate: false
+  xy: 178, 96
+  size: 133, 158
+  orig: 133, 158
+  offset: 0, 0
+  index: -1
+BORDER
+  rotate: false
+  xy: 2, 80
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+SPIDER MEN BODY
+  rotate: false
+  xy: 178, 2
+  size: 146, 92
+  orig: 146, 92
+  offset: 0, 0
+  index: -1
+SPIDER MEN HEAD
+  rotate: false
+  xy: 313, 100
+  size: 102, 154
+  orig: 102, 154
+  offset: 0, 0
+  index: -1

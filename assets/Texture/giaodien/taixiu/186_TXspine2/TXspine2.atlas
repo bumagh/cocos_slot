@@ -1,0 +1,41 @@
+
+TXspine2.png
+size: 1022,579
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+as
+  rotate: true
+  xy: 2, 4
+  size: 573, 577
+  orig: 573, 577
+  offset: 0, 0
+  index: -1
+as copy
+  rotate: true
+  xy: 806, 178
+  size: 155, 214
+  orig: 155, 214
+  offset: 0, 0
+  index: -1
+particle
+  rotate: false
+  xy: 806, 24
+  size: 152, 152
+  orig: 152, 152
+  offset: 0, 0
+  index: -1
+tai
+  rotate: true
+  xy: 581, 2
+  size: 331, 223
+  orig: 331, 223
+  offset: 0, 0
+  index: -1
+xiu
+  rotate: false
+  xy: 581, 335
+  size: 390, 242
+  orig: 390, 242
+  offset: 0, 0
+  index: -1

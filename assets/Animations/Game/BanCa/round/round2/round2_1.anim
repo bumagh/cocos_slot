@@ -1,0 +1,25 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "round2_1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 54,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "x": [
+        {
+          "frame": 0,
+          "value": 747
+        },
+        {
+          "frame": 54,
+          "value": -2555
+        }
+      ]
+    }
+  },
+  "events": []
+}

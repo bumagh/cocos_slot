@@ -1,0 +1,83 @@
+
+777luckyicon.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+71
+  rotate: false
+  xy: 180, 76
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+73
+  rotate: false
+  xy: 180, 76
+  size: 68, 80
+  orig: 68, 80
+  offset: 0, 0
+  index: -1
+72
+  rotate: false
+  xy: 47, 54
+  size: 87, 102
+  orig: 87, 102
+  offset: 0, 0
+  index: -1
+C
+  rotate: false
+  xy: 189, 158
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 189, 207
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+L
+  rotate: false
+  xy: 88, 5
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+Layer 96
+  rotate: false
+  xy: 2, 158
+  size: 185, 96
+  orig: 185, 96
+  offset: 0, 0
+  index: -1
+Light 1
+  rotate: true
+  xy: 136, 9
+  size: 147, 42
+  orig: 147, 42
+  offset: 0, 0
+  index: -1
+Light 2
+  rotate: true
+  xy: 2, 2
+  size: 154, 43
+  orig: 154, 43
+  offset: 0, 0
+  index: -1
+U
+  rotate: false
+  xy: 47, 4
+  size: 39, 48
+  orig: 39, 48
+  offset: 0, 0
+  index: -1
+Y
+  rotate: false
+  xy: 180, 27
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1

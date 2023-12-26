@@ -1,0 +1,90 @@
+
+INFINITY STONE BONUS GAME.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL-BG-AVENGER-SLOT-3_0000_REALITY-STONE-copy
+  rotate: true
+  xy: 570, 167
+  size: 88, 133
+  orig: 88, 133
+  offset: 0, 0
+  index: -1
+ALL-BG-AVENGER-SLOT-3_0001_POWER-STONE-copy
+  rotate: true
+  xy: 192, 145
+  size: 105, 146
+  orig: 105, 146
+  offset: 0, 0
+  index: -1
+ALL-BG-AVENGER-SLOT-3_0002_TIME-STONE-copy
+  rotate: false
+  xy: 186, 7
+  size: 110, 136
+  orig: 110, 136
+  offset: 0, 0
+  index: -1
+ALL-BG-AVENGER-SLOT-3_0003_MINE-STONE-copy
+  rotate: false
+  xy: 903, 304
+  size: 111, 160
+  orig: 111, 160
+  offset: 0, 0
+  index: -1
+ALL-BG-AVENGER-SLOT-3_0004_SPACE-STONE-copy
+  rotate: true
+  xy: 739, 173
+  size: 84, 131
+  orig: 84, 131
+  offset: 0, 0
+  index: -1
+ALL-BG-AVENGER-SLOT-3_0005_SOUL-STONE-copy
+  rotate: false
+  xy: 298, 9
+  size: 110, 134
+  orig: 110, 134
+  offset: 0, 0
+  index: -1
+ALL-BG-AVENGER-SLOT-3_0006_REALITY-STONE
+  rotate: false
+  xy: 570, 257
+  size: 167, 207
+  orig: 167, 207
+  offset: 0, 0
+  index: -1
+ALL-BG-AVENGER-SLOT-3_0007_POWER-STONE
+  rotate: false
+  xy: 2, 2
+  size: 182, 223
+  orig: 182, 223
+  offset: 0, 0
+  index: -1
+ALL-BG-AVENGER-SLOT-3_0008_TIME-STONE
+  rotate: false
+  xy: 192, 252
+  size: 186, 212
+  orig: 186, 212
+  offset: 0, 0
+  index: -1
+ALL-BG-AVENGER-SLOT-3_0009_MINE-STONE
+  rotate: false
+  xy: 2, 227
+  size: 188, 237
+  orig: 188, 237
+  offset: 0, 0
+  index: -1
+ALL-BG-AVENGER-SLOT-3_0010_SPACE-STONE
+  rotate: false
+  xy: 739, 259
+  size: 162, 205
+  orig: 162, 205
+  offset: 0, 0
+  index: -1
+ALL-BG-AVENGER-SLOT-3_0011_SOUL-STONE
+  rotate: false
+  xy: 380, 254
+  size: 188, 210
+  orig: 188, 210
+  offset: 0, 0
+  index: -1

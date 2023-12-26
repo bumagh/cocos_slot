@@ -1,0 +1,281 @@
+
+CAPTAIN MARVEL.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 340, 131
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+BORDER
+  rotate: false
+  xy: 1, 61
+  size: 180, 450
+  orig: 180, 450
+  offset: 0, 0
+  index: -1
+HAIR_1
+  rotate: true
+  xy: 182, 391
+  size: 83, 63
+  orig: 83, 63
+  offset: 0, 0
+  index: -1
+HAIR_2
+  rotate: false
+  xy: 177, 19
+  size: 81, 41
+  orig: 81, 41
+  offset: 0, 0
+  index: -1
+HAIR_BACK 1
+  rotate: false
+  xy: 122, 2
+  size: 54, 58
+  orig: 54, 58
+  offset: 0, 0
+  index: -1
+HAIR_BACK 2
+  rotate: true
+  xy: 182, 475
+  size: 36, 75
+  orig: 36, 75
+  offset: 0, 0
+  index: -1
+LEG_L
+  rotate: true
+  xy: 259, 370
+  size: 141, 251
+  orig: 141, 251
+  offset: 0, 0
+  index: -1
+LEG_R
+  rotate: false
+  xy: 182, 62
+  size: 157, 307
+  orig: 157, 307
+  offset: 0, 0
+  index: -1
+THOR ICON
+  rotate: true
+  xy: 340, 3
+  size: 127, 158
+  orig: 127, 158
+  offset: 0, 0
+  index: -1
+WILD
+  rotate: false
+  xy: 1, 1
+  size: 120, 59
+  orig: 120, 59
+  offset: 0, 0
+  index: -1
+
+CAPTAIN MARVEL2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: true
+  xy: 1, 197
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 240, 169
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1, 29
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 240, 1
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+CAPTAIN MARVEL BODY
+  rotate: true
+  xy: 242, 337
+  size: 138, 217
+  orig: 138, 217
+  offset: 0, 0
+  index: -1
+HAND_L
+  rotate: false
+  xy: 117, 365
+  size: 124, 110
+  orig: 124, 110
+  offset: 0, 0
+  index: -1
+HAND_R
+  rotate: true
+  xy: 1, 376
+  size: 99, 115
+  orig: 99, 115
+  offset: 0, 0
+  index: -1
+
+CAPTAIN MARVEL3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+6
+  rotate: true
+  xy: 1, 169
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 240, 169
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 1, 1
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 240, 1
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+GALAXY BG
+  rotate: true
+  xy: 1, 337
+  size: 143, 415
+  orig: 143, 415
+  offset: 0, 0
+  index: -1
+
+CAPTAIN MARVEL4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 1, 240
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1, 1
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 169, 240
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 169, 1
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 337, 240
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 337, 1
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+
+CAPTAIN MARVEL5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16
+  rotate: false
+  xy: 1, 240
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1, 1
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 169, 240
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 169, 1
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 337, 240
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 337, 1
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1
+
+CAPTAIN MARVEL6.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+22
+  rotate: false
+  xy: 1, 1
+  size: 167, 238
+  orig: 167, 238
+  offset: 0, 0
+  index: -1

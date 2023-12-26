@@ -1,0 +1,48 @@
+
+chimdien.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 667
+  rotate: false
+  xy: 300, 63
+  size: 147, 85
+  orig: 147, 85
+  offset: 0, 0
+  index: -1
+Layer 668
+  rotate: false
+  xy: 795, 171
+  size: 113, 80
+  orig: 113, 80
+  offset: 0, 0
+  index: -1
+Layer 669
+  rotate: true
+  xy: 689, 160
+  size: 91, 104
+  orig: 91, 104
+  offset: 0, 0
+  index: -1
+Layer 670
+  rotate: false
+  xy: 555, 154
+  size: 132, 97
+  orig: 132, 97
+  offset: 0, 0
+  index: -1
+Layer 672
+  rotate: false
+  xy: 300, 150
+  size: 253, 101
+  orig: 253, 101
+  offset: 0, 0
+  index: -1
+Layer 78
+  rotate: false
+  xy: 2, 2
+  size: 296, 249
+  orig: 296, 249
+  offset: 0, 0
+  index: -1

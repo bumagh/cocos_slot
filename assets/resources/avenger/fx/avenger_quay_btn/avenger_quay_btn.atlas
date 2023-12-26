@@ -1,0 +1,83 @@
+
+BUTTON SPIN.png
+size: 684,389
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BACK
+  rotate: true
+  xy: 275, 16
+  size: 255, 77
+  orig: 255, 77
+  offset: 0, 0
+  index: -1
+BUTTON BLUE
+  rotate: false
+  xy: 2, 137
+  size: 271, 134
+  orig: 271, 134
+  offset: 0, 0
+  index: -1
+BUTTON RED
+  rotate: false
+  xy: 411, 253
+  size: 271, 134
+  orig: 271, 134
+  offset: 0, 0
+  index: -1
+D DOWN
+  rotate: false
+  xy: 2, 273
+  size: 378, 55
+  orig: 378, 55
+  offset: 0, 0
+  index: -1
+DECK UP
+  rotate: false
+  xy: 2, 330
+  size: 407, 57
+  orig: 407, 57
+  offset: 0, 0
+  index: -1
+GRAY BUTTON
+  rotate: false
+  xy: 2, 2
+  size: 271, 133
+  orig: 271, 133
+  offset: 0, 0
+  index: -1
+HOLD TO AUTO
+  rotate: true
+  xy: 657, 99
+  size: 152, 18
+  orig: 152, 18
+  offset: 0, 0
+  index: -1
+LIGHT
+  rotate: false
+  xy: 354, 94
+  size: 225, 157
+  orig: 225, 157
+  offset: 0, 0
+  index: -1
+LIGHT EFFECT
+  rotate: false
+  xy: 354, 17
+  size: 289, 75
+  orig: 289, 75
+  offset: 0, 0
+  index: -1
+SPIN
+  rotate: true
+  xy: 619, 125
+  size: 126, 36
+  orig: 126, 36
+  offset: 0, 0
+  index: -1
+STOP
+  rotate: true
+  xy: 581, 117
+  size: 134, 36
+  orig: 134, 36
+  offset: 0, 0
+  index: -1

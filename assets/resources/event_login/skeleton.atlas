@@ -1,0 +1,48 @@
+
+skeleton.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+anh sang
+  rotate: false
+  xy: 2, 1060
+  size: 955, 922
+  orig: 955, 922
+  offset: 0, 0
+  index: -1
+chao mung
+  rotate: true
+  xy: 1666, 823
+  size: 1159, 116
+  orig: 1159, 116
+  offset: 0, 0
+  index: -1
+coin
+  rotate: true
+  xy: 2, 2
+  size: 1056, 377
+  orig: 1056, 377
+  offset: 0, 0
+  index: -1
+cong game uy tin
+  rotate: true
+  xy: 1784, 447
+  size: 1535, 104
+  orig: 1535, 104
+  offset: 0, 0
+  index: -1
+hay nhat vn
+  rotate: true
+  xy: 381, 331
+  size: 727, 176
+  orig: 727, 176
+  offset: 0, 0
+  index: -1
+hinh giua
+  rotate: false
+  xy: 959, 1374
+  size: 705, 608
+  orig: 705, 608
+  offset: 0, 0
+  index: -1

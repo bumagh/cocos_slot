@@ -1,0 +1,471 @@
+
+AVENGERS SYMBOL.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 21
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 120, 21
+  size: 118, 142
+  orig: 118, 142
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 239, 23
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 356, 23
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 473, 21
+  size: 35, 142
+  orig: 35, 142
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 239, 1
+  size: 21, 142
+  orig: 21, 142
+  offset: 0, 0
+  index: -1
+EFFECT_0000_EFFECT_00023
+  rotate: false
+  xy: 1, 338
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0001_EFFECT_00022
+  rotate: false
+  xy: 1, 164
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0002_EFFECT_00021
+  rotate: false
+  xy: 171, 338
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0003_EFFECT_00020
+  rotate: false
+  xy: 171, 164
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0004_EFFECT_00019
+  rotate: false
+  xy: 341, 338
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0005_EFFECT_00018
+  rotate: false
+  xy: 341, 164
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+
+AVENGERS SYMBOL2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+16
+  rotate: true
+  xy: 1, 1
+  size: 21, 142
+  orig: 21, 142
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 1, 23
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 118, 23
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 235, 23
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+26
+  rotate: false
+  xy: 352, 23
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 469, 21
+  size: 35, 142
+  orig: 35, 142
+  offset: 0, 0
+  index: -1
+EFFECT_0006_EFFECT_00017
+  rotate: false
+  xy: 1, 338
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0007_EFFECT_00016
+  rotate: false
+  xy: 1, 164
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0008_EFFECT_00015
+  rotate: false
+  xy: 171, 338
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0009_EFFECT_00014
+  rotate: false
+  xy: 171, 164
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0010_EFFECT_00013
+  rotate: false
+  xy: 341, 338
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0011_EFFECT_00012
+  rotate: false
+  xy: 341, 164
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+
+AVENGERS SYMBOL3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+15
+  rotate: false
+  xy: 469, 1
+  size: 34, 142
+  orig: 34, 142
+  offset: 0, 0
+  index: -1
+27
+  rotate: false
+  xy: 1, 3
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 118, 3
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+29
+  rotate: false
+  xy: 235, 3
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+30
+  rotate: false
+  xy: 352, 3
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+EFFECT_0012_EFFECT_00011
+  rotate: false
+  xy: 1, 318
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0013_EFFECT_00010
+  rotate: false
+  xy: 1, 144
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0014_EFFECT_00009
+  rotate: false
+  xy: 171, 318
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0015_EFFECT_00008
+  rotate: false
+  xy: 171, 144
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0016_EFFECT_00007
+  rotate: false
+  xy: 341, 318
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0017_EFFECT_00006
+  rotate: false
+  xy: 341, 144
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+
+AVENGERS SYMBOL4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+17
+  rotate: false
+  xy: 469, 1
+  size: 34, 142
+  orig: 34, 142
+  offset: 0, 0
+  index: -1
+31
+  rotate: false
+  xy: 1, 3
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 118, 3
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+33
+  rotate: false
+  xy: 235, 3
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+34
+  rotate: false
+  xy: 352, 3
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+EFFECT_0018_EFFECT_00005
+  rotate: false
+  xy: 1, 318
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0019_EFFECT_00004
+  rotate: false
+  xy: 1, 144
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0020_EFFECT_00003
+  rotate: false
+  xy: 171, 318
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0021_EFFECT_00002
+  rotate: false
+  xy: 171, 144
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0022_EFFECT_00001
+  rotate: false
+  xy: 341, 318
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+EFFECT_0023_EFFECT_00000
+  rotate: false
+  xy: 341, 144
+  size: 169, 173
+  orig: 169, 173
+  offset: 0, 0
+  index: -1
+
+AVENGERS SYMBOL5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: true
+  xy: 235, 407
+  size: 104, 142
+  orig: 104, 142
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 118, 85
+  size: 104, 142
+  orig: 104, 142
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 1, 1
+  size: 83, 142
+  orig: 83, 142
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 369, 179
+  size: 60, 142
+  orig: 60, 142
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 366, 118
+  size: 60, 142
+  orig: 60, 142
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 144, 1
+  size: 83, 142
+  orig: 83, 142
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 118, 228
+  size: 104, 142
+  orig: 104, 142
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 378, 369
+  size: 104, 142
+  orig: 104, 142
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 235, 322
+  size: 84, 142
+  orig: 84, 142
+  offset: 0, 0
+  index: -1
+35
+  rotate: false
+  xy: 1, 371
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+36
+  rotate: false
+  xy: 1, 230
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+37
+  rotate: false
+  xy: 118, 371
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+38
+  rotate: false
+  xy: 1, 89
+  size: 116, 140
+  orig: 116, 140
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 308, 179
+  size: 60, 142
+  orig: 60, 142
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 223, 118
+  size: 60, 142
+  orig: 60, 142
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 223, 179
+  size: 84, 142
+  orig: 84, 142
+  offset: 0, 0
+  index: -1
+JACKPOT 2
+  rotate: true
+  xy: 430, 199
+  size: 169, 52
+  orig: 169, 52
+  offset: 0, 0
+  index: -1

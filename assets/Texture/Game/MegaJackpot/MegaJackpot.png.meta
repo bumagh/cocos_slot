@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2a9d45ed-9967-4fc3-9507-03a51ff005ae",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 494,
+  "height": 1342,
+  "platformSettings": {},
+  "subMetas": {
+    "MegaJackpot": {
+      "ver": "1.0.4",
+      "uuid": "820a3935-bcc3-4878-b820-b81cf8d77c0d",
+      "rawTextureUuid": "2a9d45ed-9967-4fc3-9507-03a51ff005ae",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 492,
+      "height": 1340,
+      "rawWidth": 494,
+      "rawHeight": 1342,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

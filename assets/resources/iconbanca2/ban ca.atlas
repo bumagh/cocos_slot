@@ -1,0 +1,90 @@
+
+ban ca.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CA3
+  rotate: false
+  xy: 712, 252
+  size: 230, 53
+  orig: 230, 53
+  offset: 0, 0
+  index: -1
+CAY2
+  rotate: false
+  xy: 943, 420
+  size: 43, 65
+  orig: 43, 65
+  offset: 0, 0
+  index: -1
+Ca2
+  rotate: false
+  xy: 512, 124
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+FIRE
+  rotate: true
+  xy: 630, 118
+  size: 112, 99
+  orig: 112, 99
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 273, 110
+  size: 237, 375
+  orig: 237, 375
+  offset: 0, 0
+  index: -1
+ca4
+  rotate: false
+  xy: 731, 111
+  size: 89, 80
+  orig: 89, 80
+  offset: 0, 0
+  index: -1
+camap
+  rotate: false
+  xy: 512, 232
+  size: 198, 253
+  orig: 198, 253
+  offset: 0, 0
+  index: -1
+cay1
+  rotate: true
+  xy: 731, 193
+  size: 57, 138
+  orig: 57, 138
+  offset: 0, 0
+  index: -1
+fx text
+  rotate: false
+  xy: 2, 2
+  size: 230, 80
+  orig: 230, 80
+  offset: 0, 0
+  index: -1
+khung1
+  rotate: false
+  xy: 712, 376
+  size: 229, 109
+  orig: 229, 109
+  offset: 0, 0
+  index: -1
+khung2
+  rotate: false
+  xy: 2, 84
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 712, 307
+  size: 218, 67
+  orig: 218, 67
+  offset: 0, 0
+  index: -1

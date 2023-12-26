@@ -1,0 +1,15 @@
+{"file":"fish_hall_rygk.png","frames":{
+"3":{"x":23,"y":35,"w":20,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"4":{"x":0,"y":35,"w":21,"h":26,"offX":1,"offY":4,"sourceW":24,"sourceH":34},
+"5":{"x":44,"y":63,"w":19,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"6":{"x":22,"y":63,"w":20,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"7":{"x":0,"y":92,"w":20,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"8":{"x":22,"y":91,"w":20,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"9":{"x":0,"y":63,"w":20,"h":27,"offX":2,"offY":3,"sourceW":24,"sourceH":34},
+"X":{"x":59,"y":91,"w":17,"h":19,"offX":3,"offY":8,"sourceW":24,"sourceH":34},
+"倍":{"x":0,"y":0,"w":32,"h":33,"offX":0,"offY":0,"sourceW":32,"sourceH":34},
+".":{"x":34,"y":0,"w":8,"h":7,"offX":1,"offY":21,"sourceW":10,"sourceH":34},
+"~":{"x":22,"y":119,"w":13,"h":6,"offX":6,"offY":14,"sourceW":24,"sourceH":34},
+"0":{"x":44,"y":0,"w":20,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"1":{"x":44,"y":91,"w":13,"h":26,"offX":5,"offY":4,"sourceW":24,"sourceH":34},
+"2":{"x":45,"y":28,"w":19,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34}}}

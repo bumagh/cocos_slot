@@ -1,0 +1,48 @@
+
+khobaured.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 77
+  rotate: false
+  xy: 1, 1
+  size: 268, 484
+  orig: 268, 484
+  offset: 0, 0
+  index: -1
+Layer 6772
+  rotate: false
+  xy: 271, 1
+  size: 272, 307
+  orig: 272, 307
+  offset: 0, 0
+  index: -1
+Layer 6773
+  rotate: false
+  xy: 655, 310
+  size: 99, 145
+  orig: 99, 145
+  offset: 0, 0
+  index: -1
+Layer 6774
+  rotate: false
+  xy: 271, 310
+  size: 161, 200
+  orig: 161, 200
+  offset: 0, 0
+  index: -1
+Layer 6776
+  rotate: false
+  xy: 434, 310
+  size: 219, 69
+  orig: 219, 69
+  offset: 0, 0
+  index: -1
+RED
+  rotate: false
+  xy: 434, 381
+  size: 124, 53
+  orig: 124, 53
+  offset: 0, 0
+  index: -1

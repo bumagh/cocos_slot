@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a6954b0e-06e1-4c56-8a6f-69646fe6fb4c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 278,
+  "height": 281,
+  "platformSettings": {},
+  "subMetas": {
+    "MyrialProB_GW-export": {
+      "ver": "1.0.4",
+      "uuid": "25b1a635-7c65-477c-b73e-a7eaad7a390f",
+      "rawTextureUuid": "a6954b0e-06e1-4c56-8a6f-69646fe6fb4c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 277,
+      "height": 280,
+      "rawWidth": 278,
+      "rawHeight": 281,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ac399df0-786b-47f0-b170-a44d59f23580",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "IRON MEN": {
+      "ver": "1.0.4",
+      "uuid": "dc59a5e6-3db5-4cdf-8cab-125d2355576e",
+      "rawTextureUuid": "ac399df0-786b-47f0-b170-a44d59f23580",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 1.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 507,
+      "height": 507,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

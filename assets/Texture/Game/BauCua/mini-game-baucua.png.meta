@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d6e77e37-b0ef-4d1c-8c54-e9f18b9139a7",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 918,
+  "height": 1399,
+  "platformSettings": {},
+  "subMetas": {
+    "mini-game-baucua": {
+      "ver": "1.0.4",
+      "uuid": "e87d7976-efe3-4e5c-9363-a44b7961c42d",
+      "rawTextureUuid": "d6e77e37-b0ef-4d1c-8c54-e9f18b9139a7",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 0,
+      "trimY": 1,
+      "width": 917,
+      "height": 1398,
+      "rawWidth": 918,
+      "rawHeight": 1399,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

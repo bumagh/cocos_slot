@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "d492e4c1-9f0e-49f2-b49e-c2cf3966c6d4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 338,
+  "height": 82,
+  "platformSettings": {},
+  "subMetas": {
+    "fish_game_pic_paotaidi": {
+      "ver": "1.0.4",
+      "uuid": "8e0859b6-9da3-4fd1-84ef-feb091fe0836",
+      "rawTextureUuid": "d492e4c1-9f0e-49f2-b49e-c2cf3966c6d4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": -0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 337,
+      "height": 81,
+      "rawWidth": 338,
+      "rawHeight": 82,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

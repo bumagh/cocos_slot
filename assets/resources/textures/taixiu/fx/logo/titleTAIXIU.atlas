@@ -1,0 +1,146 @@
+
+titleTAIXIU.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 23_01
+  rotate: true
+  xy: 794, 426
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+Group 23_02
+  rotate: false
+  xy: 803, 465
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Group 23_03
+  rotate: false
+  xy: 406, 349
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Group 23_08
+  rotate: false
+  xy: 406, 349
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+Group 23_04
+  rotate: false
+  xy: 362, 286
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+Group 23_09
+  rotate: false
+  xy: 362, 286
+  size: 42, 48
+  orig: 42, 48
+  offset: 0, 0
+  index: -1
+Group 23_05
+  rotate: false
+  xy: 362, 237
+  size: 40, 47
+  orig: 40, 47
+  offset: 0, 0
+  index: -1
+Group 23_06
+  rotate: false
+  xy: 406, 300
+  size: 42, 47
+  orig: 42, 47
+  offset: 0, 0
+  index: -1
+Group 23_07
+  rotate: false
+  xy: 56, 43
+  size: 41, 54
+  orig: 41, 54
+  offset: 0, 0
+  index: -1
+Group 23_10
+  rotate: false
+  xy: 749, 416
+  size: 43, 47
+  orig: 43, 47
+  offset: 0, 0
+  index: -1
+Group 23_11
+  rotate: true
+  xy: 56, 0
+  size: 41, 47
+  orig: 41, 47
+  offset: 0, 0
+  index: -1
+Group 23_12
+  rotate: false
+  xy: 749, 465
+  size: 52, 47
+  orig: 52, 47
+  offset: 0, 0
+  index: -1
+Group 23_13
+  rotate: false
+  xy: 453, 350
+  size: 42, 46
+  orig: 42, 46
+  offset: 0, 0
+  index: -1
+Group 23_14
+  rotate: false
+  xy: 362, 336
+  size: 42, 60
+  orig: 42, 60
+  offset: 0, 0
+  index: -1
+Group 23_15
+  rotate: true
+  xy: 0, 0
+  size: 39, 46
+  orig: 39, 46
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 0, 99
+  size: 168, 297
+  orig: 168, 297
+  offset: 0, 0
+  index: -1
+Layer 1893
+  rotate: false
+  xy: 0, 398
+  size: 579, 114
+  orig: 579, 114
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 170, 125
+  size: 190, 271
+  orig: 190, 271
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 581, 402
+  size: 110, 166
+  orig: 110, 166
+  offset: 0, 0
+  index: -1
+Layer 8 copy 4
+  rotate: false
+  xy: 0, 41
+  size: 54, 56
+  orig: 54, 56
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+JACKPOT EFFECT.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_0000_EFFECT_00023
+  rotate: false
+  xy: 244, 251
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0001_EFFECT_00022
+  rotate: true
+  xy: 256, 1
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0023_EFFECT_00000
+  rotate: false
+  xy: 494, 505
+  size: 1, 1
+  orig: 1, 1
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 1, 35
+  size: 254, 190
+  orig: 254, 190
+  offset: 0, 0
+  index: -1
+Levels 5 copy 6
+  rotate: false
+  xy: 1, 226
+  size: 242, 280
+  orig: 242, 280
+  offset: 0, 0
+  index: -1
+
+JACKPOT EFFECT2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_0002_EFFECT_00021
+  rotate: false
+  xy: 1, 251
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0003_EFFECT_00020
+  rotate: true
+  xy: 1, 1
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0004_EFFECT_00019
+  rotate: true
+  xy: 251, 257
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0005_EFFECT_00018
+  rotate: false
+  xy: 257, 1
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+
+JACKPOT EFFECT3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_0006_EFFECT_00017
+  rotate: false
+  xy: 1, 251
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0007_EFFECT_00016
+  rotate: true
+  xy: 1, 1
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0008_EFFECT_00015
+  rotate: true
+  xy: 251, 257
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0009_EFFECT_00014
+  rotate: false
+  xy: 257, 1
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+
+JACKPOT EFFECT4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_0010_EFFECT_00013
+  rotate: false
+  xy: 1, 251
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0011_EFFECT_00012
+  rotate: true
+  xy: 1, 1
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0012_EFFECT_00011
+  rotate: true
+  xy: 251, 257
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0013_EFFECT_00010
+  rotate: false
+  xy: 257, 1
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+
+JACKPOT EFFECT5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_0014_EFFECT_00009
+  rotate: false
+  xy: 1, 251
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0015_EFFECT_00008
+  rotate: true
+  xy: 1, 1
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0016_EFFECT_00007
+  rotate: true
+  xy: 251, 257
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0017_EFFECT_00006
+  rotate: false
+  xy: 257, 1
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+
+JACKPOT EFFECT6.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_0018_EFFECT_00005
+  rotate: false
+  xy: 1, 251
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0019_EFFECT_00004
+  rotate: true
+  xy: 1, 1
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0020_EFFECT_00003
+  rotate: true
+  xy: 251, 257
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+EFFECT_0021_EFFECT_00002
+  rotate: false
+  xy: 257, 1
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+
+JACKPOT EFFECT7.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_0022_EFFECT_00001
+  rotate: false
+  xy: 1, 198
+  size: 249, 255
+  orig: 249, 255
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 345, 60
+  size: 152, 196
+  orig: 152, 196
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 1, 1
+  size: 186, 196
+  orig: 186, 196
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 188, 1
+  size: 156, 196
+  orig: 156, 196
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 251, 257
+  size: 152, 196
+  orig: 152, 196
+  offset: 0, 0
+  index: -1
+
+JACKPOT EFFECT8.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 6
+  rotate: false
+  xy: 1, 1
+  size: 127, 196
+  orig: 127, 196
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 129, 1
+  size: 118, 196
+  orig: 118, 196
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 248, 1
+  size: 114, 196
+  orig: 114, 196
+  offset: 0, 0
+  index: -1

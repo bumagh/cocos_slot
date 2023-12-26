@@ -1,0 +1,160 @@
+
+expanda.png
+size: 1234,1114
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gau
+  rotate: false
+  xy: 882, 235
+  size: 174, 409
+  orig: 176, 411
+  offset: 1, 1
+  index: -1
+icgaube
+  rotate: false
+  xy: 1058, 242
+  size: 169, 146
+  orig: 171, 148
+  offset: 1, 1
+  index: -1
+khoi1
+  rotate: true
+  xy: 1030, 60
+  size: 173, 47
+  orig: 175, 49
+  offset: 1, 1
+  index: -1
+khoi2
+  rotate: false
+  xy: 1058, 555
+  size: 174, 89
+  orig: 176, 91
+  offset: 1, 1
+  index: -1
+la
+  rotate: false
+  xy: 1133, 153
+  size: 89, 87
+  orig: 91, 89
+  offset: 1, 1
+  index: -1
+nengau
+  rotate: false
+  xy: 2, 178
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+taichihero
+  rotate: false
+  xy: 1058, 390
+  size: 165, 163
+  orig: 167, 165
+  offset: 1, 1
+  index: -1
+wild1
+  rotate: true
+  xy: 1079, 83
+  size: 157, 52
+  orig: 159, 54
+  offset: 1, 1
+  index: -1
+wild2
+  rotate: true
+  xy: 938, 45
+  size: 188, 90
+  orig: 190, 92
+  offset: 1, 1
+  index: -1
+wxpand0003
+  rotate: true
+  xy: 2, 2
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+wxpand0005
+  rotate: false
+  xy: 178, 646
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+wxpand0007
+  rotate: false
+  xy: 178, 178
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+wxpand0009
+  rotate: false
+  xy: 354, 646
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+wxpand0011
+  rotate: false
+  xy: 354, 178
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+wxpand0013
+  rotate: true
+  xy: 470, 2
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+wxpand0015
+  rotate: false
+  xy: 530, 646
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+wxpand0017
+  rotate: false
+  xy: 530, 178
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+wxpand0019
+  rotate: false
+  xy: 706, 646
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+wxpand0021
+  rotate: false
+  xy: 706, 178
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+wxpand0023
+  rotate: false
+  xy: 882, 646
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+wxpand0025
+  rotate: false
+  xy: 1058, 646
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1
+wxpand0027
+  rotate: false
+  xy: 2, 646
+  size: 174, 466
+  orig: 176, 468
+  offset: 1, 1
+  index: -1

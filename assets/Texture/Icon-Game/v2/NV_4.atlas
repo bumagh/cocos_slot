@@ -1,0 +1,118 @@
+
+NV_4.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+canh-phai-phuong
+  rotate: false
+  xy: 384, 2
+  size: 182, 70
+  orig: 182, 70
+  offset: 0, 0
+  index: -1
+  canh-trai-phuong
+  rotate: false
+  xy: 730, 15
+  size: 108, 151
+  orig: 108, 151
+  offset: 0, 0
+  index: -1
+  dau
+  rotate: true
+  xy: 322, 215
+  size: 48, 60
+  orig: 48, 60
+  offset: 0, 0
+  index: -1
+  dau-phuong
+  rotate: true
+  xy: 840, 52
+  size: 116, 91
+  orig: 116, 91
+  offset: 0, 0
+  index: -1
+  duoi-phuong
+  rotate: false
+  xy: 572, 295
+  size: 188, 215
+  orig: 188, 215
+  offset: 0, 0
+  index: -1
+  light1
+  rotate: false
+  xy: 2, 6
+  size: 247, 193
+  orig: 247, 193
+  offset: 0, 0
+  index: -1
+  light2
+  rotate: false
+  xy: 2, 201
+  size: 318, 309
+  orig: 318, 309
+  offset: 0, 0
+  index: -1
+  tay-phai
+  rotate: true
+  xy: 384, 74
+  size: 189, 175
+  orig: 189, 175
+  offset: 0, 0
+  index: -1
+  tay-trai
+  rotate: true
+  xy: 762, 278
+  size: 61, 186
+  orig: 61, 186
+  offset: 0, 0
+  index: -1
+  than-nguoi
+  rotate: false
+  xy: 967, 455
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+  than-vay
+  rotate: false
+  xy: 322, 265
+  size: 248, 245
+  orig: 248, 245
+  offset: 0, 0
+  index: -1
+  toc
+  rotate: true
+  xy: 251, 8
+  size: 191, 131
+  orig: 191, 131
+  offset: 0, 0
+  index: -1
+  vay-1
+  rotate: true
+  xy: 572, 168
+  size: 125, 186
+  orig: 125, 186
+  offset: 0, 0
+  index: -1
+  vay-2
+  rotate: false
+  xy: 762, 341
+  size: 203, 169
+  orig: 203, 169
+  offset: 0, 0
+  index: -1
+  vay-3
+  rotate: false
+  xy: 760, 170
+  size: 166, 106
+  orig: 166, 106
+  offset: 0, 0
+  index: -1
+  vay-5
+  rotate: false
+  xy: 568, 15
+  size: 160, 151
+  orig: 160, 151
+  offset: 0, 0
+  index: -1

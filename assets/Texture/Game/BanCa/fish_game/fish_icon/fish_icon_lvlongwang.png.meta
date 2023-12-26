@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c47b26c5-423c-4409-a54e-9d69f04e3acd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 88,
+  "height": 70,
+  "platformSettings": {},
+  "subMetas": {
+    "fish_icon_lvlongwang": {
+      "ver": "1.0.4",
+      "uuid": "1a5fd2cd-e60d-489b-99aa-1ac27a6da359",
+      "rawTextureUuid": "c47b26c5-423c-4409-a54e-9d69f04e3acd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 1.5,
+      "offsetY": -2.5,
+      "trimX": 3,
+      "trimY": 9,
+      "width": 85,
+      "height": 57,
+      "rawWidth": 88,
+      "rawHeight": 70,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

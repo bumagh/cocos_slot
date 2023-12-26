@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4ec579bf-b72c-4582-bdfe-cd13069ebcdf",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 757,
+  "height": 761,
+  "platformSettings": {},
+  "subMetas": {
+    "MyriadBlack_YO-export": {
+      "ver": "1.0.4",
+      "uuid": "af515787-a78e-46d6-ab02-c4aebaf1035e",
+      "rawTextureUuid": "4ec579bf-b72c-4582-bdfe-cd13069ebcdf",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 753,
+      "height": 757,
+      "rawWidth": 757,
+      "rawHeight": 761,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

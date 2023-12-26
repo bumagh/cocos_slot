@@ -1,0 +1,45 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "xien3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 24,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -787.74,
+            -309.399,
+            0
+          ]
+        },
+        {
+          "frame": 24,
+          "value": [
+            804.658,
+            363.102,
+            0
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": -1
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 25
+        }
+      ]
+    }
+  },
+  "events": []
+}

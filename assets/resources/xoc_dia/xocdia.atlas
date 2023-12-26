@@ -1,0 +1,48 @@
+
+xocdia.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 6797
+  rotate: false
+  xy: 300, 4
+  size: 149, 111
+  orig: 149, 111
+  offset: 0, 0
+  index: -1
+Layer 6798
+  rotate: false
+  xy: 300, 117
+  size: 178, 134
+  orig: 178, 134
+  offset: 0, 0
+  index: -1
+Layer 6799
+  rotate: false
+  xy: 700, 204
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+Layer 6799 copy
+  rotate: false
+  xy: 480, 146
+  size: 33, 48
+  orig: 33, 48
+  offset: 0, 0
+  index: -1
+Layer 78 copy 2
+  rotate: false
+  xy: 2, 2
+  size: 296, 249
+  orig: 296, 249
+  offset: 0, 0
+  index: -1
+xóc đĩa
+  rotate: false
+  xy: 480, 196
+  size: 218, 55
+  orig: 218, 55
+  offset: 0, 0
+  index: -1

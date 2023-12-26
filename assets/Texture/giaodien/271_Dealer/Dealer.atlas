@@ -1,0 +1,69 @@
+
+Dealer.png
+size: 351,349
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dealer_01
+  rotate: false
+  xy: 2, 125
+  size: 212, 222
+  orig: 212, 222
+  offset: 0, 0
+  index: -1
+Dealer_02
+  rotate: true
+  xy: 270, 126
+  size: 115, 44
+  orig: 115, 44
+  offset: 0, 0
+  index: -1
+Dealer_03
+  rotate: false
+  xy: 94, 7
+  size: 113, 46
+  orig: 113, 46
+  offset: 0, 0
+  index: -1
+Dealer_04
+  rotate: false
+  xy: 94, 55
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+Dealer_05
+  rotate: false
+  xy: 2, 30
+  size: 90, 93
+  orig: 90, 93
+  offset: 0, 0
+  index: -1
+Dealer_06
+  rotate: false
+  xy: 270, 243
+  size: 75, 104
+  orig: 75, 104
+  offset: 0, 0
+  index: -1
+Dealer_07
+  rotate: true
+  xy: 198, 64
+  size: 43, 106
+  orig: 43, 106
+  offset: 0, 0
+  index: -1
+Dealer_08
+  rotate: true
+  xy: 316, 167
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+xinmoidatcuoc
+  rotate: true
+  xy: 216, 109
+  size: 238, 52
+  orig: 238, 52
+  offset: 0, 0
+  index: -1

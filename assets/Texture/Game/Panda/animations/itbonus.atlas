@@ -1,0 +1,48 @@
+
+itbonus.png
+size: 264,330
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1467170636639
+  rotate: false
+  xy: 2, 182
+  size: 169, 146
+  orig: 169, 146
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: true
+  xy: 170, 71
+  size: 100, 79
+  orig: 100, 79
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 173, 173
+  size: 89, 155
+  orig: 89, 155
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 2, 49
+  size: 166, 131
+  orig: 166, 131
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 145, 16
+  size: 28, 31
+  orig: 28, 31
+  offset: 0, 0
+  index: -1
+bonus
+  rotate: false
+  xy: 2, 2
+  size: 141, 45
+  orig: 141, 45
+  offset: 0, 0
+  index: -1

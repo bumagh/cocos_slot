@@ -1,0 +1,41 @@
+
+sanbai.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+card
+  rotate: false
+  xy: 239, 58
+  size: 59, 60
+  orig: 59, 60
+  offset: 0, 0
+  index: -1
+chip
+  rotate: false
+  xy: 2, 2
+  size: 58, 49
+  orig: 58, 49
+  offset: 0, 0
+  index: -1
+text_1
+  rotate: false
+  xy: 91, 54
+  size: 80, 64
+  orig: 80, 64
+  offset: 0, 0
+  index: -1
+text_2
+  rotate: false
+  xy: 173, 54
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+text_3
+  rotate: false
+  xy: 2, 53
+  size: 87, 65
+  orig: 87, 65
+  offset: 0, 0
+  index: -1

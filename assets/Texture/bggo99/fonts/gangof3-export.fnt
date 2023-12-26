@@ -1,0 +1,34 @@
+info face=font size=32 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=32 base=63 scaleW=84 scaleH=362 pages=1 packed=0
+page id=0 file=gangof3-export.png
+chars count=30
+char id=44 x=15 y=141 width=11 height=15 xoffset=0 yoffset=21 xadvance=11 page=0 chnl=15
+char id=66 x=55 y=68 width=23 height=31 xoffset=0 yoffset=1 xadvance=23 page=0 chnl=15
+char id=88 x=0 y=0 width=27 height=33 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=45 x=0 y=141 width=13 height=9 xoffset=0 yoffset=9 xadvance=13 page=0 chnl=15
+char id=46 x=55 y=134 width=9 height=11 xoffset=0 yoffset=19 xadvance=9 page=0 chnl=15
+char id=68 x=29 y=35 width=25 height=31 xoffset=0 yoffset=1 xadvance=25 page=0 chnl=15
+char id=47 x=128 y=106 width=13 height=41 xoffset=0 yoffset=-3 xadvance=13 page=0 chnl=15
+char id=69 x=80 y=33 width=22 height=31 xoffset=0 yoffset=1 xadvance=22 page=0 chnl=15
+char id=48 x=80 y=0 width=22 height=31 xoffset=0 yoffset=1 xadvance=22 page=0 chnl=15
+char id=49 x=56 y=0 width=22 height=31 xoffset=0 yoffset=1 xadvance=22 page=0 chnl=15
+char id=71 x=29 y=0 width=25 height=33 xoffset=0 yoffset=1 xadvance=25 page=0 chnl=15
+char id=50 x=56 y=33 width=22 height=31 xoffset=0 yoffset=1 xadvance=22 page=0 chnl=15
+char id=51 x=80 y=66 width=22 height=31 xoffset=0 yoffset=1 xadvance=22 page=0 chnl=15
+char id=52 x=80 y=99 width=22 height=31 xoffset=0 yoffset=1 xadvance=22 page=0 chnl=15
+char id=53 x=128 y=0 width=22 height=31 xoffset=0 yoffset=1 xadvance=22 page=0 chnl=15
+char id=75 x=29 y=129 width=24 height=32 xoffset=0 yoffset=0 xadvance=24 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=10 page=0 chnl=15
+char id=54 x=104 y=0 width=22 height=31 xoffset=0 yoffset=1 xadvance=22 page=0 chnl=15
+char id=55 x=104 y=33 width=22 height=31 xoffset=0 yoffset=1 xadvance=22 page=0 chnl=15
+char id=77 x=0 y=35 width=27 height=33 xoffset=0 yoffset=-1 xadvance=27 page=0 chnl=15
+char id=56 x=104 y=66 width=22 height=31 xoffset=0 yoffset=1 xadvance=22 page=0 chnl=15
+char id=78 x=29 y=96 width=24 height=31 xoffset=0 yoffset=1 xadvance=24 page=0 chnl=15
+char id=57 x=104 y=99 width=22 height=31 xoffset=0 yoffset=1 xadvance=22 page=0 chnl=15
+char id=36 x=128 y=33 width=21 height=37 xoffset=0 yoffset=-2 xadvance=21 page=0 chnl=15
+char id=120 x=0 y=106 width=27 height=33 xoffset=0 yoffset=0 xadvance=27 page=0 chnl=15
+char id=80 x=55 y=101 width=23 height=31 xoffset=0 yoffset=1 xadvance=23 page=0 chnl=15
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=300 page=0 chnl=15
+char id=84 x=128 y=72 width=21 height=32 xoffset=0 yoffset=1 xadvance=21 page=0 chnl=15
+char id=86 x=0 y=70 width=27 height=34 xoffset=0 yoffset=1 xadvance=27 page=0 chnl=15
+char id=43 x=29 y=68 width=24 height=26 xoffset=0 yoffset=6 xadvance=24 page=0 chnl=15

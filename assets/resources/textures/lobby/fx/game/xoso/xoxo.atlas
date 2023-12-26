@@ -1,0 +1,69 @@
+
+xoxo.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 6779
+  rotate: false
+  xy: 2, 2
+  size: 244, 185
+  orig: 244, 185
+  offset: 0, 0
+  index: -1
+Layer 6780
+  rotate: true
+  xy: 248, 50
+  size: 137, 197
+  orig: 137, 197
+  offset: 0, 0
+  index: -1
+Layer 6781
+  rotate: false
+  xy: 516, 375
+  size: 236, 110
+  orig: 236, 110
+  offset: 0, 0
+  index: -1
+Layer 6784
+  rotate: false
+  xy: 447, 125
+  size: 61, 62
+  orig: 61, 62
+  offset: 0, 0
+  index: -1
+Layer 6785
+  rotate: false
+  xy: 895, 417
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+Layer 6786
+  rotate: true
+  xy: 516, 132
+  size: 130, 132
+  orig: 130, 132
+  offset: 0, 0
+  index: -1
+Layer 6787
+  rotate: false
+  xy: 754, 358
+  size: 139, 127
+  orig: 139, 127
+  offset: 0, 0
+  index: -1
+Layer 6788
+  rotate: false
+  xy: 516, 264
+  size: 206, 109
+  orig: 206, 109
+  offset: 0, 0
+  index: -1
+Layer 77
+  rotate: true
+  xy: 2, 189
+  size: 296, 512
+  orig: 296, 512
+  offset: 0, 0
+  index: -1

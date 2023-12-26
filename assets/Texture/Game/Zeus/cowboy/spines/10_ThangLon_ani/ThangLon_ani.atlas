@@ -1,0 +1,40 @@
+
+ThangLon_ani.png
+size: 948,947
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l
+  rotate: false
+  xy: 1, 241
+  size: 946, 705
+  orig: 946, 705
+  offset: 0, 0
+  index: -1
+
+ThangLon_ani2.png
+size: 631,630
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 219
+  size: 629, 410
+  orig: 629, 410
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 1, 112
+  size: 535, 106
+  orig: 535, 106
+  offset: 0, 0
+  index: -1
+v
+  rotate: false
+  xy: 1, 39
+  size: 278, 72
+  orig: 278, 72
+  offset: 0, 0
+  index: -1

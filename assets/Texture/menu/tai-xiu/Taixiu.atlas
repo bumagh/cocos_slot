@@ -1,0 +1,41 @@
+
+Taixiu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dice 1
+  rotate: false
+  xy: 147, 120
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+Dice 2
+  rotate: false
+  xy: 2, 2
+  size: 104, 100
+  orig: 104, 100
+  offset: 0, 0
+  index: -1
+Flare
+  rotate: false
+  xy: 2, 104
+  size: 143, 141
+  orig: 143, 141
+  offset: 0, 0
+  index: -1
+Tài
+  rotate: false
+  xy: 271, 139
+  size: 80, 51
+  orig: 80, 51
+  offset: 0, 0
+  index: -1
+xỉu
+  rotate: false
+  xy: 271, 192
+  size: 90, 53
+  orig: 90, 53
+  offset: 0, 0
+  index: -1

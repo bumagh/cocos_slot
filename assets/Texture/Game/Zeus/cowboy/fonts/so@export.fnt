@@ -1,0 +1,20 @@
+info face=font size=32 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=70 base=63 scaleW=84 scaleH=362 pages=1 packed=0
+page id=0 file=so@export.png
+chars count=16
+char id=55 x=55 y=63 width=46 height=62 xoffset=0 yoffset=8 xadvance=42 page=0 chnl=15
+char id=77 x=0 y=0 width=75 height=62 xoffset=0 yoffset=8 xadvance=71 page=0 chnl=15
+char id=56 x=76 y=0 width=46 height=62 xoffset=0 yoffset=8 xadvance=42 page=0 chnl=15
+char id=46 x=0 y=180 width=21 height=20 xoffset=0 yoffset=50 xadvance=17 page=0 chnl=15
+char id=57 x=123 y=0 width=45 height=62 xoffset=0 yoffset=8 xadvance=41 page=0 chnl=15
+char id=48 x=102 y=63 width=46 height=62 xoffset=0 yoffset=8 xadvance=42 page=0 chnl=15
+char id=49 x=195 y=63 width=32 height=63 xoffset=0 yoffset=7 xadvance=28 page=0 chnl=15
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=120 page=0 chnl=15
+char id=50 x=169 y=0 width=42 height=62 xoffset=0 yoffset=8 xadvance=38 page=0 chnl=15
+char id=51 x=150 y=126 width=44 height=62 xoffset=0 yoffset=8 xadvance=40 page=0 chnl=15
+char id=52 x=53 y=126 width=49 height=62 xoffset=0 yoffset=8 xadvance=45 page=0 chnl=15
+char id=53 x=149 y=63 width=44 height=62 xoffset=0 yoffset=8 xadvance=40 page=0 chnl=15
+char id=75 x=0 y=63 width=54 height=62 xoffset=0 yoffset=8 xadvance=50 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=15 page=0 chnl=15
+char id=43 x=0 y=126 width=52 height=53 xoffset=0 yoffset=17 xadvance=48 page=0 chnl=15
+char id=54 x=103 y=126 width=46 height=62 xoffset=0 yoffset=8 xadvance=42 page=0 chnl=15

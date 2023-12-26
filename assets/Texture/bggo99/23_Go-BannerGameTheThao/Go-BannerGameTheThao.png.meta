@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a8f8d3d5-9a7e-402c-944e-988e8f86333f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2001,
+  "height": 380,
+  "platformSettings": {},
+  "subMetas": {
+    "Go-BannerGameTheThao": {
+      "ver": "1.0.4",
+      "uuid": "47572129-415e-4fbf-9c08-6ce7614be054",
+      "rawTextureUuid": "a8f8d3d5-9a7e-402c-944e-988e8f86333f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 1997,
+      "height": 376,
+      "rawWidth": 2001,
+      "rawHeight": 380,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

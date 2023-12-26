@@ -1,0 +1,19 @@
+info face=font size=32 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=16 base=63 scaleW=84 scaleH=362 pages=1 packed=0
+page id=0 file=IowanB_W-export.png
+chars count=15
+char id=44 x=37 y=4 width=5 height=7 xoffset=0 yoffset=13 xadvance=6 page=0 chnl=15
+char id=55 x=13 y=16 width=11 height=15 xoffset=0 yoffset=1 xadvance=12 page=0 chnl=15
+char id=56 x=13 y=0 width=11 height=15 xoffset=0 yoffset=1 xadvance=12 page=0 chnl=15
+char id=46 x=37 y=0 width=5 height=3 xoffset=0 yoffset=13 xadvance=6 page=0 chnl=15
+char id=57 x=12 y=32 width=11 height=15 xoffset=0 yoffset=1 xadvance=12 page=0 chnl=15
+char id=58 x=37 y=12 width=5 height=10 xoffset=0 yoffset=6 xadvance=6 page=0 chnl=15
+char id=48 x=24 y=32 width=11 height=15 xoffset=0 yoffset=1 xadvance=12 page=0 chnl=15
+char id=49 x=36 y=32 width=9 height=15 xoffset=0 yoffset=1 xadvance=10 page=0 chnl=15
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=180 page=0 chnl=15
+char id=50 x=0 y=0 width=12 height=15 xoffset=0 yoffset=1 xadvance=13 page=0 chnl=15
+char id=51 x=25 y=16 width=11 height=15 xoffset=0 yoffset=1 xadvance=12 page=0 chnl=15
+char id=52 x=0 y=16 width=12 height=15 xoffset=0 yoffset=1 xadvance=13 page=0 chnl=15
+char id=53 x=25 y=0 width=11 height=15 xoffset=0 yoffset=1 xadvance=12 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=6 page=0 chnl=15
+char id=54 x=0 y=32 width=11 height=15 xoffset=0 yoffset=1 xadvance=12 page=0 chnl=15

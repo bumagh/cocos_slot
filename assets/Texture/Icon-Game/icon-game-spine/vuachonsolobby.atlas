@@ -1,0 +1,97 @@
+
+vuachonsolobby.png
+size: 2048,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1701, 139
+  size: 97, 97
+  orig: 97, 97
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1701, 58
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1800, 104
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1577, 109
+  size: 122, 127
+  orig: 122, 127
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 1438, 106
+  size: 130, 137
+  orig: 130, 137
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 2, 2
+  size: 234, 354
+  orig: 234, 354
+  offset: 0, 0
+  index: -1
+bgtext
+  rotate: false
+  xy: 732, 39
+  size: 255, 197
+  orig: 255, 197
+  offset: 0, 0
+  index: -1
+chonso
+  rotate: false
+  xy: 989, 41
+  size: 210, 64
+  orig: 210, 64
+  offset: 0, 0
+  index: -1
+den1
+  rotate: false
+  xy: 989, 107
+  size: 222, 129
+  orig: 222, 129
+  offset: 0, 0
+  index: -1
+den2
+  rotate: false
+  xy: 1213, 109
+  size: 223, 127
+  orig: 223, 127
+  offset: 0, 0
+  index: -1
+sao
+  rotate: true
+  xy: 358, 39
+  size: 197, 372
+  orig: 197, 372
+  offset: 0, 0
+  index: -1
+vua
+  rotate: false
+  xy: 1800, 185
+  size: 134, 51
+  orig: 134, 51
+  offset: 0, 0
+  index: -1
+vuongmien
+  rotate: false
+  xy: 1936, 162
+  size: 84, 74
+  orig: 84, 74
+  offset: 0, 0
+  index: -1

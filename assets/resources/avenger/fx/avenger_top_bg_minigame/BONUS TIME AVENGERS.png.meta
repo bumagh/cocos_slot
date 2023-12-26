@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "415b78f6-6b5b-42af-85e4-e9d97694d628",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "BONUS TIME AVENGERS": {
+      "ver": "1.0.4",
+      "uuid": "d0974f7b-e25e-47c4-93a6-9919cf8c24e6",
+      "rawTextureUuid": "415b78f6-6b5b-42af-85e4-e9d97694d628",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -28,
+      "offsetY": 0.5,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 198,
+      "height": 253,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

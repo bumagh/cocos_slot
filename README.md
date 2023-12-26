@@ -1,2 +1,2 @@
-# cocos_slot
-cocos_slot
+# cocos slot
+cocos slot

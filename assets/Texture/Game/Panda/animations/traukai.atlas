@@ -1,0 +1,20 @@
+
+traukai.png
+size: 485,360
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+KaiistheCollectorfromKungFuPanda3
+  rotate: false
+  xy: 2, 24
+  size: 304, 334
+  orig: 304, 334
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 308, 2
+  size: 175, 356
+  orig: 175, 356
+  offset: 0, 0
+  index: -1

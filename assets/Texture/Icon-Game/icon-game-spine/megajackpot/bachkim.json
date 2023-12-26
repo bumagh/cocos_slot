@@ -1,0 +1,146 @@
+{
+"skeleton": {
+	"hash": "kYX8L6XyUsThqxPhARHv32VlqmE",
+	"spine": "3.6.53",
+	"width": 257,
+	"height": 257,
+	"images": "C:/Users/MyPC/Desktop/HUTOP/lobby/anim/hurong/images"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "scaleX": 1.1, "scaleY": 1.1 },
+	{ "name": "2", "parent": "bone" },
+	{ "name": "bachkim", "parent": "root", "x": -5.03, "y": -26 },
+	{ "name": "light2", "parent": "bone", "x": -0.89, "y": 20.23 }
+],
+"slots": [
+	{ "name": "BG2", "bone": "bone", "attachment": "BG2" },
+	{ "name": "2", "bone": "2", "attachment": "2" },
+	{ "name": "light2", "bone": "light2", "attachment": "light2" },
+	{ "name": "hu2", "bone": "bone", "attachment": "hu2" },
+	{ "name": "khung2", "bone": "root", "attachment": "khung2" },
+	{ "name": "bachkim", "bone": "bachkim", "attachment": "bachkim" }
+],
+"skins": {
+	"default": {
+		"2": {
+			"2": { "width": 220, "height": 212 }
+		},
+		"BG2": {
+			"BG2": { "width": 133, "height": 131 }
+		},
+		"bachkim": {
+			"bachkim": { "x": 1.53, "width": 108, "height": 29 }
+		},
+		"hu2": {
+			"hu2": { "x": -0.5, "y": 10, "width": 136, "height": 79 }
+		},
+		"khung2": {
+			"khung2": { "x": -4, "y": -52, "width": 165, "height": 49 }
+		},
+		"light2": {
+			"light2": { "x": -2.11, "y": -16.23, "width": 257, "height": 257 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": -120 },
+					{ "time": 1, "angle": 120 },
+					{ "time": 1.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.5, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.5, "x": 1, "y": 1 }
+				]
+			},
+			"bachkim": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.7667, "angle": 0, "curve": "stepped" },
+					{ "time": 1.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.7667, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.5, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 1.048,
+						"y": 1.048,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1333,
+						"x": 1.048,
+						"y": 1.048,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "x": 1, "y": 1 }
+				]
+			},
+			"light2": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.7667, "angle": 0, "curve": "stepped" },
+					{ "time": 1.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.7667, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.5, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 1.05,
+						"y": 1.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1333,
+						"x": 1.05,
+						"y": 1.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

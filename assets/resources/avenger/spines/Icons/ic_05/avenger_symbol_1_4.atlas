@@ -1,0 +1,69 @@
+
+avenger_symbol_1_4.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BACK
+  rotate: false
+  xy: 178, 96
+  size: 133, 158
+  orig: 133, 158
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: true
+  xy: 400, 118
+  size: 136, 83
+  orig: 136, 83
+  offset: 0, 0
+  index: -1
+BORDER
+  rotate: false
+  xy: 2, 80
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+HAIR_1
+  rotate: true
+  xy: 195, 36
+  size: 58, 102
+  orig: 58, 102
+  offset: 0, 0
+  index: -1
+HAIR_2
+  rotate: false
+  xy: 313, 12
+  size: 101, 103
+  orig: 101, 103
+  offset: 0, 0
+  index: -1
+HAIR_BACK1
+  rotate: true
+  xy: 110, 14
+  size: 64, 83
+  orig: 64, 83
+  offset: 0, 0
+  index: -1
+HAIR_BACK_2
+  rotate: true
+  xy: 2, 2
+  size: 76, 106
+  orig: 76, 106
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 313, 117
+  size: 85, 137
+  orig: 85, 137
+  offset: 0, 0
+  index: -1
+NECK
+  rotate: false
+  xy: 416, 57
+  size: 61, 59
+  orig: 61, 59
+  offset: 0, 0
+  index: -1

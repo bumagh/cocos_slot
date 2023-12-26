@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "1adb9f59-62fa-4959-a12d-2a2c6945a42e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 48,
+  "height": 38,
+  "platformSettings": {},
+  "subMetas": {
+    "fish_game_menu_btn_yuZhong": {
+      "ver": "1.0.4",
+      "uuid": "1a0996eb-96cf-47ad-8c4c-3cb6e56502db",
+      "rawTextureUuid": "1adb9f59-62fa-4959-a12d-2a2c6945a42e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 47,
+      "height": 38,
+      "rawWidth": 48,
+      "rawHeight": 38,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c9a925f8-c1c3-4769-b12a-96e89ee84423",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1024,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "zeusfrontlobby": {
+      "ver": "1.0.4",
+      "uuid": "c856146f-dfab-4f23-97ac-ed86bf6202c0",
+      "rawTextureUuid": "c9a925f8-c1c3-4769-b12a-96e89ee84423",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -2.5,
+      "offsetY": 9.5,
+      "trimX": 2,
+      "trimY": 3,
+      "width": 1015,
+      "height": 487,
+      "rawWidth": 1024,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

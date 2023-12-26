@@ -1,0 +1,48 @@
+
+phong1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 5
+  rotate: false
+  xy: 330, 462
+  size: 227, 60
+  orig: 227, 60
+  offset: 0, 0
+  index: -1
+Layer 588
+  rotate: false
+  xy: 2, 128
+  size: 171, 120
+  orig: 171, 120
+  offset: 0, 0
+  index: -1
+Layer 589
+  rotate: false
+  xy: 2, 487
+  size: 326, 235
+  orig: 326, 235
+  offset: 0, 0
+  index: -1
+ca
+  rotate: false
+  xy: 330, 524
+  size: 320, 198
+  orig: 320, 198
+  offset: 0, 0
+  index: -1
+ca 1
+  rotate: false
+  xy: 2, 250
+  size: 326, 235
+  orig: 326, 235
+  offset: 0, 0
+  index: -1
+vay 1
+  rotate: false
+  xy: 652, 626
+  size: 72, 96
+  orig: 72, 96
+  offset: 0, 0
+  index: -1

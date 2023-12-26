@@ -1,0 +1,48 @@
+
+Icon1.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+4.BomTan/Xe dien/minigame/Icon1/banhxe
+  rotate: false
+  xy: 274, 70
+  size: 123, 46
+  orig: 123, 46
+  offset: 0, 0
+  index: -1
+4.BomTan/Xe dien/minigame/Icon1/den
+  rotate: false
+  xy: 399, 101
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+4.BomTan/Xe dien/minigame/Icon1/mom
+  rotate: false
+  xy: 274, 26
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+4.BomTan/Xe dien/minigame/Icon1/nhaymat
+  rotate: false
+  xy: 274, 51
+  size: 60, 17
+  orig: 60, 17
+  offset: 0, 0
+  index: -1
+4.BomTan/Xe dien/minigame/Icon1/than
+  rotate: false
+  xy: 2, 2
+  size: 134, 114
+  orig: 134, 114
+  offset: 0, 0
+  index: -1
+4.BomTan/Xe dien/minigame/Icon1/trongmat
+  rotate: false
+  xy: 138, 2
+  size: 134, 114
+  orig: 134, 114
+  offset: 0, 0
+  index: -1

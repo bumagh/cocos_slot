@@ -1,0 +1,20 @@
+
+btn_vip.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+btn_vip
+  rotate: false
+  xy: 2, 2
+  size: 93, 91
+  orig: 93, 91
+  offset: 0, 0
+  index: -1
+star222
+  rotate: false
+  xy: 2, 95
+  size: 128, 128
+  orig: 128, 128
+  offset: 0, 0
+  index: -1

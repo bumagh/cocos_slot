@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "020ca852-482a-4512-a2df-b3ec24122ce8",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "CAPTAIN MARVEL4": {
+      "ver": "1.0.4",
+      "uuid": "09e34149-4b0c-43b2-9e66-7370bb892528",
+      "rawTextureUuid": "020ca852-482a-4512-a2df-b3ec24122ce8",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": 11.5,
+      "trimX": 6,
+      "trimY": 11,
+      "width": 494,
+      "height": 467,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

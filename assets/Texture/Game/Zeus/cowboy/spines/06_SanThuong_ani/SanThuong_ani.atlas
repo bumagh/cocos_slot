@@ -1,0 +1,47 @@
+
+SanThuong_ani.png
+size: 948,947
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l
+  rotate: false
+  xy: 1, 241
+  size: 946, 705
+  orig: 946, 705
+  offset: 0, 0
+  index: -1
+
+SanThuong_ani2.png
+size: 700,700
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 261
+  size: 625, 438
+  orig: 625, 438
+  offset: 0, 0
+  index: -1
+cr
+  rotate: false
+  xy: 1, 1
+  size: 163, 74
+  orig: 163, 74
+  offset: 0, 0
+  index: -1
+gg
+  rotate: true
+  xy: 496, 15
+  size: 245, 172
+  orig: 245, 172
+  offset: 0, 0
+  index: -1
+text_STh
+  rotate: false
+  xy: 1, 76
+  size: 494, 184
+  orig: 494, 184
+  offset: 0, 0
+  index: -1

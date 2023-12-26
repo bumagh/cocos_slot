@@ -1,0 +1,95 @@
+{
+"skeleton": { "hash": "QoMFjxnOOokTwSq5/M7k6EW4InM", "spine": "3.6.53", "width": 155.61, "height": 131 },
+"bones": [
+	{ "name": "root" },
+	{ "name": "gold", "parent": "root", "length": 44.49, "rotation": 100.81, "x": 53.41, "y": -56.33 },
+	{ "name": "jackpot", "parent": "root", "length": 69.77, "rotation": 2.02, "x": -38.9, "y": -47.5 },
+	{ "name": "xe", "parent": "root", "length": 97.02, "rotation": 30.07, "x": -47.24, "y": -2.82 }
+],
+"slots": [
+	{ "name": "xe", "bone": "xe", "attachment": "xe" },
+	{ "name": "gold", "bone": "gold", "attachment": "gold" },
+	{ "name": "jackpot", "bone": "jackpot", "attachment": "jackpot" }
+],
+"skins": {
+	"default": {
+		"gold": {
+			"gold": { "x": 19.83, "y": 5.56, "rotation": -100.81, "width": 64, "height": 52 }
+		},
+		"jackpot": {
+			"jackpot": { "x": 32.05, "y": -0.59, "rotation": -2.02, "width": 130, "height": 33 }
+		},
+		"xe": {
+			"xe": { "x": 38.97, "y": -21.23, "rotation": -30.07, "width": 153, "height": 131 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			},
+			"xe": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.5, "x": 10.13, "y": 5.87 },
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.5, "x": 0.962, "y": 0.962 },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			},
+			"jackpot": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.3333, "angle": 3.43 },
+					{ "time": 0.6667, "angle": -3.06 },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 },
+					{ "time": 0.3333, "x": -0.23, "y": 6.43, "curve": "stepped" },
+					{ "time": 0.6667, "x": -0.23, "y": 6.43 },
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			},
+			"gold": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 1, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

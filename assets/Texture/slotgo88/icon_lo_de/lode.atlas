@@ -1,0 +1,132 @@
+
+lode.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CHIP1
+  rotate: false
+  xy: 950, 399
+  size: 56, 40
+  orig: 56, 40
+  offset: 0, 0
+  index: -1
+Layer 723
+  rotate: false
+  xy: 2, 106
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 273, 132
+  size: 237, 375
+  orig: 237, 375
+  offset: 0, 0
+  index: -1
+bingo1
+  rotate: false
+  xy: 846, 276
+  size: 57, 52
+  orig: 57, 52
+  offset: 0, 0
+  index: -1
+bingo2
+  rotate: false
+  xy: 950, 441
+  size: 65, 66
+  orig: 65, 66
+  offset: 0, 0
+  index: -1
+cha
+  rotate: false
+  xy: 512, 289
+  size: 172, 218
+  orig: 172, 218
+  offset: 0, 0
+  index: -1
+chip 2
+  rotate: true
+  xy: 913, 357
+  size: 38, 31
+  orig: 38, 31
+  offset: 0, 0
+  index: -1
+crow
+  rotate: false
+  xy: 148, 46
+  size: 69, 58
+  orig: 69, 58
+  offset: 0, 0
+  index: -1
+ligh2
+  rotate: false
+  xy: 846, 330
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 846, 330
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 846, 330
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+light3
+  rotate: true
+  xy: 512, 148
+  size: 139, 164
+  orig: 139, 164
+  offset: 0, 0
+  index: -1
+sx 1
+  rotate: false
+  xy: 2, 50
+  size: 144, 54
+  orig: 144, 54
+  offset: 0, 0
+  index: -1
+sx 2
+  rotate: false
+  xy: 2, 2
+  size: 46, 46
+  orig: 46, 46
+  offset: 0, 0
+  index: -1
+sx 3
+  rotate: false
+  xy: 219, 70
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+sx 4
+  rotate: false
+  xy: 50, 14
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+sx3
+  rotate: false
+  xy: 686, 267
+  size: 158, 128
+  orig: 158, 128
+  offset: 0, 0
+  index: -1
+text
+  rotate: false
+  xy: 686, 397
+  size: 262, 110
+  orig: 262, 110
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4b623763-9234-458b-beb0-89a13b0dcf0d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 62,
+  "height": 58,
+  "platformSettings": {},
+  "subMetas": {
+    "fish_game_conCost": {
+      "ver": "1.0.4",
+      "uuid": "e0c16e9a-dba2-4f3f-aac2-922f7fb005f7",
+      "rawTextureUuid": "4b623763-9234-458b-beb0-89a13b0dcf0d",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -1,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 60,
+      "height": 56,
+      "rawWidth": 62,
+      "rawHeight": 58,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

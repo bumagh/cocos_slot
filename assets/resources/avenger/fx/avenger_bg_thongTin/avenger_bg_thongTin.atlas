@@ -1,0 +1,13 @@
+
+WIN MONEY SLOT AVENGERS.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT
+  rotate: false
+  xy: 2, 2
+  size: 362, 85
+  orig: 362, 85
+  offset: 0, 0
+  index: -1

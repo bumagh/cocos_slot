@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "046bfd61-33bc-4e9f-afa2-a8417afbdb3f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 159,
+  "height": 287,
+  "platformSettings": {},
+  "subMetas": {
+    "THOR ANIM7": {
+      "ver": "1.0.4",
+      "uuid": "5b4763e4-b29f-467a-b2e9-d009cf55c5f8",
+      "rawTextureUuid": "046bfd61-33bc-4e9f-afa2-a8417afbdb3f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0.5,
+      "offsetY": 0,
+      "trimX": 4,
+      "trimY": 3,
+      "width": 152,
+      "height": 281,
+      "rawWidth": 159,
+      "rawHeight": 287,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "39b3ca65-e5a7-49d1-9b9b-04957c05ca1c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 126,
+  "height": 51,
+  "platformSettings": {},
+  "subMetas": {
+    "daythua-btn": {
+      "ver": "1.0.4",
+      "uuid": "86d71607-e01c-48db-b06c-fc105eb0dead",
+      "rawTextureUuid": "39b3ca65-e5a7-49d1-9b9b-04957c05ca1c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 126,
+      "height": 51,
+      "rawWidth": 126,
+      "rawHeight": 51,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

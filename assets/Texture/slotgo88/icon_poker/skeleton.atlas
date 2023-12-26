@@ -1,0 +1,153 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+xi dach
+  rotate: false
+  xy: 2, 798
+  size: 192, 199
+  orig: 192, 199
+  offset: 0, 0
+  index: -1
+xi dach_00000
+  rotate: false
+  xy: 2, 599
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00001
+  rotate: false
+  xy: 196, 800
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00002
+  rotate: false
+  xy: 2, 400
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00003
+  rotate: false
+  xy: 196, 601
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00004
+  rotate: false
+  xy: 390, 800
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00005
+  rotate: false
+  xy: 2, 201
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00006
+  rotate: false
+  xy: 196, 402
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00007
+  rotate: false
+  xy: 390, 601
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00008
+  rotate: false
+  xy: 584, 800
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00009
+  rotate: false
+  xy: 2, 2
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00010
+  rotate: false
+  xy: 196, 203
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00011
+  rotate: false
+  xy: 390, 402
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00012
+  rotate: false
+  xy: 584, 601
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00013
+  rotate: false
+  xy: 778, 800
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00014
+  rotate: false
+  xy: 196, 4
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00015
+  rotate: false
+  xy: 390, 203
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00016
+  rotate: false
+  xy: 584, 402
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00017
+  rotate: false
+  xy: 778, 601
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00018
+  rotate: false
+  xy: 390, 4
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1
+xi dach_00019
+  rotate: false
+  xy: 584, 203
+  size: 192, 197
+  orig: 192, 197
+  offset: 0, 0
+  index: -1

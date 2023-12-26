@@ -1,0 +1,96 @@
+
+FREE IRONMAN EFFECT 1280x 720.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E
+  rotate: false
+  xy: 717, 430
+  size: 214, 285
+  orig: 214, 285
+  offset: 0, 0
+  index: -1
+E2
+  rotate: false
+  xy: 375, 137
+  size: 187, 285
+  orig: 187, 285
+  offset: 0, 0
+  index: -1
+EYE LIGHT L
+  rotate: false
+  xy: 564, 8
+  size: 180, 133
+  orig: 180, 133
+  offset: 0, 0
+  index: -1
+EYE LIGHT R
+  rotate: false
+  xy: 375, 2
+  size: 181, 133
+  orig: 181, 133
+  offset: 0, 0
+  index: -1
+F
+  rotate: false
+  xy: 430, 430
+  size: 285, 285
+  orig: 285, 285
+  offset: 0, 0
+  index: -1
+HELMET BACK
+  rotate: false
+  xy: 2, 424
+  size: 426, 578
+  orig: 426, 578
+  offset: 0, 0
+  index: -1
+HELMET MASK
+  rotate: false
+  xy: 2, 8
+  size: 371, 414
+  orig: 371, 414
+  offset: 0, 0
+  index: -1
+I
+  rotate: false
+  xy: 769, 143
+  size: 189, 285
+  orig: 189, 285
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 430, 717
+  size: 299, 285
+  orig: 299, 285
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 564, 143
+  size: 203, 285
+  orig: 203, 285
+  offset: 0, 0
+  index: -1
+R
+  rotate: false
+  xy: 731, 717
+  size: 275, 285
+  orig: 275, 285
+  offset: 0, 0
+  index: -1
+
+FREE IRONMAN EFFECT 1280x 7202.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+S
+  rotate: true
+  xy: 2, 2
+  size: 190, 285
+  orig: 190, 285
+  offset: 0, 0
+  index: -1

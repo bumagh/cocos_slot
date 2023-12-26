@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NgocDo
+  rotate: true
+  xy: 1444, 205
+  size: 606, 534
+  orig: 606, 534
+  offset: 0, 0
+  index: -1
+RubyDo
+  rotate: false
+  xy: 2, 2
+  size: 387, 87
+  orig: 387, 87
+  offset: 0, 0
+  index: -1
+SetDo
+  rotate: false
+  xy: 2, 91
+  size: 1440, 720
+  orig: 1440, 720
+  offset: 0, 0
+  index: -1

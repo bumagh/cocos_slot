@@ -1,0 +1,48 @@
+
+bigba.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 117
+  rotate: false
+  xy: 463, 164
+  size: 172, 87
+  orig: 172, 87
+  offset: 0, 0
+  index: -1
+Layer 119
+  rotate: false
+  xy: 300, 137
+  size: 161, 114
+  orig: 161, 114
+  offset: 0, 0
+  index: -1
+Layer 120
+  rotate: false
+  xy: 300, 33
+  size: 125, 102
+  orig: 125, 102
+  offset: 0, 0
+  index: -1
+Layer 121
+  rotate: true
+  xy: 637, 166
+  size: 85, 88
+  orig: 85, 88
+  offset: 0, 0
+  index: -1
+Layer 122
+  rotate: false
+  xy: 727, 170
+  size: 91, 81
+  orig: 91, 81
+  offset: 0, 0
+  index: -1
+Layer 78
+  rotate: false
+  xy: 2, 2
+  size: 296, 249
+  orig: 296, 249
+  offset: 0, 0
+  index: -1

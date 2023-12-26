@@ -1,0 +1,55 @@
+
+xo-so.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 72
+  size: 179, 179
+  orig: 179, 179
+  offset: 0, 0
+  index: -1
+Layer 36
+  rotate: false
+  xy: 271, 2
+  size: 126, 91
+  orig: 126, 91
+  offset: 0, 0
+  index: -1
+Layer 485 copy
+  rotate: true
+  xy: 338, 139
+  size: 112, 90
+  orig: 112, 90
+  offset: 0, 0
+  index: -1
+Xóc Đĩa
+  rotate: false
+  xy: 2, 2
+  size: 178, 68
+  orig: 178, 68
+  offset: 0, 0
+  index: -1
+dia
+  rotate: true
+  xy: 183, 95
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+light copy
+  rotate: false
+  xy: 182, 3
+  size: 87, 67
+  orig: 87, 67
+  offset: 0, 0
+  index: -1
+xx
+  rotate: false
+  xy: 399, 48
+  size: 108, 89
+  orig: 108, 89
+  offset: 0, 0
+  index: -1

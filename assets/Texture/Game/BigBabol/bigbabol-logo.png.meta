@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4726b0f2-6a8d-431f-96c1-ff5217fcff95",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 330,
+  "height": 109,
+  "platformSettings": {},
+  "subMetas": {
+    "bigbabol-logo": {
+      "ver": "1.0.4",
+      "uuid": "cf20a553-d998-40f5-8740-2a1f72c2d1e3",
+      "rawTextureUuid": "4726b0f2-6a8d-431f-96c1-ff5217fcff95",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 330,
+      "height": 109,
+      "rawWidth": 330,
+      "rawHeight": 109,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

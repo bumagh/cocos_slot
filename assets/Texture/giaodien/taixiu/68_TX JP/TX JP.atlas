@@ -1,0 +1,90 @@
+
+TX JP.png
+size: 1904,722
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dau rong
+  rotate: true
+  xy: 729, 13
+  size: 182, 160
+  orig: 182, 160
+  offset: 0, 0
+  index: -1
+effect mat
+  rotate: true
+  xy: 381, 32
+  size: 64, 29
+  orig: 64, 29
+  offset: 0, 0
+  index: -1
+explore 2
+  rotate: false
+  xy: 2, 100
+  size: 723, 620
+  orig: 723, 620
+  offset: 0, 0
+  index: -1
+explore 3
+  rotate: true
+  xy: 974, 207
+  size: 513, 488
+  orig: 513, 488
+  offset: 0, 0
+  index: -1
+fireball
+  rotate: false
+  xy: 729, 199
+  size: 241, 521
+  orig: 241, 521
+  offset: 0, 0
+  index: -1
+gold
+  rotate: true
+  xy: 1206, 57
+  size: 146, 101
+  orig: 146, 101
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: false
+  xy: 414, 42
+  size: 294, 54
+  orig: 294, 54
+  offset: 0, 0
+  index: -1
+light JP
+  rotate: false
+  xy: 1466, 2
+  size: 396, 396
+  orig: 396, 396
+  offset: 0, 0
+  index: -1
+rong
+  rotate: false
+  xy: 2, 12
+  size: 300, 84
+  orig: 300, 84
+  offset: 0, 0
+  index: -1
+rong effect
+  rotate: false
+  xy: 893, 22
+  size: 309, 173
+  orig: 309, 173
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 306, 25
+  size: 71, 71
+  orig: 71, 71
+  offset: 0, 0
+  index: -1
+xiNgau1@3x copy 2
+  rotate: false
+  xy: 1466, 402
+  size: 436, 318
+  orig: 436, 318
+  offset: 0, 0
+  index: -1

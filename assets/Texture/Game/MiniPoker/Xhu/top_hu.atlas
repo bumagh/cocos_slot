@@ -1,0 +1,48 @@
+
+top_hu.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+LIGHT
+  rotate: false
+  xy: 112, 2
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: true
+  xy: 478, 81
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+TOP HŨ
+  rotate: false
+  xy: 112, 69
+  size: 150, 51
+  orig: 150, 51
+  offset: 0, 0
+  index: -1
+bbg
+  rotate: false
+  xy: 2, 26
+  size: 108, 94
+  orig: 108, 94
+  offset: 0, 0
+  index: -1
+quangsang_nohu
+  rotate: false
+  xy: 375, 19
+  size: 101, 101
+  orig: 101, 101
+  offset: 0, 0
+  index: -1
+vup
+  rotate: false
+  xy: 264, 36
+  size: 109, 84
+  orig: 109, 84
+  offset: 0, 0
+  index: -1

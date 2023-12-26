@@ -1,0 +1,14 @@
+{"file":"fish_hall_wdhd.png","frames":{
+"倍":{"x":1,"y":1,"w":32,"h":33,"offX":0,"offY":0,"sourceW":32,"sourceH":34},
+"~":{"x":86,"y":116,"w":13,"h":6,"offX":6,"offY":14,"sourceW":24,"sourceH":34},
+"0":{"x":65,"y":78,"w":20,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"1":{"x":32,"y":115,"w":13,"h":26,"offX":5,"offY":4,"sourceW":24,"sourceH":34},
+"2":{"x":97,"y":78,"w":19,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"3":{"x":77,"y":40,"w":20,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"4":{"x":45,"y":1,"w":21,"h":26,"offX":1,"offY":4,"sourceW":24,"sourceH":34},
+"5":{"x":1,"y":84,"w":19,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"6":{"x":1,"y":46,"w":20,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"7":{"x":45,"y":39,"w":20,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"8":{"x":33,"y":77,"w":20,"h":26,"offX":2,"offY":4,"sourceW":24,"sourceH":34},
+"9":{"x":78,"y":1,"w":20,"h":27,"offX":2,"offY":3,"sourceW":24,"sourceH":34},
+"X":{"x":57,"y":116,"w":17,"h":19,"offX":3,"offY":8,"sourceW":24,"sourceH":34}}}

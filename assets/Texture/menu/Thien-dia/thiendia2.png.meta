@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a15ef406-1c67-4332-a951-ccc77f0203af",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 197,
+  "height": 197,
+  "platformSettings": {},
+  "subMetas": {
+    "thiendia2": {
+      "ver": "1.0.4",
+      "uuid": "80f1090b-1e8f-4814-b8af-bd825b59f084",
+      "rawTextureUuid": "a15ef406-1c67-4332-a951-ccc77f0203af",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 197,
+      "height": 197,
+      "rawWidth": 197,
+      "rawHeight": 197,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

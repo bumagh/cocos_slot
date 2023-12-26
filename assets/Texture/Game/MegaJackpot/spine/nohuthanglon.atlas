@@ -1,0 +1,97 @@
+
+nohuthanglon.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backtext
+  rotate: false
+  xy: 2, 765
+  size: 980, 250
+  orig: 980, 250
+  offset: 0, 0
+  index: -1
+backtext1
+  rotate: false
+  xy: 2, 1017
+  size: 980, 302
+  orig: 980, 302
+  offset: 0, 0
+  index: -1
+hu
+  rotate: false
+  xy: 1178, 957
+  size: 576, 405
+  orig: 576, 405
+  offset: 0, 0
+  index: -1
+nohu
+  rotate: false
+  xy: 2, 2
+  size: 521, 151
+  orig: 521, 151
+  offset: 0, 0
+  index: -1
+rong
+  rotate: false
+  xy: 2, 155
+  size: 605, 608
+  orig: 605, 608
+  offset: 0, 0
+  index: -1
+sao1
+  rotate: false
+  xy: 1103, 71
+  size: 339, 211
+  orig: 339, 211
+  offset: 0, 0
+  index: -1
+sao2
+  rotate: false
+  xy: 1456, 117
+  size: 336, 211
+  orig: 336, 211
+  offset: 0, 0
+  index: -1
+set1
+  rotate: false
+  xy: 609, 125
+  size: 492, 638
+  orig: 492, 638
+  offset: 0, 0
+  index: -1
+set2
+  rotate: false
+  xy: 1456, 330
+  size: 345, 625
+  orig: 345, 625
+  offset: 0, 0
+  index: -1
+set3
+  rotate: false
+  xy: 1103, 284
+  size: 351, 671
+  orig: 351, 671
+  offset: 0, 0
+  index: -1
+thanglon
+  rotate: true
+  xy: 1793, 1218
+  size: 764, 143
+  orig: 764, 143
+  offset: 0, 0
+  index: -1
+tim
+  rotate: false
+  xy: 2, 1321
+  size: 1174, 661
+  orig: 1174, 661
+  offset: 0, 0
+  index: -1
+xoay
+  rotate: false
+  xy: 1178, 1364
+  size: 613, 618
+  orig: 613, 618
+  offset: 0, 0
+  index: -1

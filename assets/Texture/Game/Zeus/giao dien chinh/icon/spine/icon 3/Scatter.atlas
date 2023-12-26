@@ -1,0 +1,83 @@
+
+Scatter.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 10
+  rotate: false
+  xy: 302, 2
+  size: 112, 107
+  orig: 112, 107
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 443, 67
+  size: 114, 111
+  orig: 114, 111
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 880, 140
+  size: 114, 114
+  orig: 114, 114
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 159, 103
+  size: 141, 151
+  orig: 141, 151
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 94
+  size: 155, 160
+  orig: 155, 160
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 302, 111
+  size: 139, 143
+  orig: 139, 143
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 646, 120
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 443, 180
+  size: 201, 74
+  orig: 201, 74
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 782, 122
+  size: 96, 132
+  orig: 96, 132
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 2, 2
+  size: 90, 102
+  orig: 90, 102
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 880, 35
+  size: 104, 103
+  orig: 104, 103
+  offset: 0, 0
+  index: -1

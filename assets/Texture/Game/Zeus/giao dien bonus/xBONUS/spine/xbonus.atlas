@@ -1,0 +1,125 @@
+
+xbonus.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 910, 246
+  size: 250, 249
+  orig: 250, 249
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 605, 87
+  size: 184, 156
+  orig: 184, 156
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: true
+  xy: 791, 74
+  size: 169, 143
+  orig: 169, 143
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 1162, 192
+  size: 157, 142
+  orig: 157, 142
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 1321, 197
+  size: 132, 137
+  orig: 132, 137
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 936, 102
+  size: 161, 142
+  orig: 161, 142
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 1455, 200
+  size: 134, 134
+  orig: 134, 134
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 1591, 199
+  size: 136, 132
+  orig: 136, 132
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: false
+  xy: 2, 93
+  size: 402, 402
+  orig: 402, 402
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 406, 245
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 658, 245
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 2, 2
+  size: 89, 146
+  orig: 89, 146
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 406, 74
+  size: 197, 169
+  orig: 197, 169
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 1632, 333
+  size: 219, 162
+  orig: 219, 162
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 1853, 336
+  size: 181, 159
+  orig: 181, 159
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 1162, 336
+  size: 241, 159
+  orig: 241, 159
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: false
+  xy: 1405, 336
+  size: 225, 159
+  orig: 225, 159
+  offset: 0, 0
+  index: -1

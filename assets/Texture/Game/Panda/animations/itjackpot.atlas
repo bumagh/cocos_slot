@@ -1,0 +1,34 @@
+
+itjackpot.png
+size: 560,173
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+JAcKPOT copy
+  rotate: true
+  xy: 506, 2
+  size: 169, 52
+  orig: 169, 52
+  offset: 0, 0
+  index: -1
+as
+  rotate: false
+  xy: 2, 4
+  size: 194, 167
+  orig: 194, 167
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 358, 2
+  size: 169, 146
+  orig: 169, 146
+  offset: 0, 0
+  index: -1
+gg
+  rotate: true
+  xy: 198, 2
+  size: 169, 158
+  orig: 169, 158
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "054f2f09-cea4-4992-bf62-ab0b17b38a0d",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 2048,
+  "height": 2048,
+  "platformSettings": {},
+  "subMetas": {
+    "avenger_jackpot": {
+      "ver": "1.0.4",
+      "uuid": "3eb68beb-4fb6-49c4-915c-5fec01aea3a1",
+      "rawTextureUuid": "054f2f09-cea4-4992-bf62-ab0b17b38a0d",
+      "trimType": "custom",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 2048,
+      "height": 2048,
+      "rawWidth": 2048,
+      "rawHeight": 2048,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

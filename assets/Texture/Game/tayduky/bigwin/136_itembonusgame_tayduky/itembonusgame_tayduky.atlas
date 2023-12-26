@@ -1,0 +1,335 @@
+
+itembonusgame_tayduky.png
+size: 729,729
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Itembonus101
+  rotate: true
+  xy: 580, 133
+  size: 45, 54
+  orig: 45, 55
+  offset: 0, 1
+  index: -1
+Itembonus102
+  rotate: true
+  xy: 171, 98
+  size: 9, 89
+  orig: 10, 89
+  offset: 0, 0
+  index: -1
+Itembonus103
+  rotate: false
+  xy: 697, 371
+  size: 11, 90
+  orig: 12, 91
+  offset: 0, 1
+  index: -1
+Itembonus104
+  rotate: false
+  xy: 517, 200
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+Itembonus105
+  rotate: false
+  xy: 637, 209
+  size: 87, 47
+  orig: 87, 48
+  offset: 0, 1
+  index: -1
+Itembonus106
+  rotate: false
+  xy: 214, 564
+  size: 209, 163
+  orig: 210, 164
+  offset: 0, 1
+  index: -1
+Itembonus107
+  rotate: false
+  xy: 171, 221
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+Itembonus108
+  rotate: false
+  xy: 171, 109
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+Itembonus109
+  rotate: false
+  xy: 292, 400
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+Itembonus110
+  rotate: false
+  xy: 292, 288
+  size: 110, 110
+  orig: 110, 110
+  offset: 0, 0
+  index: -1
+baoliendang1
+  rotate: true
+  xy: 588, 519
+  size: 91, 139
+  orig: 92, 140
+  offset: 0, 1
+  index: -1
+baoliendang10
+  rotate: false
+  xy: 404, 495
+  size: 13, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+baoliendang2
+  rotate: false
+  xy: 214, 512
+  size: 211, 50
+  orig: 212, 50
+  offset: 0, 0
+  index: -1
+baoliendang3
+  rotate: true
+  xy: 694, 118
+  size: 48, 18
+  orig: 49, 18
+  offset: 0, 0
+  index: -1
+baoliendang4
+  rotate: true
+  xy: 599, 180
+  size: 46, 36
+  orig: 47, 37
+  offset: 0, 1
+  index: -1
+baoliendang5
+  rotate: false
+  xy: 636, 117
+  size: 56, 49
+  orig: 57, 50
+  offset: 0, 1
+  index: -1
+baoliendang6
+  rotate: true
+  xy: 137, 34
+  size: 33, 32
+  orig: 33, 32
+  offset: 0, 0
+  index: -1
+baoliendang7
+  rotate: false
+  xy: 588, 463
+  size: 139, 54
+  orig: 140, 54
+  offset: 0, 0
+  index: -1
+baoliendang8
+  rotate: true
+  xy: 599, 228
+  size: 52, 36
+  orig: 52, 36
+  offset: 0, 0
+  index: -1
+baoliendang9
+  rotate: false
+  xy: 573, 93
+  size: 45, 38
+  orig: 46, 39
+  offset: 0, 1
+  index: -1
+binhtiendon1
+  rotate: false
+  xy: 402, 106
+  size: 95, 99
+  orig: 95, 100
+  offset: 0, 1
+  index: -1
+binhtiendon2
+  rotate: false
+  xy: 499, 134
+  size: 79, 64
+  orig: 79, 65
+  offset: 0, 1
+  index: -1
+binhtiendon3
+  rotate: true
+  xy: 2, 238
+  size: 246, 167
+  orig: 247, 167
+  offset: 0, 0
+  index: -1
+binhtiendon4
+  rotate: false
+  xy: 2, 69
+  size: 167, 167
+  orig: 167, 167
+  offset: 0, 0
+  index: -1
+light100
+  rotate: false
+  xy: 283, 97
+  size: 117, 89
+  orig: 130, 101
+  offset: 10, 8
+  index: -1
+light101
+  rotate: false
+  xy: 578, 371
+  size: 117, 90
+  orig: 130, 101
+  offset: 10, 7
+  index: -1
+light102
+  rotate: false
+  xy: 404, 396
+  size: 118, 91
+  orig: 130, 101
+  offset: 9, 7
+  index: -1
+light103
+  rotate: false
+  xy: 404, 298
+  size: 117, 96
+  orig: 130, 101
+  offset: 10, 1
+  index: -1
+light104
+  rotate: false
+  xy: 171, 2
+  size: 112, 93
+  orig: 130, 101
+  offset: 11, 5
+  index: -1
+light105
+  rotate: false
+  xy: 285, 2
+  size: 112, 93
+  orig: 130, 101
+  offset: 12, 5
+  index: -1
+light106
+  rotate: true
+  xy: 637, 258
+  size: 111, 90
+  orig: 130, 101
+  offset: 13, 6
+  index: -1
+light107
+  rotate: false
+  xy: 523, 282
+  size: 112, 87
+  orig: 130, 101
+  offset: 12, 8
+  index: -1
+light108
+  rotate: false
+  xy: 404, 207
+  size: 111, 89
+  orig: 130, 101
+  offset: 13, 9
+  index: -1
+light109
+  rotate: true
+  xy: 629, 612
+  size: 115, 98
+  orig: 130, 101
+  offset: 10, 1
+  index: -1
+light110
+  rotate: false
+  xy: 283, 188
+  size: 114, 98
+  orig: 130, 101
+  offset: 11, 1
+  index: -1
+quatbatieu
+  rotate: false
+  xy: 2, 486
+  size: 210, 241
+  orig: 211, 241
+  offset: 0, 0
+  index: -1
+thap1
+  rotate: true
+  xy: 2, 27
+  size: 40, 133
+  orig: 41, 133
+  offset: 0, 0
+  index: -1
+thap10
+  rotate: false
+  xy: 2, 3
+  size: 101, 22
+  orig: 102, 23
+  offset: 0, 1
+  index: -1
+thap2
+  rotate: true
+  xy: 499, 94
+  size: 38, 72
+  orig: 39, 73
+  offset: 0, 1
+  index: -1
+thap3
+  rotate: true
+  xy: 637, 168
+  size: 39, 72
+  orig: 40, 73
+  offset: 0, 1
+  index: -1
+thap4
+  rotate: false
+  xy: 214, 498
+  size: 56, 12
+  orig: 57, 13
+  offset: 0, 1
+  index: -1
+thap5
+  rotate: true
+  xy: 425, 618
+  size: 109, 202
+  orig: 110, 203
+  offset: 0, 1
+  index: -1
+thap6
+  rotate: false
+  xy: 580, 180
+  size: 9, 18
+  orig: 11, 19
+  offset: 0, 1
+  index: -1
+thap7
+  rotate: true
+  xy: 710, 424
+  size: 37, 13
+  orig: 38, 14
+  offset: 0, 1
+  index: -1
+thap8
+  rotate: true
+  xy: 524, 373
+  size: 114, 52
+  orig: 114, 52
+  offset: 0, 0
+  index: -1
+vongcankhon0
+  rotate: true
+  xy: 427, 489
+  size: 127, 159
+  orig: 128, 159
+  offset: 0, 0
+  index: -1
+vongcankhon1
+  rotate: false
+  xy: 171, 333
+  size: 119, 151
+  orig: 120, 151
+  offset: 0, 0
+  index: -1

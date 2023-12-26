@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b176d373-9bf0-4c55-9cf7-d7b46ef7e4fd",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 795,
+  "height": 626,
+  "platformSettings": {},
+  "subMetas": {
+    "gf_effcet_pic_person_087138232d3be0ceb4310ce7f5f1d767": {
+      "ver": "1.0.4",
+      "uuid": "1a89a5fb-5b21-4af9-b964-bf12520e6de6",
+      "rawTextureUuid": "b176d373-9bf0-4c55-9cf7-d7b46ef7e4fd",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 9,
+      "offsetY": -0.5,
+      "trimX": 18,
+      "trimY": 1,
+      "width": 777,
+      "height": 625,
+      "rawWidth": 795,
+      "rawHeight": 626,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

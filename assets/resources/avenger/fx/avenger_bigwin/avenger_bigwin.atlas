@@ -1,0 +1,408 @@
+
+BIG WIN.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+G
+  rotate: true
+  xy: 0, 0
+  size: 118, 207
+  orig: 118, 207
+  offset: 0, 0
+  index: -1
+I
+  rotate: true
+  xy: 207, 28
+  size: 90, 190
+  orig: 90, 190
+  offset: 0, 0
+  index: -1
+I2
+  rotate: false
+  xy: 418, 320
+  size: 91, 190
+  orig: 91, 190
+  offset: 0, 0
+  index: -1
+StormBreaker
+  rotate: false
+  xy: 0, 118
+  size: 418, 392
+  orig: 418, 392
+  offset: 0, 0
+  index: -1
+
+BIG WIN2.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: true
+  xy: 0, 0
+  size: 169, 190
+  orig: 169, 190
+  offset: 0, 0
+  index: -1
+Mjohnir
+  rotate: false
+  xy: 0, 169
+  size: 357, 334
+  orig: 357, 334
+  offset: 0, 0
+  index: -1
+N
+  rotate: true
+  xy: 190, 1
+  size: 168, 190
+  orig: 168, 190
+  offset: 0, 0
+  index: -1
+W
+  rotate: false
+  xy: 357, 313
+  size: 148, 190
+  orig: 148, 190
+  offset: 0, 0
+  index: -1
+
+BIG WIN3.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT-1_0000_STORMBREAKER_00019
+  rotate: false
+  xy: 0, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0001_STORMBREAKER_00018
+  rotate: false
+  xy: 0, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0002_STORMBREAKER_00017
+  rotate: false
+  xy: 255, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0003_STORMBREAKER_00016
+  rotate: false
+  xy: 255, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+
+BIG WIN4.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT-1_0004_STORMBREAKER_00015
+  rotate: false
+  xy: 0, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0005_STORMBREAKER_00014
+  rotate: false
+  xy: 0, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0006_STORMBREAKER_00013
+  rotate: false
+  xy: 255, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0007_STORMBREAKER_00012
+  rotate: false
+  xy: 255, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+
+BIG WIN5.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT-1_0008_STORMBREAKER_00011
+  rotate: false
+  xy: 0, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0009_STORMBREAKER_00010
+  rotate: false
+  xy: 0, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0010_STORMBREAKER_00009
+  rotate: false
+  xy: 255, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0011_STORMBREAKER_00008
+  rotate: false
+  xy: 255, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+
+BIG WIN6.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT-1_0012_STORMBREAKER_00007
+  rotate: false
+  xy: 0, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0013_STORMBREAKER_00006
+  rotate: false
+  xy: 0, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0014_STORMBREAKER_00005
+  rotate: false
+  xy: 255, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0015_STORMBREAKER_00004
+  rotate: false
+  xy: 255, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+
+BIG WIN7.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT-1_0016_STORMBREAKER_00003
+  rotate: false
+  xy: 0, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0017_STORMBREAKER_00002
+  rotate: false
+  xy: 0, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0018_STORMBREAKER_00001
+  rotate: false
+  xy: 255, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-1_0019_STORMBREAKER_00000
+  rotate: false
+  xy: 255, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+
+BIG WIN8.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT-2_0000_MIHORNIR_00019
+  rotate: false
+  xy: 0, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0001_MIHORNIR_00018
+  rotate: false
+  xy: 0, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0002_MIHORNIR_00017
+  rotate: false
+  xy: 255, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0003_MIHORNIR_00016
+  rotate: false
+  xy: 255, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+
+BIG WIN9.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT-2_0004_MIHORNIR_00015
+  rotate: false
+  xy: 0, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0005_MIHORNIR_00014
+  rotate: false
+  xy: 0, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0006_MIHORNIR_00013
+  rotate: false
+  xy: 255, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0007_MIHORNIR_00012
+  rotate: false
+  xy: 255, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+
+BIG WIN10.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT-2_0008_MIHORNIR_00011
+  rotate: false
+  xy: 0, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0009_MIHORNIR_00010
+  rotate: false
+  xy: 0, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0010_MIHORNIR_00009
+  rotate: false
+  xy: 255, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0011_MIHORNIR_00008
+  rotate: false
+  xy: 255, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+
+BIG WIN11.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT-2_0012_MIHORNIR_00007
+  rotate: false
+  xy: 0, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0013_MIHORNIR_00006
+  rotate: false
+  xy: 0, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0014_MIHORNIR_00005
+  rotate: false
+  xy: 255, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0015_MIHORNIR_00004
+  rotate: false
+  xy: 255, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+
+BIG WIN12.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT-2_0016_MIHORNIR_00003
+  rotate: false
+  xy: 0, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0017_MIHORNIR_00002
+  rotate: false
+  xy: 0, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0018_MIHORNIR_00001
+  rotate: false
+  xy: 255, 239
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1
+EFFECT-2_0019_MIHORNIR_00000
+  rotate: false
+  xy: 255, 0
+  size: 255, 239
+  orig: 255, 239
+  offset: 0, 0
+  index: -1

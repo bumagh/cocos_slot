@@ -1,0 +1,27 @@
+
+gaupanda.png
+size: 454,284
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 352, 101
+  size: 100, 181
+  orig: 100, 181
+  offset: 0, 0
+  index: -1
+matnham
+  rotate: false
+  xy: 352, 84
+  size: 50, 15
+  orig: 50, 15
+  offset: 0, 0
+  index: -1
+than
+  rotate: true
+  xy: 2, 2
+  size: 280, 348
+  orig: 280, 348
+  offset: 0, 0
+  index: -1

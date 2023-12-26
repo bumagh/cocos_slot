@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "anim4",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 16,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            854.618,
+            -325.513,
+            0
+          ]
+        },
+        {
+          "frame": 16,
+          "value": [
+            -874.114,
+            193.137,
+            0
+          ]
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": -20
+        }
+      ]
+    }
+  },
+  "events": []
+}

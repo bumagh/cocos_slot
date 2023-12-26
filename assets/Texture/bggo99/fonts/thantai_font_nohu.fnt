@@ -1,0 +1,23 @@
+info face=font size=32 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=99 base=63 scaleW=84 scaleH=362 pages=1 packed=0
+page id=0 file=thantai_font_nohu.png
+chars count=19
+char id=44 x=66 y=214 width=16 height=32 xoffset=0 yoffset=84 xadvance=21 page=0 chnl=15
+char id=55 x=69 y=81 width=53 height=76 xoffset=0 yoffset=23 xadvance=58 page=0 chnl=15
+char id=66 x=0 y=158 width=65 height=78 xoffset=0 yoffset=21 xadvance=70 page=0 chnl=15
+char id=77 x=0 y=0 width=80 height=78 xoffset=0 yoffset=21 xadvance=85 page=0 chnl=15
+char id=45 x=0 y=237 width=32 height=13 xoffset=0 yoffset=63 xadvance=37 page=0 chnl=15
+char id=56 x=81 y=0 width=54 height=80 xoffset=0 yoffset=21 xadvance=59 page=0 chnl=15
+char id=46 x=33 y=237 width=16 height=15 xoffset=0 yoffset=84 xadvance=21 page=0 chnl=15
+char id=57 x=178 y=77 width=53 height=80 xoffset=0 yoffset=21 xadvance=58 page=0 chnl=15
+char id=48 x=178 y=158 width=53 height=80 xoffset=0 yoffset=21 xadvance=58 page=0 chnl=15
+char id=49 x=191 y=0 width=33 height=76 xoffset=0 yoffset=23 xadvance=38 page=0 chnl=15
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=272 page=0 chnl=15
+char id=50 x=232 y=79 width=52 height=78 xoffset=0 yoffset=21 xadvance=57 page=0 chnl=15
+char id=51 x=123 y=162 width=54 height=80 xoffset=0 yoffset=21 xadvance=59 page=0 chnl=15
+char id=52 x=136 y=0 width=54 height=76 xoffset=0 yoffset=23 xadvance=59 page=0 chnl=15
+char id=53 x=232 y=0 width=53 height=78 xoffset=0 yoffset=23 xadvance=58 page=0 chnl=15
+char id=75 x=0 y=79 width=68 height=78 xoffset=0 yoffset=21 xadvance=73 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=34 page=0 chnl=15
+char id=43 x=66 y=158 width=56 height=55 xoffset=0 yoffset=44 xadvance=61 page=0 chnl=15
+char id=54 x=123 y=81 width=54 height=80 xoffset=0 yoffset=21 xadvance=59 page=0 chnl=15

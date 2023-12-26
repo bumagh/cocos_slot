@@ -1,0 +1,148 @@
+
+CAPTAIN AMERICA.png
+size: 304,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+$
+  rotate: false
+  xy: 88, 2
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+10,000
+  rotate: false
+  xy: 2, 2
+  size: 84, 36
+  orig: 84, 36
+  offset: 0, 0
+  index: -1
+EFFECT
+  rotate: true
+  xy: 2, 164
+  size: 309, 300
+  orig: 309, 300
+  offset: 0, 0
+  index: -1
+HAND_R
+  rotate: true
+  xy: 2, 40
+  size: 122, 182
+  orig: 122, 182
+  offset: 0, 0
+  index: -1
+POWER_STONE
+  rotate: false
+  xy: 186, 29
+  size: 88, 133
+  orig: 88, 133
+  offset: 0, 0
+  index: -1
+
+CAPTAIN AMERICA2.png
+size: 266,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BORDER_L
+  rotate: false
+  xy: 2, 2
+  size: 130, 471
+  orig: 130, 471
+  offset: 0, 0
+  index: -1
+BORDER_R
+  rotate: false
+  xy: 134, 2
+  size: 130, 471
+  orig: 130, 471
+  offset: 0, 0
+  index: -1
+
+CAPTAIN AMERICA3.png
+size: 306,414
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CAPTAIN_BODY
+  rotate: true
+  xy: 2, 227
+  size: 185, 302
+  orig: 185, 302
+  offset: 0, 0
+  index: -1
+DOWN
+  rotate: false
+  xy: 2, 2
+  size: 299, 223
+  orig: 299, 223
+  offset: 0, 0
+  index: -1
+
+CAPTAIN AMERICA4.png
+size: 306,471
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CAPTAIN_SHEILD
+  rotate: false
+  xy: 2, 2
+  size: 176, 252
+  orig: 176, 252
+  offset: 0, 0
+  index: -1
+HAND_L
+  rotate: true
+  xy: 180, 93
+  size: 161, 124
+  orig: 161, 124
+  offset: 0, 0
+  index: -1
+THOR_ICON
+  rotate: true
+  xy: 2, 256
+  size: 213, 276
+  orig: 213, 276
+  offset: 0, 0
+  index: -1
+
+CAPTAIN AMERICA5.png
+size: 271,470
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BACK
+  rotate: false
+  xy: 2, 125
+  size: 267, 343
+  orig: 267, 343
+  offset: 0, 0
+  index: -1
+UP
+  rotate: true
+  xy: 2, 2
+  size: 121, 178
+  orig: 121, 178
+  offset: 0, 0
+  index: -1
+
+CAPTAIN AMERICA6.png
+size: 272,211
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY_DOWN
+  rotate: true
+  xy: 171, 22
+  size: 187, 99
+  orig: 187, 99
+  offset: 0, 0
+  index: -1
+POWER_STONE 2
+  rotate: false
+  xy: 2, 2
+  size: 167, 207
+  orig: 167, 207
+  offset: 0, 0
+  index: -1

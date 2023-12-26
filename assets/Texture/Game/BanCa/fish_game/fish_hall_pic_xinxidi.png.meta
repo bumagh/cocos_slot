@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "2dcc6e7a-ce65-434c-875b-4cf3d7ff739b",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 137,
+  "height": 23,
+  "platformSettings": {},
+  "subMetas": {
+    "fish_hall_pic_xinxidi": {
+      "ver": "1.0.4",
+      "uuid": "39d03755-3f82-459d-a1a5-8e60d14b4e8f",
+      "rawTextureUuid": "2dcc6e7a-ce65-434c-875b-4cf3d7ff739b",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 137,
+      "height": 23,
+      "rawWidth": 137,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

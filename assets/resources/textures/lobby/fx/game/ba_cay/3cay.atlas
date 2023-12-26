@@ -1,0 +1,48 @@
+
+3cay.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3 CÂY
+  rotate: false
+  xy: 535, 199
+  size: 146, 52
+  orig: 146, 52
+  offset: 0, 0
+  index: -1
+Layer 6804
+  rotate: false
+  xy: 300, 108
+  size: 133, 143
+  orig: 133, 143
+  offset: 0, 0
+  index: -1
+Layer 6805
+  rotate: true
+  xy: 300, 6
+  size: 100, 125
+  orig: 100, 125
+  offset: 0, 0
+  index: -1
+Layer 6806
+  rotate: false
+  xy: 435, 126
+  size: 98, 125
+  orig: 98, 125
+  offset: 0, 0
+  index: -1
+Layer 78 copy
+  rotate: false
+  xy: 2, 2
+  size: 296, 249
+  orig: 296, 249
+  offset: 0, 0
+  index: -1
+Mini
+  rotate: false
+  xy: 535, 161
+  size: 80, 36
+  orig: 80, 36
+  offset: 0, 0
+  index: -1

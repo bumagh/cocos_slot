@@ -1,0 +1,76 @@
+
+phong2_ani.png
+size: 503,502
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 92
+  size: 323, 409
+  orig: 323, 409
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 325, 154
+  size: 123, 132
+  orig: 123, 132
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 431, 6
+  size: 71, 81
+  orig: 71, 82
+  offset: 0, 1
+  index: -1
+hair_L
+  rotate: false
+  xy: 325, 287
+  size: 70, 134
+  orig: 70, 134
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 396, 293
+  size: 105, 128
+  orig: 105, 128
+  offset: 0, 0
+  index: -1
+hair_R1
+  rotate: true
+  xy: 331, 40
+  size: 47, 99
+  orig: 47, 99
+  offset: 0, 0
+  index: -1
+hand_L1
+  rotate: true
+  xy: 226, 29
+  size: 58, 104
+  orig: 58, 104
+  offset: 0, 0
+  index: -1
+hand_L2
+  rotate: true
+  xy: 1, 40
+  size: 51, 224
+  orig: 51, 224
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: true
+  xy: 325, 88
+  size: 65, 128
+  orig: 65, 128
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 325, 422
+  size: 149, 79
+  orig: 149, 79
+  offset: 0, 0
+  index: -1

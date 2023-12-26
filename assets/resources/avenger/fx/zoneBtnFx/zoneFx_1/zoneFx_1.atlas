@@ -1,0 +1,162 @@
+
+IRON MAN_1280 x 720_OUT_DONE.png
+size: 296,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BORDER_1
+  rotate: false
+  xy: 2, 2
+  size: 146, 471
+  orig: 146, 471
+  offset: 0, 0
+  index: -1
+BORDER_2
+  rotate: false
+  xy: 150, 2
+  size: 144, 471
+  orig: 144, 471
+  offset: 0, 0
+  index: -1
+
+IRON MAN_1280 x 720_OUT_DONE2.png
+size: 304,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+$
+  rotate: false
+  xy: 115, 3
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+100
+  rotate: false
+  xy: 137, 6
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+EFFECT
+  rotate: true
+  xy: 2, 164
+  size: 309, 300
+  orig: 309, 300
+  offset: 0, 0
+  index: -1
+MIND STONE
+  rotate: false
+  xy: 2, 2
+  size: 111, 160
+  orig: 111, 160
+  offset: 0, 0
+  index: -1
+UP
+  rotate: true
+  xy: 115, 41
+  size: 121, 178
+  orig: 121, 178
+  offset: 0, 0
+  index: -1
+
+IRON MAN_1280 x 720_OUT_DONE3.png
+size: 306,466
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BACK
+  rotate: false
+  xy: 2, 115
+  size: 267, 349
+  orig: 267, 349
+  offset: 0, 0
+  index: -1
+HAND_R
+  rotate: true
+  xy: 2, 12
+  size: 101, 210
+  orig: 101, 210
+  offset: 0, 0
+  index: -1
+IRON_MAN_HEAD
+  rotate: false
+  xy: 214, 2
+  size: 90, 111
+  orig: 90, 111
+  offset: 0, 0
+  index: -1
+
+IRON MAN_1280 x 720_OUT_DONE4.png
+size: 303,442
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DOWN
+  rotate: false
+  xy: 2, 217
+  size: 299, 223
+  orig: 299, 223
+  offset: 0, 0
+  index: -1
+THOR_ICON
+  rotate: true
+  xy: 2, 2
+  size: 213, 276
+  orig: 213, 276
+  offset: 0, 0
+  index: -1
+
+IRON MAN_1280 x 720_OUT_DONE5.png
+size: 241,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HAND_L
+  rotate: false
+  xy: 2, 192
+  size: 228, 253
+  orig: 228, 253
+  offset: 0, 0
+  index: -1
+MINE STONE 2
+  rotate: true
+  xy: 2, 2
+  size: 188, 237
+  orig: 188, 237
+  offset: 0, 0
+  index: -1
+
+IRON MAN_1280 x 720_OUT_DONE6.png
+size: 256,447
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BODY_DOWN
+  rotate: true
+  xy: 134, 124
+  size: 140, 120
+  orig: 140, 120
+  offset: 0, 0
+  index: -1
+IRON_MAN_BODY
+  rotate: true
+  xy: 2, 266
+  size: 179, 223
+  orig: 179, 223
+  offset: 0, 0
+  index: -1
+LIGHT
+  rotate: false
+  xy: 2, 134
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1
+LIGHT 2
+  rotate: false
+  xy: 2, 2
+  size: 130, 130
+  orig: 130, 130
+  offset: 0, 0
+  index: -1

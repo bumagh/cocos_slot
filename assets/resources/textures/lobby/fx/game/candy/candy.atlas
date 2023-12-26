@@ -1,0 +1,41 @@
+
+candy.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 100
+  rotate: false
+  xy: 2, 2
+  size: 271, 170
+  orig: 271, 170
+  offset: 0, 0
+  index: -1
+Layer 102
+  rotate: false
+  xy: 516, 251
+  size: 92, 96
+  orig: 92, 96
+  offset: 0, 0
+  index: -1
+Layer 103
+  rotate: false
+  xy: 516, 349
+  size: 120, 121
+  orig: 120, 121
+  offset: 0, 0
+  index: -1
+Layer 104
+  rotate: false
+  xy: 275, 68
+  size: 98, 104
+  orig: 98, 104
+  offset: 0, 0
+  index: -1
+Layer 77
+  rotate: true
+  xy: 2, 174
+  size: 296, 512
+  orig: 296, 512
+  offset: 0, 0
+  index: -1

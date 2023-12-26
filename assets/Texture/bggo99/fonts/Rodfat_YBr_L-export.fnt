@@ -1,0 +1,18 @@
+info face=font size=32 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=82 base=63 scaleW=84 scaleH=362 pages=1 packed=0
+page id=0 file=Rodfat_YBr_L-export.png
+chars count=14
+char id=44 x=0 y=242 width=27 height=37 xoffset=0 yoffset=57 xadvance=23 page=0 chnl=15
+char id=55 x=75 y=0 width=73 height=79 xoffset=0 yoffset=2 xadvance=69 page=0 chnl=15
+char id=56 x=74 y=80 width=73 height=80 xoffset=0 yoffset=2 xadvance=69 page=0 chnl=15
+char id=46 x=28 y=242 width=27 height=25 xoffset=0 yoffset=57 xadvance=23 page=0 chnl=15
+char id=57 x=0 y=161 width=73 height=80 xoffset=0 yoffset=2 xadvance=69 page=0 chnl=15
+char id=48 x=74 y=161 width=73 height=80 xoffset=0 yoffset=2 xadvance=69 page=0 chnl=15
+char id=49 x=222 y=81 width=73 height=78 xoffset=0 yoffset=3 xadvance=69 page=0 chnl=15
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=450 page=0 chnl=15
+char id=50 x=148 y=161 width=73 height=80 xoffset=0 yoffset=2 xadvance=69 page=0 chnl=15
+char id=51 x=222 y=0 width=73 height=80 xoffset=0 yoffset=2 xadvance=69 page=0 chnl=15
+char id=52 x=0 y=0 width=74 height=79 xoffset=0 yoffset=2 xadvance=70 page=0 chnl=15
+char id=53 x=148 y=80 width=73 height=80 xoffset=0 yoffset=2 xadvance=69 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=15 page=0 chnl=15
+char id=54 x=0 y=80 width=73 height=80 xoffset=0 yoffset=2 xadvance=69 page=0 chnl=15

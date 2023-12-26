@@ -1,0 +1,328 @@
+
+avenger_bonus.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Color Balance 8 copy 2
+  rotate: false
+  xy: 905, 759
+  size: 291, 297
+  orig: 291, 297
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0000_EFFECT_00022
+  rotate: false
+  xy: 2, 1384
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0001_EFFECT_00021
+  rotate: false
+  xy: 303, 1718
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0002_EFFECT_00020
+  rotate: false
+  xy: 2, 1054
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0003_EFFECT_00019
+  rotate: false
+  xy: 303, 1388
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0004_EFFECT_00018
+  rotate: false
+  xy: 604, 1718
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0005_EFFECT_00017
+  rotate: false
+  xy: 2, 724
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0006_EFFECT_00016
+  rotate: false
+  xy: 2, 1714
+  size: 299, 332
+  orig: 299, 332
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0007_EFFECT_00015
+  rotate: false
+  xy: 303, 1058
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0008_EFFECT_00014
+  rotate: false
+  xy: 604, 1388
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0009_EFFECT_00013
+  rotate: false
+  xy: 905, 1718
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0010_EFFECT_00012
+  rotate: false
+  xy: 2, 394
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0011_EFFECT_00011
+  rotate: false
+  xy: 303, 728
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0012_EFFECT_00010
+  rotate: false
+  xy: 604, 1058
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0013_EFFECT_00009
+  rotate: false
+  xy: 905, 1388
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0014_EFFECT_00008
+  rotate: false
+  xy: 1206, 1718
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0015_EFFECT_00007
+  rotate: false
+  xy: 2, 64
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0016_EFFECT_00006
+  rotate: false
+  xy: 303, 398
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0017_EFFECT_00005
+  rotate: false
+  xy: 604, 728
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0018_EFFECT_00004
+  rotate: false
+  xy: 905, 1058
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0019_EFFECT_00003
+  rotate: false
+  xy: 1206, 1388
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0020_EFFECT_00002
+  rotate: false
+  xy: 1507, 1718
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0021_EFFECT_00001
+  rotate: false
+  xy: 303, 68
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+EFFECT-CROP-3_0022_EFFECT_00000
+  rotate: false
+  xy: 604, 398
+  size: 299, 328
+  orig: 299, 328
+  offset: 0, 0
+  index: -1
+LIGHT
+  rotate: false
+  xy: 1808, 1763
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 1968, 1958
+  size: 74, 88
+  orig: 74, 88
+  offset: 0, 0
+  index: -1
+Layer 14 copy
+  rotate: false
+  xy: 677, 126
+  size: 45, 61
+  orig: 45, 61
+  offset: 0, 0
+  index: -1
+Layer 14 copy 2
+  rotate: false
+  xy: 1900, 1774
+  size: 59, 79
+  orig: 59, 79
+  offset: 0, 0
+  index: -1
+Layer 14 copy 4
+  rotate: false
+  xy: 1507, 1427
+  size: 98, 96
+  orig: 98, 96
+  offset: 0, 0
+  index: -1
+Layer 14 copy 5
+  rotate: false
+  xy: 905, 484
+  size: 70, 80
+  orig: 70, 80
+  offset: 0, 0
+  index: -1
+Layer 16 copy
+  rotate: true
+  xy: 90, 2
+  size: 60, 75
+  orig: 60, 75
+  offset: 0, 0
+  index: -1
+Layer 16 copy 2
+  rotate: false
+  xy: 604, 100
+  size: 71, 87
+  orig: 71, 87
+  offset: 0, 0
+  index: -1
+Layer 16 copy 3
+  rotate: false
+  xy: 747, 308
+  size: 70, 88
+  orig: 70, 88
+  offset: 0, 0
+  index: -1
+Layer 17 copy 2
+  rotate: true
+  xy: 1315, 1072
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+Layer 17 copy 3
+  rotate: false
+  xy: 1045, 670
+  size: 63, 87
+  orig: 63, 87
+  offset: 0, 0
+  index: -1
+Layer 17 copy 4
+  rotate: true
+  xy: 2, 2
+  size: 60, 86
+  orig: 60, 86
+  offset: 0, 0
+  index: -1
+Layer 17 copy 5
+  rotate: false
+  xy: 1968, 1882
+  size: 48, 74
+  orig: 48, 74
+  offset: 0, 0
+  index: -1
+Layer 17 copy 6
+  rotate: true
+  xy: 167, 5
+  size: 57, 83
+  orig: 57, 83
+  offset: 0, 0
+  index: -1
+Layer 17 copy 7
+  rotate: false
+  xy: 1607, 1439
+  size: 61, 84
+  orig: 61, 84
+  offset: 0, 0
+  index: -1
+Layer 18
+  rotate: true
+  xy: 1206, 1065
+  size: 58, 107
+  orig: 58, 107
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: false
+  xy: 1206, 1125
+  size: 275, 261
+  orig: 275, 261
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: false
+  xy: 1507, 1525
+  size: 176, 191
+  orig: 176, 191
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 905, 566
+  size: 138, 191
+  orig: 138, 191
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: false
+  xy: 1685, 1525
+  size: 120, 191
+  orig: 120, 191
+  offset: 0, 0
+  index: -1
+Layer 25
+  rotate: false
+  xy: 604, 189
+  size: 141, 207
+  orig: 141, 207
+  offset: 0, 0
+  index: -1
+Layer 26
+  rotate: false
+  xy: 1808, 1855
+  size: 158, 191
+  orig: 158, 191
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9e0313c3-31e5-40eb-85df-7921591c71f3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "BONUS INFINITY GLOVE EFFECT4": {
+      "ver": "1.0.4",
+      "uuid": "5b58d9b5-a45d-41ce-8ecd-290066f1139e",
+      "rawTextureUuid": "9e0313c3-31e5-40eb-85df-7921591c71f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -31,
+      "offsetY": 12.5,
+      "trimX": 5,
+      "trimY": 1,
+      "width": 440,
+      "height": 485,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

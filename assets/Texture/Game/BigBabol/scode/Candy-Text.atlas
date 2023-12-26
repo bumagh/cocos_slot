@@ -1,0 +1,41 @@
+
+Candy-Text.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+minigame/Candy Crush/image/text-Candy/1
+  rotate: false
+  xy: 2, 2
+  size: 95, 100
+  orig: 95, 100
+  offset: 0, 0
+  index: -1
+minigame/Candy Crush/image/text-Candy/2
+  rotate: false
+  xy: 369, 18
+  size: 86, 84
+  orig: 86, 84
+  offset: 0, 0
+  index: -1
+minigame/Candy Crush/image/text-Candy/3
+  rotate: false
+  xy: 277, 18
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+minigame/Candy Crush/image/text-Candy/4
+  rotate: false
+  xy: 99, 4
+  size: 89, 98
+  orig: 89, 98
+  offset: 0, 0
+  index: -1
+minigame/Candy Crush/image/text-Candy/5
+  rotate: false
+  xy: 190, 11
+  size: 85, 91
+  orig: 85, 91
+  offset: 0, 0
+  index: -1

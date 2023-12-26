@@ -1,0 +1,293 @@
+
+Effect_khobautulinh.png
+size: 731,731
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+border
+  rotate: false
+  xy: 2, 293
+  size: 289, 436
+  orig: 289, 436
+  offset: 0, 0
+  index: -1
+fire0
+  rotate: false
+  xy: 455, 65
+  size: 81, 81
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+fire1
+  rotate: true
+  xy: 524, 242
+  size: 80, 79
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: true
+  xy: 133, 2
+  size: 85, 77
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+fire3
+  rotate: false
+  xy: 613, 305
+  size: 80, 77
+  orig: 97, 105
+  offset: 0, 1
+  index: -1
+fire4
+  rotate: false
+  xy: 371, 68
+  size: 82, 83
+  orig: 97, 105
+  offset: 0, 2
+  index: -1
+fire5
+  rotate: true
+  xy: 625, 501
+  size: 97, 100
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+fire6
+  rotate: false
+  xy: 266, 152
+  size: 97, 105
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+fire7
+  rotate: false
+  xy: 365, 153
+  size: 90, 87
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+fire8
+  rotate: false
+  xy: 660, 224
+  size: 69, 79
+  orig: 97, 105
+  offset: 0, 1
+  index: -1
+fire9
+  rotate: false
+  xy: 457, 148
+  size: 73, 92
+  orig: 97, 105
+  offset: 0, 0
+  index: -1
+goldcoin1
+  rotate: false
+  xy: 605, 254
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+goldcoin2
+  rotate: true
+  xy: 605, 66
+  size: 28, 52
+  orig: 28, 52
+  offset: 0, 0
+  index: -1
+goldcoin3
+  rotate: true
+  xy: 80, 11
+  size: 27, 51
+  orig: 27, 51
+  offset: 0, 0
+  index: -1
+goldcoin4
+  rotate: false
+  xy: 676, 146
+  size: 50, 39
+  orig: 50, 39
+  offset: 0, 0
+  index: -1
+goldcoin5
+  rotate: false
+  xy: 676, 187
+  size: 53, 35
+  orig: 53, 35
+  offset: 0, 0
+  index: -1
+goldcoin6
+  rotate: false
+  xy: 612, 209
+  size: 46, 43
+  orig: 46, 43
+  offset: 0, 0
+  index: -1
+goldcoin7
+  rotate: true
+  xy: 212, 2
+  size: 19, 51
+  orig: 19, 51
+  offset: 0, 0
+  index: -1
+kho bau tu linh0
+  rotate: false
+  xy: 293, 324
+  size: 267, 405
+  orig: 290, 436
+  offset: 11, 17
+  index: -1
+kho bau tu linh1
+  rotate: false
+  xy: 2, 142
+  size: 131, 149
+  orig: 131, 149
+  offset: 0, 0
+  index: -1
+kho bau tu linh10
+  rotate: true
+  xy: 538, 51
+  size: 105, 65
+  orig: 105, 65
+  offset: 0, 0
+  index: -1
+kho bau tu linh11
+  rotate: false
+  xy: 266, 8
+  size: 110, 54
+  orig: 110, 54
+  offset: 0, 0
+  index: -1
+kho bau tu linh12
+  rotate: false
+  xy: 2, 15
+  size: 76, 23
+  orig: 76, 23
+  offset: 0, 0
+  index: -1
+kho bau tu linh13
+  rotate: false
+  xy: 605, 96
+  size: 60, 33
+  orig: 60, 33
+  offset: 0, 0
+  index: -1
+kho bau tu linh14
+  rotate: false
+  xy: 293, 259
+  size: 119, 63
+  orig: 119, 63
+  offset: 0, 0
+  index: -1
+kho bau tu linh15
+  rotate: false
+  xy: 414, 242
+  size: 108, 80
+  orig: 108, 80
+  offset: 0, 0
+  index: -1
+kho bau tu linh16
+  rotate: true
+  xy: 562, 543
+  size: 186, 61
+  orig: 186, 61
+  offset: 0, 0
+  index: -1
+kho bau tu linh17
+  rotate: true
+  xy: 562, 355
+  size: 186, 49
+  orig: 186, 49
+  offset: 0, 0
+  index: -1
+kho bau tu linh2
+  rotate: false
+  xy: 562, 336
+  size: 36, 17
+  orig: 36, 17
+  offset: 0, 0
+  index: -1
+kho bau tu linh20
+  rotate: true
+  xy: 212, 23
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+kho bau tu linh3
+  rotate: true
+  xy: 378, 8
+  size: 58, 61
+  orig: 58, 61
+  offset: 0, 0
+  index: -1
+kho bau tu linh4
+  rotate: false
+  xy: 266, 64
+  size: 103, 86
+  orig: 103, 86
+  offset: 0, 0
+  index: -1
+kho bau tu linh5
+  rotate: true
+  xy: 613, 384
+  size: 115, 95
+  orig: 115, 95
+  offset: 0, 0
+  index: -1
+kho bau tu linh6
+  rotate: true
+  xy: 710, 438
+  size: 61, 14
+  orig: 61, 14
+  offset: 0, 0
+  index: -1
+kho bau tu linh7
+  rotate: false
+  xy: 2, 2
+  size: 43, 11
+  orig: 44, 11
+  offset: 1, 0
+  index: -1
+kho bau tu linh8
+  rotate: false
+  xy: 612, 131
+  size: 62, 76
+  orig: 62, 80
+  offset: 0, 0
+  index: -1
+kho bau tu linh9
+  rotate: false
+  xy: 532, 158
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+kho bau tu linh_textani0
+  rotate: false
+  xy: 2, 40
+  size: 129, 100
+  orig: 130, 101
+  offset: 1, 1
+  index: -1
+kho bau tu linh_textani1
+  rotate: false
+  xy: 135, 191
+  size: 129, 100
+  orig: 130, 101
+  offset: 1, 1
+  index: -1
+kho bau tu linh_textani2
+  rotate: true
+  xy: 625, 600
+  size: 129, 100
+  orig: 130, 101
+  offset: 1, 1
+  index: -1
+kho bau tu linh_textani3
+  rotate: false
+  xy: 135, 89
+  size: 129, 100
+  orig: 130, 101
+  offset: 1, 1
+  index: -1

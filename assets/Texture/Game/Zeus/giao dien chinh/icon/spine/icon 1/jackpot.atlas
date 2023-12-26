@@ -1,0 +1,20 @@
+
+jackpot.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 2, 2
+  size: 180, 186
+  orig: 180, 186
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 184, 74
+  size: 155, 114
+  orig: 155, 114
+  offset: 0, 0
+  index: -1

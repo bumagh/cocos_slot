@@ -1,0 +1,41 @@
+info face=font size=32 bold=1 italic=0 charset= unicode= stretchH=100 smooth=1 aa=1 padding=2,2,2,2 spacing=0,0 outline=0
+common lineHeight=72 base=63 scaleW=84 scaleH=362 pages=1 packed=0
+page id=0 file=AntiqueOlive-gold-BMfont-export.png
+chars count=37
+char id=44 x=66 y=49 width=19 height=25 xoffset=0 yoffset=56 xadvance=19 page=0 chnl=15
+char id=66 x=190 y=52 width=43 height=48 xoffset=0 yoffset=24 xadvance=43 page=0 chnl=15
+char id=88 x=0 y=181 width=49 height=48 xoffset=0 yoffset=24 xadvance=49 page=0 chnl=15
+char id=45 x=0 y=237 width=23 height=15 xoffset=0 yoffset=42 xadvance=23 page=0 chnl=15
+char id=46 x=24 y=237 width=21 height=17 xoffset=0 yoffset=56 xadvance=21 page=0 chnl=15
+char id=47 x=354 y=100 width=31 height=52 xoffset=0 yoffset=21 xadvance=31 page=0 chnl=15
+char id=69 x=317 y=51 width=38 height=48 xoffset=0 yoffset=24 xadvance=38 page=0 chnl=15
+char id=48 x=188 y=143 width=44 height=51 xoffset=0 yoffset=22 xadvance=44 page=0 chnl=15
+char id=49 x=318 y=0 width=34 height=49 xoffset=0 yoffset=23 xadvance=34 page=0 chnl=15
+char id=272 x=0 y=132 width=49 height=48 xoffset=0 yoffset=24 xadvance=49 page=0 chnl=15
+char id=273 x=50 y=132 width=49 height=52 xoffset=0 yoffset=21 xadvance=49 page=0 chnl=15
+char id=112 x=145 y=91 width=44 height=51 xoffset=0 yoffset=29 xadvance=44 page=0 chnl=15
+char id=116 x=317 y=100 width=36 height=52 xoffset=0 yoffset=21 xadvance=36 page=0 chnl=15
+char id=71 x=97 y=185 width=45 height=50 xoffset=0 yoffset=23 xadvance=45 page=0 chnl=15
+char id=50 x=316 y=166 width=39 height=50 xoffset=0 yoffset=22 xadvance=39 page=0 chnl=15
+char id=51 x=276 y=0 width=41 height=50 xoffset=0 yoffset=23 xadvance=41 page=0 chnl=15
+char id=52 x=188 y=195 width=44 height=49 xoffset=0 yoffset=23 xadvance=44 page=0 chnl=15
+char id=53 x=276 y=51 width=40 height=50 xoffset=0 yoffset=23 xadvance=40 page=0 chnl=15
+char id=75 x=70 y=0 width=45 height=48 xoffset=0 yoffset=24 xadvance=45 page=0 chnl=15
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=11 page=0 chnl=15
+char id=54 x=233 y=202 width=42 height=51 xoffset=0 yoffset=22 xadvance=42 page=0 chnl=15
+char id=98 x=143 y=175 width=44 height=52 xoffset=0 yoffset=21 xadvance=44 page=0 chnl=15
+char id=55 x=276 y=166 width=39 height=49 xoffset=0 yoffset=23 xadvance=39 page=0 chnl=15
+char id=77 x=0 y=83 width=57 height=48 xoffset=0 yoffset=24 xadvance=57 page=0 chnl=15
+char id=56 x=150 y=0 width=44 height=51 xoffset=0 yoffset=22 xadvance=44 page=0 chnl=15
+char id=57 x=233 y=150 width=42 height=51 xoffset=0 yoffset=22 xadvance=42 page=0 chnl=15
+char id=36 x=276 y=102 width=40 height=63 xoffset=0 yoffset=17 xadvance=40 page=0 chnl=15
+char id=120 x=58 y=83 width=46 height=42 xoffset=0 yoffset=30 xadvance=46 page=0 chnl=15
+char id=101 x=195 y=0 width=42 height=44 xoffset=0 yoffset=29 xadvance=42 page=0 chnl=15
+char id=103 x=50 y=185 width=46 height=51 xoffset=0 yoffset=29 xadvance=46 page=0 chnl=15
+char id=80 x=100 y=126 width=44 height=48 xoffset=0 yoffset=24 xadvance=44 page=0 chnl=15
+char id=107 x=234 y=45 width=41 height=51 xoffset=0 yoffset=21 xadvance=41 page=0 chnl=15
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=88 page=0 chnl=15
+char id=109 x=0 y=39 width=65 height=43 xoffset=0 yoffset=29 xadvance=65 page=0 chnl=15
+char id=8734 x=0 y=0 width=69 height=38 xoffset=0 yoffset=37 xadvance=69 page=0 chnl=15
+char id=84 x=233 y=101 width=42 height=48 xoffset=0 yoffset=24 xadvance=42 page=0 chnl=15
+char id=43 x=105 y=49 width=44 height=41 xoffset=0 yoffset=32 xadvance=44 page=0 chnl=15

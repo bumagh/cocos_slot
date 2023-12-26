@@ -1,0 +1,69 @@
+
+Xocxoc.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Black 1
+  rotate: false
+  xy: 351, 39
+  size: 36, 22
+  orig: 36, 22
+  offset: 0, 0
+  index: -1
+Black 2
+  rotate: false
+  xy: 2, 2
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+Bowl
+  rotate: false
+  xy: 180, 13
+  size: 126, 106
+  orig: 126, 106
+  offset: 0, 0
+  index: -1
+Disc
+  rotate: false
+  xy: 2, 26
+  size: 176, 93
+  orig: 176, 93
+  offset: 0, 0
+  index: -1
+Red 1
+  rotate: false
+  xy: 308, 18
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+Red 2
+  rotate: false
+  xy: 426, 97
+  size: 39, 22
+  orig: 39, 22
+  offset: 0, 0
+  index: -1
+Shadow 1
+  rotate: false
+  xy: 43, 9
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+xóc
+  rotate: false
+  xy: 308, 63
+  size: 116, 56
+  orig: 116, 56
+  offset: 0, 0
+  index: -1
+xóc 2
+  rotate: false
+  xy: 308, 63
+  size: 116, 56
+  orig: 116, 56
+  offset: 0, 0
+  index: -1

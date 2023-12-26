@@ -1,0 +1,160 @@
+
+BAUCUA.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 544, 328
+  size: 171, 75
+  orig: 171, 75
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 544, 1614
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 2, 405
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 273, 808
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 544, 1211
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 815, 1614
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 2
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 273, 405
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 544, 808
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 815, 1211
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 1086, 1614
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 815, 724
+  size: 97, 82
+  orig: 97, 82
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 273, 2
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 544, 405
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 815, 808
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 1086, 1211
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1357, 1841
+  size: 310, 174
+  orig: 310, 174
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 1614
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 1211
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 273, 1614
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 2, 808
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 273, 1211
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1

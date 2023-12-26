@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "973b8126-5c0b-4fc5-adaf-11955cc6db9a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 665,
+  "height": 665,
+  "platformSettings": {},
+  "subMetas": {
+    "Icongame_tayduky": {
+      "ver": "1.0.4",
+      "uuid": "c344258e-25e5-4834-b27f-325c3e5329e2",
+      "rawTextureUuid": "973b8126-5c0b-4fc5-adaf-11955cc6db9a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 661,
+      "height": 661,
+      "rawWidth": 665,
+      "rawHeight": 665,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "15aeda5f-49c6-412d-ae74-58a182e55934",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 700,
+  "height": 700,
+  "platformSettings": {},
+  "subMetas": {
+    "SanThuong_ani2": {
+      "ver": "1.0.4",
+      "uuid": "35307f98-f88b-4069-b1e5-156a119ffac5",
+      "rawTextureUuid": "15aeda5f-49c6-412d-ae74-58a182e55934",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -15.5,
+      "offsetY": 2.5,
+      "trimX": 1,
+      "trimY": 2,
+      "width": 667,
+      "height": 691,
+      "rawWidth": 700,
+      "rawHeight": 700,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

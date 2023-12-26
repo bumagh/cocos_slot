@@ -1,0 +1,160 @@
+
+icon sk.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dienthoai
+  rotate: false
+  xy: 806, 73
+  size: 71, 66
+  orig: 71, 66
+  offset: 0, 0
+  index: -1
+icon sk_00000
+  rotate: false
+  xy: 2, 410
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00001
+  rotate: false
+  xy: 2, 308
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00002
+  rotate: false
+  xy: 404, 410
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00003
+  rotate: false
+  xy: 2, 206
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00004
+  rotate: false
+  xy: 404, 308
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00005
+  rotate: false
+  xy: 806, 410
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00006
+  rotate: false
+  xy: 2, 104
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00007
+  rotate: false
+  xy: 2, 2
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00008
+  rotate: false
+  xy: 404, 206
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00009
+  rotate: false
+  xy: 806, 308
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00010
+  rotate: false
+  xy: 1208, 410
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00011
+  rotate: false
+  xy: 404, 104
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00012
+  rotate: false
+  xy: 404, 2
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+icon sk_00013
+  rotate: false
+  xy: 806, 206
+  size: 400, 100
+  orig: 400, 100
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 1208, 212
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+light 2
+  rotate: false
+  xy: 1208, 279
+  size: 198, 129
+  orig: 198, 129
+  offset: 0, 0
+  index: -1
+light 3
+  rotate: false
+  xy: 972, 162
+  size: 52, 42
+  orig: 52, 42
+  offset: 0, 0
+  index: -1
+sieu zon
+  rotate: false
+  xy: 1610, 450
+  size: 186, 60
+  orig: 186, 60
+  offset: 0, 0
+  index: -1
+su kien
+  rotate: false
+  xy: 1798, 458
+  size: 101, 52
+  orig: 101, 52
+  offset: 0, 0
+  index: -1
+xe
+  rotate: false
+  xy: 806, 141
+  size: 164, 63
+  orig: 164, 63
+  offset: 0, 0
+  index: -1
+xe may
+  rotate: false
+  xy: 1408, 332
+  size: 101, 76
+  orig: 101, 76
+  offset: 0, 0
+  index: -1

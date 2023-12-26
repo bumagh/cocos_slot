@@ -1,0 +1,118 @@
+
+tayduky_lowitem.png
+size: 404,404
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 2, 113
+  size: 133, 101
+  orig: 133, 101
+  offset: 0, 0
+  index: -1
+A
+  rotate: false
+  xy: 190, 294
+  size: 113, 108
+  orig: 113, 108
+  offset: 0, 0
+  index: -1
+J
+  rotate: false
+  xy: 137, 113
+  size: 105, 101
+  orig: 105, 101
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 2, 4
+  size: 111, 107
+  orig: 111, 107
+  offset: 0, 0
+  index: -1
+Q
+  rotate: true
+  xy: 158, 5
+  size: 106, 102
+  orig: 106, 102
+  offset: 0, 0
+  index: -1
+binhtiendon4
+  rotate: false
+  xy: 2, 216
+  size: 186, 186
+  orig: 186, 186
+  offset: 0, 0
+  index: -1
+jackpot4
+  rotate: false
+  xy: 374, 256
+  size: 14, 49
+  orig: 14, 49
+  offset: 0, 0
+  index: -1
+jackpot5
+  rotate: false
+  xy: 354, 213
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+lotus0
+  rotate: false
+  xy: 313, 247
+  size: 59, 58
+  orig: 59, 58
+  offset: 0, 0
+  index: -1
+lotus1
+  rotate: true
+  xy: 244, 132
+  size: 84, 63
+  orig: 84, 63
+  offset: 0, 0
+  index: -1
+lotus2
+  rotate: false
+  xy: 313, 219
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+lotus3
+  rotate: false
+  xy: 309, 183
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+lotus4
+  rotate: true
+  xy: 262, 2
+  size: 128, 48
+  orig: 128, 48
+  offset: 0, 0
+  index: -1
+quadao0
+  rotate: true
+  xy: 115, 2
+  size: 109, 41
+  orig: 109, 41
+  offset: 0, 0
+  index: -1
+quadao1
+  rotate: false
+  xy: 305, 307
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+vongkimco
+  rotate: false
+  xy: 190, 218
+  size: 121, 74
+  orig: 121, 74
+  offset: 0, 0
+  index: -1

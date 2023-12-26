@@ -1,0 +1,284 @@
+
+skeleton.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Avengers
+  rotate: false
+  xy: 1, 816
+  size: 313, 114
+  orig: 313, 114
+  offset: 0, 0
+  index: -1
+_0001_Fix_00035
+  rotate: false
+  xy: 315, 745
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0002_Fix_00034
+  rotate: false
+  xy: 655, 745
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0003_Fix_00033
+  rotate: false
+  xy: 1, 559
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0004_Fix_00032
+  rotate: false
+  xy: 341, 559
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0005_Fix_00031
+  rotate: false
+  xy: 681, 559
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0006_Fix_00030
+  rotate: false
+  xy: 1, 373
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0007_Fix_00029
+  rotate: false
+  xy: 341, 373
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0008_Fix_00028
+  rotate: false
+  xy: 681, 373
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0009_Fix_00027
+  rotate: false
+  xy: 1, 187
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0010_Fix_00026
+  rotate: false
+  xy: 341, 187
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0011_Fix_00025
+  rotate: false
+  xy: 681, 187
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0012_Fix_00024
+  rotate: false
+  xy: 1, 1
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0013_Fix_00023
+  rotate: false
+  xy: 341, 1
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0014_Fix_00022
+  rotate: false
+  xy: 681, 1
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+
+skeleton2.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+_0015_Fix_00021
+  rotate: false
+  xy: 1, 745
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0016_Fix_00020
+  rotate: false
+  xy: 341, 745
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0017_Fix_00019
+  rotate: false
+  xy: 681, 745
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0018_Fix_00018
+  rotate: false
+  xy: 1, 559
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0019_Fix_00017
+  rotate: false
+  xy: 341, 559
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0020_Fix_00016
+  rotate: false
+  xy: 681, 559
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0021_Fix_00015
+  rotate: false
+  xy: 1, 373
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0022_Fix_00014
+  rotate: false
+  xy: 341, 373
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0023_Fix_00013
+  rotate: false
+  xy: 681, 373
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0024_Fix_00012
+  rotate: false
+  xy: 1, 187
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0025_Fix_00011
+  rotate: false
+  xy: 341, 187
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0026_Fix_00010
+  rotate: false
+  xy: 681, 187
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0027_Fix_00009
+  rotate: false
+  xy: 1, 1
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0028_Fix_00008
+  rotate: false
+  xy: 341, 1
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0029_Fix_00007
+  rotate: false
+  xy: 681, 1
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+
+skeleton3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 559
+  size: 434, 284
+  orig: 434, 284
+  offset: 0, 0
+  index: -1
+_0030_Fix_00006
+  rotate: false
+  xy: 1, 373
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0031_Fix_00005
+  rotate: false
+  xy: 436, 658
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0032_Fix_00004
+  rotate: false
+  xy: 1, 187
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0033_Fix_00003
+  rotate: false
+  xy: 1, 1
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0034_Fix_00002
+  rotate: false
+  xy: 436, 472
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0035_Fix_00001
+  rotate: true
+  xy: 776, 504
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1
+_0036_Fix_00000
+  rotate: false
+  xy: 341, 286
+  size: 339, 185
+  orig: 339, 185
+  offset: 0, 0
+  index: -1

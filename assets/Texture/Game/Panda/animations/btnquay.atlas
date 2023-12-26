@@ -1,0 +1,48 @@
+
+btnquay.png
+size: 764,184
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 3
+  rotate: false
+  xy: 656, 76
+  size: 106, 106
+  orig: 108, 108
+  offset: 1, 1
+  index: -1
+Group 3 copy
+  rotate: false
+  xy: 525, 53
+  size: 129, 129
+  orig: 131, 131
+  offset: 1, 1
+  index: -1
+Group 4
+  rotate: false
+  xy: 525, 13
+  size: 133, 38
+  orig: 135, 40
+  offset: 1, 1
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 2
+  size: 180, 180
+  orig: 182, 182
+  offset: 1, 1
+  index: -1
+Layer 3
+  rotate: false
+  xy: 184, 3
+  size: 178, 179
+  orig: 180, 181
+  offset: 1, 1
+  index: -1
+Layer 4
+  rotate: false
+  xy: 364, 24
+  size: 159, 158
+  orig: 161, 160
+  offset: 1, 1
+  index: -1

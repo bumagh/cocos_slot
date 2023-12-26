@@ -1,0 +1,79 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "newsMessage",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 2.1333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "props": {
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 0.13333333333333333,
+          "value": -50
+        },
+        {
+          "frame": 0.38333333333333336,
+          "value": 50
+        },
+        {
+          "frame": 0.6333333333333333,
+          "value": -50
+        },
+        {
+          "frame": 0.8,
+          "value": 0
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0.13333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.8,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 1.1333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1.3,
+            "y": 1.3
+          }
+        },
+        {
+          "frame": 1.4666666666666666,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 2.1333333333333333,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,41 @@
+
+EffectHeader202.png
+size: 471,469
+format: RGBA8888
+filter: MipMapNearestLinear,MipMapNearestLinear
+repeat: none
+Blur
+  rotate: false
+  xy: 2, 244
+  size: 178, 134
+  orig: 178, 134
+  offset: 0, 0
+  index: -1
+Boder
+  rotate: false
+  xy: 2, 380
+  size: 467, 87
+  orig: 467, 87
+  offset: 0, 0
+  index: -1
+Light
+  rotate: true
+  xy: 101, 111
+  size: 131, 120
+  orig: 131, 120
+  offset: 0, 0
+  index: -1
+Logo1
+  rotate: true
+  xy: 2, 34
+  size: 208, 97
+  orig: 208, 97
+  offset: 0, 0
+  index: -1
+Logo2
+  rotate: false
+  xy: 182, 281
+  size: 208, 97
+  orig: 208, 97
+  offset: 0, 0
+  index: -1

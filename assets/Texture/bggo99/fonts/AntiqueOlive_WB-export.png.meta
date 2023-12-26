@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "59b03b56-cead-49e5-93bc-ee6eb7edf016",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 256,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "AntiqueOlive_WB-export": {
+      "ver": "1.0.4",
+      "uuid": "615f2c77-cbf8-4c5d-b51d-743b8fb780af",
+      "rawTextureUuid": "59b03b56-cead-49e5-93bc-ee6eb7edf016",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -26,
+      "offsetY": 2,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 204,
+      "height": 252,
+      "rawWidth": 256,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

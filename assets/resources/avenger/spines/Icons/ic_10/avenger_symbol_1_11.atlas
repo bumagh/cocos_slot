@@ -1,0 +1,13 @@
+
+avenger_symbol_1_11.png
+size: 128,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CAPTAIN SHEILD_2
+  rotate: false
+  xy: 2, 2
+  size: 111, 152
+  orig: 111, 152
+  offset: 0, 0
+  index: -1

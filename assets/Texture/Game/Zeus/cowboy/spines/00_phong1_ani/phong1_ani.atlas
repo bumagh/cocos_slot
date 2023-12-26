@@ -1,0 +1,69 @@
+
+phong1_ani.png
+size: 477,476
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 1, 65
+  size: 323, 410
+  orig: 323, 410
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 325, 307
+  size: 120, 168
+  orig: 120, 168
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 205, 3
+  size: 61, 58
+  orig: 61, 58
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: false
+  xy: 404, 56
+  size: 69, 80
+  orig: 69, 80
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: true
+  xy: 404, 10
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+hand_L
+  rotate: true
+  xy: 325, 207
+  size: 99, 135
+  orig: 99, 135
+  offset: 0, 0
+  index: -1
+hand_R
+  rotate: true
+  xy: 325, 137
+  size: 69, 121
+  orig: 69, 121
+  offset: 0, 0
+  index: -1
+hand_R1
+  rotate: true
+  xy: 1, 14
+  size: 50, 203
+  orig: 50, 203
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 325, 21
+  size: 115, 78
+  orig: 115, 78
+  offset: 0, 0
+  index: -1

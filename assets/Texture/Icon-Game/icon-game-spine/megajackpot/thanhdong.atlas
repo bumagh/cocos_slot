@@ -1,0 +1,48 @@
+
+thanhdong.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 2, 53
+  size: 196, 189
+  orig: 196, 189
+  offset: 0, 0
+  index: -1
+BG3
+  rotate: false
+  xy: 260, 370
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+hu3
+  rotate: false
+  xy: 260, 289
+  size: 136, 79
+  orig: 136, 79
+  offset: 0, 0
+  index: -1
+khung3
+  rotate: false
+  xy: 2, 2
+  size: 166, 49
+  orig: 166, 49
+  offset: 0, 0
+  index: -1
+light3
+  rotate: false
+  xy: 2, 244
+  size: 256, 257
+  orig: 256, 257
+  offset: 0, 0
+  index: -1
+thanhdong
+  rotate: true
+  xy: 200, 104
+  size: 138, 33
+  orig: 138, 33
+  offset: 0, 0
+  index: -1

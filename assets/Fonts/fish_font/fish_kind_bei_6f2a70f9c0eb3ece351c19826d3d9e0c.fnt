@@ -1,0 +1,15 @@
+{"file":"fish_kind_bei.png","frames":{
+"倍":{"x":1,"y":1,"w":17,"h":16,"offX":0,"offY":0,"sourceW":17,"sourceH":16},
+".":{"x":56,"y":15,"w":5,"h":4,"offX":2,"offY":9,"sourceW":10,"sourceH":16},
+"~":{"x":47,"y":29,"w":9,"h":5,"offX":0,"offY":6,"sourceW":10,"sourceH":16},
+"0":{"x":44,"y":1,"w":10,"h":12,"offX":0,"offY":2,"sourceW":10,"sourceH":16},
+"1":{"x":56,"y":1,"w":7,"h":12,"offX":1,"offY":2,"sourceW":10,"sourceH":16},
+"2":{"x":32,"y":1,"w":10,"h":12,"offX":0,"offY":2,"sourceW":10,"sourceH":16},
+"3":{"x":44,"y":15,"w":10,"h":12,"offX":0,"offY":2,"sourceW":10,"sourceH":16},
+"4":{"x":20,"y":15,"w":10,"h":12,"offX":0,"offY":2,"sourceW":10,"sourceH":16},
+"5":{"x":13,"y":29,"w":10,"h":12,"offX":0,"offY":2,"sourceW":10,"sourceH":16},
+"6":{"x":1,"y":19,"w":10,"h":12,"offX":0,"offY":2,"sourceW":10,"sourceH":16},
+"7":{"x":25,"y":29,"w":9,"h":12,"offX":0,"offY":2,"sourceW":10,"sourceH":16},
+"8":{"x":32,"y":15,"w":10,"h":12,"offX":0,"offY":2,"sourceW":10,"sourceH":16},
+"9":{"x":20,"y":1,"w":10,"h":12,"offX":0,"offY":2,"sourceW":10,"sourceH":16},
+"x":{"x":36,"y":29,"w":9,"h":10,"offX":0,"offY":4,"sourceW":10,"sourceH":16}}}

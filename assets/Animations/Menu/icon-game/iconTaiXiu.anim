@@ -1,0 +1,51 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "iconTaiXiu",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 1.3333333333333333,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "xx2": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 118.9
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 115.9
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 118.9
+            }
+          ]
+        }
+      },
+      "xx1": {
+        "props": {
+          "y": [
+            {
+              "frame": 0,
+              "value": 101.4
+            },
+            {
+              "frame": 0.6666666666666666,
+              "value": 108
+            },
+            {
+              "frame": 1.3333333333333333,
+              "value": 101.4
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}

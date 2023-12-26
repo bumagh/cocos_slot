@@ -1,0 +1,7 @@
+/library/
+/temp/
+local/*
+/build/
+node_modules/
+*.log
+.vscode/

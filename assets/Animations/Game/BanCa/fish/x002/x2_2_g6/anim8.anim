@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "anim8",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 16,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            468,
+            538,
+            0
+          ]
+        },
+        {
+          "frame": 16,
+          "value": [
+            -598.744,
+            -573.232,
+            0
+          ]
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 48
+        }
+      ]
+    }
+  },
+  "events": []
+}

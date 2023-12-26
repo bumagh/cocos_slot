@@ -1,0 +1,111 @@
+
+IconTaiXiu.png
+size: 792,792
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 47
+  size: 175, 38
+  orig: 175, 38
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 412, 138
+  size: 357, 242
+  orig: 357, 242
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 2, 87
+  size: 265, 408
+  orig: 265, 408
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 294, 382
+  size: 265, 408
+  orig: 265, 408
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 2, 354
+  size: 290, 436
+  orig: 290, 436
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 7
+  size: 175, 38
+  orig: 175, 38
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 179, 20
+  size: 98, 65
+  orig: 98, 65
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 384, 27
+  size: 94, 58
+  orig: 94, 58
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 279, 27
+  size: 103, 58
+  orig: 103, 58
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 561, 592
+  size: 198, 214
+  orig: 198, 214
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 561, 484
+  size: 103, 106
+  orig: 103, 106
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 655, 412
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 561, 387
+  size: 92, 95
+  orig: 92, 95
+  offset: 0, 0
+  index: -1
+Blur
+  rotate: false
+  xy: 480, 2
+  size: 178, 134
+  orig: 178, 134
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 660, 33
+  size: 103, 114
+  orig: 103, 114
+  offset: 0, 0
+  index: -1

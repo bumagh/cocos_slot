@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a4a35dd7-051d-42c8-8a26-d1a04568ff6c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 306,
+  "height": 471,
+  "platformSettings": {},
+  "subMetas": {
+    "CAPTAIN AMERICA4": {
+      "ver": "1.0.4",
+      "uuid": "324bbfaa-fa8a-478d-89ec-1b6d87d4333a",
+      "rawTextureUuid": "a4a35dd7-051d-42c8-8a26-d1a04568ff6c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 4,
+      "width": 300,
+      "height": 463,
+      "rawWidth": 306,
+      "rawHeight": 471,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

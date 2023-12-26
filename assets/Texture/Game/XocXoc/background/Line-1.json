@@ -1,0 +1,69 @@
+{
+"skeleton": { "hash": "jMD4nD6u3GrB8XsvzqL0TZdOO7o", "spine": "3.6.53", "width": 167, "height": 96, "images": "C:/Users/Dragon-X/Desktop" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Line-1", "bone": "root", "attachment": "Line-1/0" }
+],
+"skins": {
+	"default": {
+		"Line-1": {
+			"Line-1/0": { "width": 167, "height": 96 },
+			"Line-1/1": { "width": 167, "height": 96 },
+			"Line-1/2": { "width": 167, "height": 96 },
+			"Line-1/3": { "width": 167, "height": 96 },
+			"Line-1/4": { "width": 167, "height": 96 },
+			"Line-1/5": { "width": 167, "height": 96 },
+			"Line-1/6": { "width": 167, "height": 96 },
+			"Line-1/7": { "width": 167, "height": 96 },
+			"Line-1/8": { "width": 167, "height": 96 },
+			"Line-1/9": { "width": 167, "height": 96 },
+			"Line-1/10": { "width": 167, "height": 96 },
+			"Line-1/11": { "width": 167, "height": 96 },
+			"Line-1/12": { "width": 167, "height": 96 },
+			"Line-1/13": { "width": 167, "height": 96 },
+			"Line-1/14": { "width": 167, "height": 96 },
+			"Line-1/15": { "width": 167, "height": 96 },
+			"Line-1/16": { "width": 167, "height": 96 },
+			"Line-1/17": { "width": 167, "height": 96 },
+			"Line-1/18": { "width": 167, "height": 96 },
+			"Line-1/19": { "width": 167, "height": 96 },
+			"Line-1/20": { "width": 167, "height": 96 },
+			"Line-1/21": { "width": 167, "height": 96 }
+		}
+	}
+},
+"animations": {
+	"Idle": {
+		"slots": {
+			"Line-1": {
+				"attachment": [
+					{ "time": 0, "name": "Line-1/0" },
+					{ "time": 0.0333, "name": "Line-1/1" },
+					{ "time": 0.0667, "name": "Line-1/2" },
+					{ "time": 0.1, "name": "Line-1/3" },
+					{ "time": 0.1333, "name": "Line-1/4" },
+					{ "time": 0.1667, "name": "Line-1/5" },
+					{ "time": 0.2, "name": "Line-1/6" },
+					{ "time": 0.2333, "name": "Line-1/7" },
+					{ "time": 0.2667, "name": "Line-1/8" },
+					{ "time": 0.3, "name": "Line-1/9" },
+					{ "time": 0.3333, "name": "Line-1/10" },
+					{ "time": 0.3667, "name": "Line-1/11" },
+					{ "time": 0.4, "name": "Line-1/12" },
+					{ "time": 0.4333, "name": "Line-1/13" },
+					{ "time": 0.4667, "name": "Line-1/14" },
+					{ "time": 0.5, "name": "Line-1/15" },
+					{ "time": 0.5333, "name": "Line-1/16" },
+					{ "time": 0.5667, "name": "Line-1/17" },
+					{ "time": 0.6, "name": "Line-1/18" },
+					{ "time": 0.6333, "name": "Line-1/19" },
+					{ "time": 0.6667, "name": "Line-1/20" },
+					{ "time": 0.7, "name": "Line-1/21" }
+				]
+			}
+		}
+	}
+}
+}

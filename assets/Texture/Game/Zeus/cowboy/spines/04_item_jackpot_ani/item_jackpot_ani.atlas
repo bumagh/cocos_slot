@@ -1,0 +1,27 @@
+
+item_jackpot_ani.png
+size: 194,193
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+gold
+  rotate: true
+  xy: 141, 128
+  size: 64, 52
+  orig: 64, 52
+  offset: 0, 0
+  index: -1
+jackpot
+  rotate: false
+  xy: 1, 27
+  size: 130, 33
+  orig: 130, 33
+  offset: 0, 0
+  index: -1
+xe
+  rotate: false
+  xy: 1, 61
+  size: 139, 131
+  orig: 153, 131
+  offset: 0, 0
+  index: -1

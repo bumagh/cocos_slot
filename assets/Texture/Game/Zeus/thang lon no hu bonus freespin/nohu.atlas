@@ -1,0 +1,83 @@
+
+nohu.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 1
+  rotate: false
+  xy: 1227, 1527
+  size: 500, 182
+  orig: 500, 182
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: false
+  xy: 880, 309
+  size: 111, 114
+  orig: 111, 114
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 1077, 955
+  size: 87, 77
+  orig: 87, 77
+  offset: 0, 0
+  index: -1
+Layer 12
+  rotate: false
+  xy: 2, 2
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 2, 123
+  size: 675, 163
+  orig: 675, 163
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: true
+  xy: 880, 425
+  size: 607, 195
+  orig: 607, 195
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 1227, 1711
+  size: 772, 174
+  orig: 772, 174
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 2, 1034
+  size: 1223, 851
+  orig: 1223, 851
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 1227, 1466
+  size: 92, 59
+  orig: 92, 59
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 2, 288
+  size: 876, 744
+  orig: 876, 744
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: false
+  xy: 679, 163
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1

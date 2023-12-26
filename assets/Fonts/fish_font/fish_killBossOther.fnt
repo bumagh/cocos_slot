@@ -1,0 +1,14 @@
+{"file":"fish_killBossOther.png","frames":{
+"7":{"x":204,"y":0,"w":49,"h":68,"offX":0,"offY":0,"sourceW":50,"sourceH":68},
+"8":{"x":102,"y":0,"w":49,"h":68,"offX":0,"offY":0,"sourceW":50,"sourceH":68},
+"9":{"x":51,"y":0,"w":49,"h":68,"offX":0,"offY":0,"sourceW":50,"sourceH":68},
+".":{"x":235,"y":127,"w":18,"h":21,"offX":16,"offY":47,"sourceW":50,"sourceH":68},
+"-":{"x":0,"y":140,"w":45,"h":20,"offX":2,"offY":24,"sourceW":50,"sourceH":68},
+"+":{"x":204,"y":70,"w":44,"h":55,"offX":3,"offY":7,"sourceW":50,"sourceH":68},
+"0":{"x":0,"y":0,"w":49,"h":68,"offX":0,"offY":0,"sourceW":50,"sourceH":68},
+"1":{"x":204,"y":127,"w":29,"h":68,"offX":10,"offY":0,"sourceW":50,"sourceH":68},
+"2":{"x":153,"y":70,"w":49,"h":68,"offX":0,"offY":0,"sourceW":50,"sourceH":68},
+"3":{"x":51,"y":70,"w":49,"h":68,"offX":0,"offY":0,"sourceW":50,"sourceH":68},
+"4":{"x":153,"y":0,"w":49,"h":68,"offX":0,"offY":0,"sourceW":50,"sourceH":68},
+"5":{"x":102,"y":70,"w":49,"h":68,"offX":0,"offY":0,"sourceW":50,"sourceH":68},
+"6":{"x":0,"y":70,"w":49,"h":68,"offX":0,"offY":0,"sourceW":50,"sourceH":68}}}

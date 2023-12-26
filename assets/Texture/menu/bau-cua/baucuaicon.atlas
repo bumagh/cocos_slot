@@ -1,0 +1,48 @@
+
+baucuaicon.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Dice 1
+  rotate: false
+  xy: 112, 17
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+Dice 2
+  rotate: false
+  xy: 326, 41
+  size: 81, 80
+  orig: 81, 80
+  offset: 0, 0
+  index: -1
+Dice 3
+  rotate: false
+  xy: 409, 2
+  size: 72, 71
+  orig: 72, 71
+  offset: 0, 0
+  index: -1
+Flare 1
+  rotate: false
+  xy: 2, 14
+  size: 108, 107
+  orig: 108, 107
+  offset: 0, 0
+  index: -1
+bầu
+  rotate: false
+  xy: 218, 54
+  size: 106, 67
+  orig: 106, 67
+  offset: 0, 0
+  index: -1
+cua
+  rotate: false
+  xy: 409, 75
+  size: 100, 46
+  orig: 100, 46
+  offset: 0, 0
+  index: -1

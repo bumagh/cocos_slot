@@ -1,0 +1,103 @@
+{
+  "skeleton": {
+    "hash": "5s6WG7JG+HBAaf9PNCyZZmm6bEc",
+    "spine": "3.6.52",
+    "width": 53,
+    "height": 124,
+    "images": ""
+  },
+  "bones": [
+    {
+      "name": "root"
+    }
+  ],
+  "slots": [
+    {
+      "name": "CTL/pp-vinh-danh-tách_0020_Group-61",
+      "bone": "root",
+      "attachment": "CTL/pp-vinh-danh-tách_0024_Group-60"
+    }
+  ],
+  "skins": {
+    "default": {
+      "CTL/pp-vinh-danh-tách_0020_Group-61": {
+        "CTL/pp-vinh-danh-tách_0020_Group-61": {
+          "x": 1.84,
+          "y": -27.48,
+          "width": 53,
+          "height": 122
+        },
+        "CTL/pp-vinh-danh-tách_0021_Group-63": {
+          "x": 1.31,
+          "y": -5.39,
+          "width": 53,
+          "height": 81
+        },
+        "CTL/pp-vinh-danh-tách_0022_Group-64": {
+          "x": 2.32,
+          "y": 9.17,
+          "width": 53,
+          "height": 59
+        },
+        "CTL/pp-vinh-danh-tách_0023_Group-62": {
+          "x": 1.84,
+          "y": 26.02,
+          "width": 53,
+          "height": 94
+        },
+        "CTL/pp-vinh-danh-tách_0024_Group-60": {
+          "x": 2.32,
+          "y": 42.3,
+          "width": 53,
+          "height": 124
+        }
+      }
+    }
+  },
+  "animations": {
+    "Spine": {
+      "slots": {
+        "CTL/pp-vinh-danh-tách_0020_Group-61": {
+          "attachment": [
+            {
+              "time": 0,
+              "name": "CTL/pp-vinh-danh-tách_0024_Group-60"
+            },
+            {
+              "time": 0.0333,
+              "name": "CTL/pp-vinh-danh-tách_0023_Group-62"
+            },
+            {
+              "time": 0.0667,
+              "name": "CTL/pp-vinh-danh-tách_0022_Group-64"
+            },
+            {
+              "time": 0.1,
+              "name": "CTL/pp-vinh-danh-tách_0021_Group-63"
+            },
+            {
+              "time": 0.1333,
+              "name": "CTL/pp-vinh-danh-tách_0020_Group-61"
+            },
+            {
+              "time": 0.1667,
+              "name": "CTL/pp-vinh-danh-tách_0020_Group-61"
+            },
+            {
+              "time": 0.2,
+              "name": "CTL/pp-vinh-danh-tách_0022_Group-64"
+            },
+            {
+              "time": 0.2333,
+              "name": "CTL/pp-vinh-danh-tách_0024_Group-60"
+            },
+            {
+              "time": 0.5333,
+              "name": "CTL/pp-vinh-danh-tách_0024_Group-60"
+            }
+          ]
+        }
+      }
+    }
+  }
+}

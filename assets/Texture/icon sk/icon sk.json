@@ -1,0 +1,467 @@
+{
+    "skeleton": {
+        "hash": "fUbXdiIxQXYdwxcHVen0OsMHbbY",
+        "spine": "3.7.94",
+        "width": 400,
+        "height": 135.86,
+        "images": "C:\\Users\\Toanp\\OneDrive\\Máy tính\\Backup\\2020.05.07\\X\\spine  sk\\images",
+        "audio": "C:/Users/Toanp/Desktop/spine zon vip/spine sk"
+    },
+    "bones": [{
+        "name": "root",
+        "x": 11.96,
+        "y": 15.37
+    }, {
+        "name": "xe",
+        "parent": "root",
+        "length": 55.41,
+        "rotation": -173.81,
+        "x": -12.38,
+        "y": 6.35
+    }, {
+        "name": "light",
+        "parent": "xe",
+        "x": 68.57,
+        "y": -1.43
+    }, {
+        "name": "dienthoai",
+        "parent": "root",
+        "length": 38.2,
+        "rotation": 84.23,
+        "x": 1.71,
+        "y": 1.22
+    }, {
+        "name": "light 3",
+        "parent": "dienthoai",
+        "x": 43.15,
+        "y": 14.66
+    }, {
+        "name": "xe may",
+        "parent": "root",
+        "length": 51.67,
+        "rotation": 10.47,
+        "x": 16.66,
+        "y": -2.62
+    }, {
+        "name": "su kien",
+        "parent": "root",
+        "x": 6.41,
+        "y": 14.89
+    }, {
+        "name": "sieu zon",
+        "parent": "root",
+        "x": -1.7,
+        "y": -17.56
+    }, {
+        "name": "light 2",
+        "parent": "root",
+        "length": 79.42,
+        "rotation": 89.69,
+        "x": -10.24,
+        "y": -18.85
+    }],
+    "slots": [{
+        "name": "light 2",
+        "bone": "light 2",
+        "attachment": "light 2"
+    }, {
+        "name": "dienthoai",
+        "bone": "dienthoai",
+        "attachment": "dienthoai"
+    }, {
+        "name": "xe",
+        "bone": "xe",
+        "attachment": "xe"
+    }, {
+        "name": "light",
+        "bone": "light",
+        "attachment": "light",
+        "blend": "screen"
+    }, {
+        "name": "xe may",
+        "bone": "xe may",
+        "attachment": "xe may"
+    }, {
+        "name": "su kien",
+        "bone": "su kien",
+        "attachment": "su kien"
+    }, {
+        "name": "sieu zon",
+        "bone": "sieu zon",
+        "attachment": "sieu zon"
+    }, {
+        "name": "light 3",
+        "bone": "light 3",
+        "attachment": "light 3",
+        "blend": "screen"
+    }, {
+        "name": "icon sk_00000",
+        "bone": "root",
+        "attachment": "icon sk_00013",
+        "blend": "additive"
+    }],
+    "skins": {
+        "default": {
+            "dienthoai": {
+                "dienthoai": {
+                    "x": 20.69,
+                    "y": 0.49,
+                    "rotation": -84.23,
+                    "width": 71,
+                    "height": 66
+                }
+            },
+            "icon sk_00000": {
+                "icon sk_00000": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00001": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00002": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00003": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00004": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00005": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00006": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00007": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00008": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00009": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00010": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00011": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00012": {
+                    "width": 400,
+                    "height": 100
+                },
+                "icon sk_00013": {
+                    "width": 400,
+                    "height": 100
+                }
+            },
+            "light": {
+                "light": {
+                    "x": -11.26,
+                    "y": -1.79,
+                    "rotation": 173.81,
+                    "width": 89,
+                    "height": 65
+                }
+            },
+            "light 2": {
+                "light 2": {
+                    "x": 40.2,
+                    "y": 2.17,
+                    "rotation": -89.69,
+                    "width": 198,
+                    "height": 129
+                }
+            },
+            "light 3": {
+                "light 3": {
+                    "x": -1.52,
+                    "y": -2.51,
+                    "rotation": -84.23,
+                    "width": 52,
+                    "height": 42
+                }
+            },
+            "sieu zon": {
+                "sieu zon": {
+                    "x": 5.01,
+                    "y": 3.43,
+                    "width": 186,
+                    "height": 60
+                }
+            },
+            "su kien": {
+                "su kien": {
+                    "x": -1.1,
+                    "y": -3.02,
+                    "width": 101,
+                    "height": 52
+                }
+            },
+            "xe": {
+                "xe": {
+                    "x": 51.16,
+                    "y": 0.47,
+                    "rotation": 173.81,
+                    "width": 164,
+                    "height": 63
+                }
+            },
+            "xe may": {
+                "xe may": {
+                    "x": 36.23,
+                    "y": -0.11,
+                    "rotation": -10.47,
+                    "width": 101,
+                    "height": 76
+                }
+            }
+        }
+    },
+    "animations": {
+        "animation": {
+            "slots": {
+                "icon sk_00000": {
+                    "attachment": [{
+                        "time": 0,
+                        "name": null
+                    }, {
+                        "time": 0.0667,
+                        "name": "icon sk_00000"
+                    }, {
+                        "time": 0.1333,
+                        "name": "icon sk_00001"
+                    }, {
+                        "time": 0.2,
+                        "name": "icon sk_00002"
+                    }, {
+                        "time": 0.2667,
+                        "name": "icon sk_00003"
+                    }, {
+                        "time": 0.3333,
+                        "name": "icon sk_00004"
+                    }, {
+                        "time": 0.4,
+                        "name": "icon sk_00005"
+                    }, {
+                        "time": 0.4667,
+                        "name": "icon sk_00006"
+                    }, {
+                        "time": 0.5333,
+                        "name": "icon sk_00007"
+                    }, {
+                        "time": 0.6,
+                        "name": "icon sk_00008"
+                    }, {
+                        "time": 0.6667,
+                        "name": "icon sk_00009"
+                    }, {
+                        "time": 0.7333,
+                        "name": "icon sk_00010"
+                    }, {
+                        "time": 0.8,
+                        "name": "icon sk_00011"
+                    }, {
+                        "time": 0.8667,
+                        "name": "icon sk_00012"
+                    }, {
+                        "time": 0.9333,
+                        "name": "icon sk_00013"
+                    }, {
+                        "time": 1,
+                        "name": null
+                    }]
+                },
+                "light": {
+                    "attachment": [{
+                        "time": 0.3333,
+                        "name": null
+                    }, {
+                        "time": 0.5,
+                        "name": "light"
+                    }, {
+                        "time": 0.6667,
+                        "name": null
+                    }, {
+                        "time": 0.8333,
+                        "name": "light"
+                    }]
+                },
+                "light 3": {
+                    "attachment": [{
+                        "time": 1.3333,
+                        "name": null
+                    }, {
+                        "time": 1.5,
+                        "name": "light 3"
+                    }, {
+                        "time": 1.6667,
+                        "name": null
+                    }, {
+                        "time": 1.8333,
+                        "name": "light 3"
+                    }]
+                }
+            },
+            "bones": {
+                "dienthoai": {
+                    "rotate": [{
+                        "time": 0,
+                        "angle": 0
+                    }, {
+                        "time": 0.5,
+                        "angle": 5.04
+                    }, {
+                        "time": 1,
+                        "angle": 0
+                    }],
+                    "scale": [{
+                        "time": 1,
+                        "x": 1,
+                        "y": 1
+                    }, {
+                        "time": 1.5,
+                        "x": 1.088,
+                        "y": 1.088
+                    }, {
+                        "time": 2,
+                        "x": 1,
+                        "y": 1
+                    }]
+                },
+                "xe may": {
+                    "translate": [{
+                        "time": 0,
+                        "x": 0,
+                        "y": 0
+                    }, {
+                        "time": 0.5,
+                        "x": 6.92,
+                        "y": 4.61
+                    }, {
+                        "time": 1,
+                        "x": 0,
+                        "y": 0
+                    }, {
+                        "time": 1.1667,
+                        "x": 6.28,
+                        "y": 0
+                    }, {
+                        "time": 1.3333,
+                        "x": 0,
+                        "y": 0
+                    }, {
+                        "time": 1.5,
+                        "x": 6.28,
+                        "y": 0
+                    }, {
+                        "time": 1.6667,
+                        "x": 0,
+                        "y": 0
+                    }]
+                },
+                "xe": {
+                    "translate": [{
+                        "time": 0,
+                        "x": 0,
+                        "y": 0
+                    }, {
+                        "time": 0.1667,
+                        "x": -5.71,
+                        "y": -0.64
+                    }, {
+                        "time": 0.3333,
+                        "x": 0,
+                        "y": 0
+                    }, {
+                        "time": 0.5,
+                        "x": -5.71,
+                        "y": -0.64
+                    }, {
+                        "time": 0.6667,
+                        "x": 0,
+                        "y": 0
+                    }],
+                    "scale": [{
+                        "time": 0.6667,
+                        "x": 1,
+                        "y": 1
+                    }, {
+                        "time": 1.3,
+                        "x": 1.075,
+                        "y": 1.075
+                    }, {
+                        "time": 2,
+                        "x": 1,
+                        "y": 1
+                    }]
+                },
+                "su kien": {
+                    "scale": [{
+                        "time": 0,
+                        "x": 1,
+                        "y": 1
+                    }, {
+                        "time": 0.1667,
+                        "x": 0.96,
+                        "y": 0.96
+                    }, {
+                        "time": 0.3333,
+                        "x": 1,
+                        "y": 1
+                    }, {
+                        "time": 0.5,
+                        "x": 0.96,
+                        "y": 0.96
+                    }, {
+                        "time": 0.6667,
+                        "x": 1,
+                        "y": 1
+                    }]
+                },
+                "sieu zon": {
+                    "translate": [{
+                        "time": 0,
+                        "x": -11.83,
+                        "y": 0
+                    }],
+                    "scale": [{
+                        "time": 0.1667,
+                        "x": 1,
+                        "y": 1
+                    }, {
+                        "time": 0.3333,
+                        "x": 0.96,
+                        "y": 0.96
+                    }, {
+                        "time": 0.5,
+                        "x": 1,
+                        "y": 1
+                    }, {
+                        "time": 0.6667,
+                        "x": 0.96,
+                        "y": 0.96
+                    }, {
+                        "time": 0.8333,
+                        "x": 1,
+                        "y": 1
+                    }]
+                }
+            }
+        }
+    }
+}

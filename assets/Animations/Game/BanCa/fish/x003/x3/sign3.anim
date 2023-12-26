@@ -1,0 +1,70 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sign3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 14,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -308,
+            444
+          ],
+          "motionPath": [
+            [
+              594,
+              188,
+              594,
+              187,
+              595,
+              187
+            ]
+          ]
+        },
+        {
+          "frame": 14,
+          "value": [
+            -762,
+            -314
+          ],
+          "motionPath": []
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": -1
+        },
+        {
+          "frame": 5.416666666666667,
+          "value": -1
+        },
+        {
+          "frame": 5.55,
+          "value": 1
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": -24
+        },
+        {
+          "frame": 5.416666666666667,
+          "value": -24
+        },
+        {
+          "frame": 5.55,
+          "value": 24
+        }
+      ]
+    }
+  },
+  "events": []
+}

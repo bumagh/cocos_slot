@@ -1,0 +1,167 @@
+
+Go-BannerGameTheThao.png
+size: 2001,380
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG1
+  rotate: true
+  xy: 393, 122
+  size: 256, 398
+  orig: 256, 398
+  offset: 0, 0
+  index: -1
+BG2
+  rotate: true
+  xy: 793, 122
+  size: 256, 397
+  orig: 256, 397
+  offset: 0, 0
+  index: -1
+CamB1
+  rotate: false
+  xy: 1939, 207
+  size: 53, 49
+  orig: 53, 49
+  offset: 0, 0
+  index: -1
+ChanG1
+  rotate: true
+  xy: 1192, 2
+  size: 129, 169
+  orig: 129, 169
+  offset: 0, 0
+  index: -1
+ChuO
+  rotate: false
+  xy: 1496, 17
+  size: 87, 92
+  orig: 87, 92
+  offset: 0, 0
+  index: -1
+ChuS
+  rotate: true
+  xy: 623, 2
+  size: 64, 72
+  orig: 64, 72
+  offset: 0, 0
+  index: -1
+DauB1
+  rotate: false
+  xy: 1914, 79
+  size: 85, 114
+  orig: 85, 114
+  offset: 0, 0
+  index: -1
+DauG2
+  rotate: false
+  xy: 1071, 20
+  size: 84, 100
+  orig: 84, 100
+  offset: 0, 0
+  index: -1
+Effect
+  rotate: true
+  xy: 2, 2
+  size: 376, 389
+  orig: 376, 389
+  offset: 0, 0
+  index: -1
+Logo
+  rotate: true
+  xy: 535, 6
+  size: 76, 86
+  orig: 76, 87
+  offset: 0, 1
+  index: -1
+Lua
+  rotate: true
+  xy: 1363, 5
+  size: 104, 131
+  orig: 216, 203
+  offset: 41, 36
+  index: -1
+Mask
+  rotate: false
+  xy: 1438, 152
+  size: 256, 226
+  orig: 256, 226
+  offset: 0, 0
+  index: -1
+MatNham
+  rotate: false
+  xy: 1496, 2
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+MoiRaMat
+  rotate: false
+  xy: 1438, 111
+  size: 173, 39
+  orig: 173, 39
+  offset: 0, 0
+  index: -1
+Nen
+  rotate: false
+  xy: 393, 84
+  size: 293, 36
+  orig: 293, 36
+  offset: 0, 0
+  index: -1
+TayB1
+  rotate: true
+  xy: 393, 2
+  size: 80, 140
+  orig: 80, 140
+  offset: 0, 0
+  index: -1
+ThanB1
+  rotate: false
+  xy: 1192, 133
+  size: 244, 245
+  orig: 244, 245
+  offset: 0, 0
+  index: -1
+ThanDuoiG2
+  rotate: true
+  xy: 888, 10
+  size: 110, 181
+  orig: 110, 181
+  offset: 0, 0
+  index: -1
+ThanTrenG1
+  rotate: true
+  xy: 1696, 28
+  size: 165, 216
+  orig: 165, 216
+  offset: 0, 0
+  index: -1
+ThanTrenG2
+  rotate: true
+  xy: 1696, 195
+  size: 183, 241
+  orig: 183, 241
+  offset: 0, 0
+  index: -1
+Thao
+  rotate: false
+  xy: 697, 23
+  size: 157, 43
+  orig: 157, 43
+  offset: 0, 0
+  index: -1
+The
+  rotate: true
+  xy: 1939, 258
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+TheThao
+  rotate: false
+  xy: 688, 68
+  size: 198, 52
+  orig: 198, 52
+  offset: 0, 0
+  index: -1

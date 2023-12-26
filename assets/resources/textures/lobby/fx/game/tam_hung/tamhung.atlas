@@ -1,0 +1,97 @@
+
+tamhung.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 19
+  rotate: true
+  xy: 516, 225
+  size: 275, 408
+  orig: 275, 408
+  offset: 0, 0
+  index: -1
+Layer 20
+  rotate: true
+  xy: 890, 138
+  size: 75, 109
+  orig: 75, 109
+  offset: 0, 0
+  index: -1
+Layer 21
+  rotate: true
+  xy: 516, 68
+  size: 155, 191
+  orig: 155, 191
+  offset: 0, 0
+  index: -1
+Layer 22
+  rotate: true
+  xy: 709, 121
+  size: 102, 179
+  orig: 102, 179
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 2, 33
+  size: 275, 169
+  orig: 275, 169
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: true
+  xy: 279, 51
+  size: 151, 222
+  orig: 151, 222
+  offset: 0, 0
+  index: -1
+Layer 36
+  rotate: false
+  xy: 709, 70
+  size: 117, 49
+  orig: 117, 49
+  offset: 0, 0
+  index: -1
+Layer 37
+  rotate: false
+  xy: 890, 73
+  size: 112, 63
+  orig: 112, 63
+  offset: 0, 0
+  index: -1
+Layer 38
+  rotate: false
+  xy: 2, 2
+  size: 119, 29
+  orig: 119, 29
+  offset: 0, 0
+  index: -1
+Layer 39
+  rotate: false
+  xy: 279, 34
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+Layer 40
+  rotate: false
+  xy: 828, 54
+  size: 55, 65
+  orig: 55, 65
+  offset: 0, 0
+  index: -1
+Layer 6793
+  rotate: true
+  xy: 926, 215
+  size: 285, 88
+  orig: 285, 88
+  offset: 0, 0
+  index: -1
+Layer 77
+  rotate: true
+  xy: 2, 204
+  size: 296, 512
+  orig: 296, 512
+  offset: 0, 0
+  index: -1

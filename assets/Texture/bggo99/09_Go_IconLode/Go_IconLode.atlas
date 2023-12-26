@@ -1,0 +1,244 @@
+
+Go_IconLode.png
+size: 1161,1161
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 1101, 286
+  size: 22, 46
+  orig: 22, 46
+  offset: 0, 0
+  index: -1
+900
+  rotate: false
+  xy: 1001, 63
+  size: 101, 47
+  orig: 101, 47
+  offset: 0, 0
+  index: -1
+An
+  rotate: true
+  xy: 1091, 744
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+BG_Girl
+  rotate: false
+  xy: 274, 316
+  size: 266, 402
+  orig: 266, 402
+  offset: 0, 0
+  index: -1
+Ball1
+  rotate: false
+  xy: 1009, 730
+  size: 80, 79
+  orig: 80, 79
+  offset: 0, 0
+  index: -1
+Ball2
+  rotate: false
+  xy: 784, 9
+  size: 63, 64
+  orig: 63, 64
+  offset: 0, 0
+  index: -1
+Ball3
+  rotate: false
+  xy: 1009, 693
+  size: 36, 35
+  orig: 36, 35
+  offset: 0, 0
+  index: -1
+Ball4
+  rotate: false
+  xy: 988, 11
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+Ball5
+  rotate: false
+  xy: 924, 19
+  size: 62, 64
+  orig: 62, 64
+  offset: 0, 0
+  index: -1
+Ball6
+  rotate: false
+  xy: 1019, 811
+  size: 95, 95
+  orig: 95, 95
+  offset: 0, 0
+  index: -1
+Ball7
+  rotate: false
+  xy: 618, 2
+  size: 69, 71
+  orig: 69, 71
+  offset: 0, 0
+  index: -1
+BanTay
+  rotate: false
+  xy: 877, 286
+  size: 222, 124
+  orig: 222, 124
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 926, 412
+  size: 232, 279
+  orig: 232, 279
+  offset: 0, 0
+  index: -1
+Bong1
+  rotate: false
+  xy: 663, 114
+  size: 171, 169
+  orig: 171, 169
+  offset: 0, 0
+  index: -1
+CatNgang
+  rotate: false
+  xy: 348, 4
+  size: 268, 75
+  orig: 268, 75
+  offset: 0, 0
+  index: -1
+Chan
+  rotate: false
+  xy: 836, 85
+  size: 163, 153
+  orig: 163, 153
+  offset: 0, 0
+  index: -1
+Dau
+  rotate: false
+  xy: 1001, 112
+  size: 111, 126
+  orig: 111, 126
+  offset: 0, 0
+  index: -1
+Girl_2
+  rotate: true
+  xy: 348, 81
+  size: 202, 313
+  orig: 202, 313
+  offset: 0, 0
+  index: -1
+Girl_3
+  rotate: true
+  xy: 2, 2
+  size: 271, 344
+  orig: 271, 344
+  offset: 0, 0
+  index: -1
+Gril_1
+  rotate: true
+  xy: 542, 453
+  size: 238, 382
+  orig: 238, 382
+  offset: 0, 0
+  index: -1
+Khung
+  rotate: false
+  xy: 2, 720
+  size: 291, 439
+  orig: 291, 439
+  offset: 0, 0
+  index: -1
+LoeSang
+  rotate: false
+  xy: 849, 13
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+Lua
+  rotate: false
+  xy: 295, 771
+  size: 306, 388
+  orig: 306, 388
+  offset: 0, 0
+  index: -1
+MASK
+  rotate: false
+  xy: 603, 693
+  size: 404, 192
+  orig: 404, 192
+  offset: 0, 0
+  index: -1
+MatMo
+  rotate: false
+  xy: 1131, 1138
+  size: 28, 21
+  orig: 28, 21
+  offset: 0, 0
+  index: -1
+Nen
+  rotate: true
+  xy: 603, 887
+  size: 272, 414
+  orig: 272, 414
+  offset: 0, 0
+  index: -1
+SHADOW_LIVECASINO
+  rotate: false
+  xy: 295, 729
+  size: 242, 40
+  orig: 242, 40
+  offset: 0, 0
+  index: -1
+Shadow
+  rotate: false
+  xy: 2, 275
+  size: 270, 443
+  orig: 270, 443
+  offset: 0, 0
+  index: -1
+TEXTLIVECASINO
+  rotate: false
+  xy: 877, 240
+  size: 237, 44
+  orig: 237, 44
+  offset: 0, 0
+  index: -1
+TextLode
+  rotate: true
+  xy: 1019, 908
+  size: 251, 110
+  orig: 251, 110
+  offset: 0, 0
+  index: -1
+TocSau
+  rotate: true
+  xy: 542, 285
+  size: 166, 333
+  orig: 166, 333
+  offset: 0, 0
+  index: -1
+Toc_1
+  rotate: false
+  xy: 1101, 310
+  size: 58, 100
+  orig: 58, 100
+  offset: 0, 0
+  index: -1
+Toc_2
+  rotate: false
+  xy: 689, 12
+  size: 93, 61
+  orig: 93, 61
+  offset: 0, 0
+  index: -1
+VaiAo
+  rotate: true
+  xy: 663, 75
+  size: 37, 127
+  orig: 37, 127
+  offset: 0, 0
+  index: -1

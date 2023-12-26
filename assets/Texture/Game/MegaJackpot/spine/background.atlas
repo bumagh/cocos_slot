@@ -1,0 +1,167 @@
+
+background.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BGbachkim
+  rotate: false
+  xy: 2, 1566
+  size: 916, 470
+  orig: 916, 470
+  offset: 0, 0
+  index: -1
+BGhoangkim
+  rotate: false
+  xy: 2, 1094
+  size: 916, 470
+  orig: 916, 470
+  offset: 0, 0
+  index: -1
+BGthanhdong
+  rotate: false
+  xy: 920, 1566
+  size: 916, 470
+  orig: 916, 470
+  offset: 0, 0
+  index: -1
+Layer 1
+  rotate: false
+  xy: 1838, 1836
+  size: 192, 200
+  orig: 192, 200
+  offset: 0, 0
+  index: -1
+Layer 2
+  rotate: false
+  xy: 1485, 1364
+  size: 192, 200
+  orig: 192, 200
+  offset: 0, 0
+  index: -1
+Layer 3
+  rotate: false
+  xy: 2, 280
+  size: 192, 200
+  orig: 192, 200
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: false
+  xy: 567, 605
+  size: 192, 200
+  orig: 192, 200
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: false
+  xy: 1838, 1634
+  size: 192, 200
+  orig: 192, 200
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: false
+  xy: 2, 78
+  size: 192, 200
+  orig: 192, 200
+  offset: 0, 0
+  index: -1
+homtien
+  rotate: false
+  xy: 567, 807
+  size: 284, 285
+  orig: 284, 285
+  offset: 0, 0
+  index: -1
+long
+  rotate: false
+  xy: 196, 398
+  size: 102, 82
+  orig: 102, 82
+  offset: 0, 0
+  index: -1
+quaytxt
+  rotate: false
+  xy: 1679, 1429
+  size: 134, 135
+  orig: 134, 135
+  offset: 0, 0
+  index: -1
+quaytxtt
+  rotate: false
+  xy: 2, 2
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+rongbachkim
+  rotate: false
+  xy: 2, 788
+  size: 563, 304
+  orig: 563, 304
+  offset: 0, 0
+  index: -1
+ronghoangkim
+  rotate: false
+  xy: 920, 1260
+  size: 563, 304
+  orig: 563, 304
+  offset: 0, 0
+  index: -1
+rongthanhdong
+  rotate: false
+  xy: 2, 482
+  size: 563, 304
+  orig: 563, 304
+  offset: 0, 0
+  index: -1
+sieuhutop
+  rotate: true
+  xy: 853, 985
+  size: 107, 43
+  orig: 107, 43
+  offset: 0, 0
+  index: -1
+so
+  rotate: false
+  xy: 920, 1179
+  size: 230, 79
+  orig: 230, 79
+  offset: 0, 0
+  index: -1
+than
+  rotate: false
+  xy: 1485, 1279
+  size: 111, 83
+  orig: 111, 83
+  offset: 0, 0
+  index: -1
+txtbachkim
+  rotate: false
+  xy: 920, 1105
+  size: 71, 72
+  orig: 71, 72
+  offset: 0, 0
+  index: -1
+txthoangkim
+  rotate: false
+  xy: 761, 733
+  size: 89, 72
+  orig: 89, 72
+  offset: 0, 0
+  index: -1
+txtthanhdong
+  rotate: false
+  xy: 567, 526
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+xu
+  rotate: false
+  xy: 1838, 1587
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1

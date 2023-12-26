@@ -1,0 +1,65 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "one1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 16,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -767,
+            256
+          ],
+          "motionPath": [
+            [
+              28,
+              -168,
+              -357,
+              -34,
+              442,
+              -305
+            ]
+          ]
+        },
+        {
+          "frame": 16,
+          "value": [
+            786,
+            -206
+          ]
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": -23
+        },
+        {
+          "frame": 7,
+          "value": -18
+        },
+        {
+          "frame": 16,
+          "value": 20
+        }
+      ]
+    }
+  },
+  "events": []
+}

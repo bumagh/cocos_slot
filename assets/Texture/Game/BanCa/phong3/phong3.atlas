@@ -1,0 +1,153 @@
+
+phong3.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 11
+  rotate: false
+  xy: 368, 741
+  size: 268, 67
+  orig: 268, 67
+  offset: 0, 0
+  index: -1
+Layer 33
+  rotate: false
+  xy: 2, 512
+  size: 330, 184
+  orig: 330, 184
+  offset: 0, 0
+  index: -1
+Layer 596
+  rotate: false
+  xy: 2, 26
+  size: 144, 80
+  orig: 144, 80
+  offset: 0, 0
+  index: -1
+Layer 597
+  rotate: false
+  xy: 2, 698
+  size: 364, 312
+  orig: 364, 312
+  offset: 0, 0
+  index: -1
+Layer 598
+  rotate: false
+  xy: 810, 313
+  size: 92, 91
+  orig: 92, 91
+  offset: 0, 0
+  index: -1
+bonus_flare
+  rotate: false
+  xy: 840, 712
+  size: 99, 96
+  orig: 99, 96
+  offset: 0, 0
+  index: -1
+cammap_00000
+  rotate: false
+  xy: 368, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00001
+  rotate: false
+  xy: 2, 310
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00002
+  rotate: false
+  xy: 570, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00003
+  rotate: false
+  xy: 2, 108
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00004
+  rotate: false
+  xy: 772, 810
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00005
+  rotate: false
+  xy: 204, 310
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00006
+  rotate: false
+  xy: 204, 108
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00007
+  rotate: false
+  xy: 638, 608
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00008
+  rotate: false
+  xy: 368, 539
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00009
+  rotate: false
+  xy: 406, 337
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00010
+  rotate: false
+  xy: 406, 135
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00011
+  rotate: false
+  xy: 608, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00012
+  rotate: false
+  xy: 608, 204
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00013
+  rotate: false
+  xy: 608, 2
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+cammap_00014
+  rotate: false
+  xy: 810, 406
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

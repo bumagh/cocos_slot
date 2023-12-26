@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "629bc5ef-e00f-4037-8598-c3a192d75cea",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 398,
+  "height": 398,
+  "platformSettings": {},
+  "subMetas": {
+    "casino-logo-png-4-1-Transparent-Images-Free": {
+      "ver": "1.0.4",
+      "uuid": "8ed4b53b-bcad-4492-b435-0f6198bc87aa",
+      "rawTextureUuid": "629bc5ef-e00f-4037-8598-c3a192d75cea",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 398,
+      "height": 398,
+      "rawWidth": 398,
+      "rawHeight": 398,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

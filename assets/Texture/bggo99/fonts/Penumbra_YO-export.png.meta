@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f17c06bc-7250-43ce-9e3d-ecf79bb3aca3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 207,
+  "height": 225,
+  "platformSettings": {},
+  "subMetas": {
+    "Penumbra_YO-export": {
+      "ver": "1.0.4",
+      "uuid": "422c5f5e-5c63-41ef-b421-a0ad4c7ab207",
+      "rawTextureUuid": "f17c06bc-7250-43ce-9e3d-ecf79bb3aca3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": 0.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 206,
+      "height": 224,
+      "rawWidth": 207,
+      "rawHeight": 225,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

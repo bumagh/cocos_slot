@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sign2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 13,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -772.581,
+            123.635,
+            0
+          ]
+        },
+        {
+          "frame": 13,
+          "value": [
+            772.581,
+            123.635,
+            0
+          ]
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": -1
+        }
+      ]
+    }
+  },
+  "events": []
+}

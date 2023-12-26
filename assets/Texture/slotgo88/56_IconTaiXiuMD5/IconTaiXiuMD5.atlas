@@ -1,0 +1,160 @@
+
+IconTaiXiuMD5.png
+size: 1616,302
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Group 2
+  rotate: true
+  xy: 1, 11
+  size: 290, 436
+  orig: 290, 436
+  offset: 0, 0
+  index: -1
+Group 2a
+  rotate: true
+  xy: 439, 11
+  size: 290, 436
+  orig: 290, 436
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 1343, 18
+  size: 26, 20
+  orig: 26, 20
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: false
+  xy: 1270, 1
+  size: 38, 43
+  orig: 38, 43
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 1310, 2
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+MD5
+  rotate: false
+  xy: 1505, 241
+  size: 107, 60
+  orig: 107, 60
+  offset: 0, 0
+  index: -1
+MD5_blur
+  rotate: false
+  xy: 1397, 179
+  size: 107, 60
+  orig: 107, 60
+  offset: 0, 0
+  index: -1
+TÀI
+  rotate: true
+  xy: 1146, 5
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+TÀI_blur
+  rotate: true
+  xy: 1208, 5
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+XỈU
+  rotate: false
+  xy: 1397, 241
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+XỈU_blur
+  rotate: false
+  xy: 1506, 179
+  size: 95, 60
+  orig: 95, 60
+  offset: 0, 0
+  index: -1
+aura
+  rotate: true
+  xy: 1270, 46
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1
+effect1
+  rotate: true
+  xy: 1208, 102
+  size: 199, 60
+  orig: 199, 60
+  offset: 0, 0
+  index: -1
+effect2
+  rotate: true
+  xy: 1146, 102
+  size: 199, 60
+  orig: 199, 60
+  offset: 0, 0
+  index: -1
+icon tai
+  rotate: false
+  xy: 1393, 5
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+icon tai_outline
+  rotate: false
+  xy: 1449, 5
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+icon xiu
+  rotate: false
+  xy: 1505, 47
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+icon xiu_outline
+  rotate: false
+  xy: 1561, 47
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+sang1
+  rotate: true
+  xy: 877, 20
+  size: 281, 267
+  orig: 281, 267
+  offset: 0, 0
+  index: -1
+xi ngau 1
+  rotate: false
+  xy: 1270, 171
+  size: 125, 130
+  orig: 125, 130
+  offset: 0, 0
+  index: -1
+xi ngau 2
+  rotate: true
+  xy: 1393, 61
+  size: 108, 104
+  orig: 108, 104
+  offset: 0, 0
+  index: -1
+xi ngau 3
+  rotate: false
+  xy: 1505, 103
+  size: 75, 74
+  orig: 75, 74
+  offset: 0, 0
+  index: -1

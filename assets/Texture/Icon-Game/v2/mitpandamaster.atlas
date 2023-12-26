@@ -1,0 +1,69 @@
+
+mitpandamaster.png
+size: 1101,228
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+che
+  rotate: false
+  xy: 767, 116
+  size: 216, 110
+  orig: 216, 110
+  offset: 0, 0
+  index: -1
+gaumeo
+  rotate: true
+  xy: 767, 16
+  size: 98, 139
+  orig: 98, 139
+  offset: 0, 0
+  index: -1
+gauthuong
+  rotate: true
+  xy: 413, 12
+  size: 214, 352
+  orig: 214, 352
+  offset: 0, 0
+  index: -1
+la
+  rotate: false
+  xy: 985, 137
+  size: 92, 89
+  orig: 92, 89
+  offset: 0, 0
+  index: -1
+master
+  rotate: false
+  xy: 908, 19
+  size: 183, 45
+  orig: 183, 45
+  offset: 0, 0
+  index: -1
+matgaumeo
+  rotate: false
+  xy: 985, 122
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+matgauthuong
+  rotate: true
+  xy: 1079, 177
+  size: 49, 20
+  orig: 49, 20
+  offset: 0, 0
+  index: -1
+nengame
+  rotate: true
+  xy: 2, 2
+  size: 224, 409
+  orig: 224, 409
+  offset: 0, 0
+  index: -1
+panda
+  rotate: false
+  xy: 908, 66
+  size: 137, 48
+  orig: 137, 48
+  offset: 0, 0
+  index: -1

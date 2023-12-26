@@ -1,0 +1,34 @@
+
+avenger_symbol_1_6.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BACK
+  rotate: false
+  xy: 178, 73
+  size: 133, 158
+  orig: 133, 158
+  offset: 0, 0
+  index: -1
+BORDER
+  rotate: false
+  xy: 2, 57
+  size: 174, 174
+  orig: 174, 174
+  offset: 0, 0
+  index: -1
+GROOT_BODY
+  rotate: false
+  xy: 2, 2
+  size: 120, 53
+  orig: 120, 53
+  offset: 0, 0
+  index: -1
+GROOT_HEAD
+  rotate: false
+  xy: 313, 97
+  size: 101, 134
+  orig: 101, 134
+  offset: 0, 0
+  index: -1

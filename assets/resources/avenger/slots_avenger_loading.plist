@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>avenger_bg_loading.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{1559,720}</string>
+                <key>spriteSourceSize</key>
+                <string>{1559,720}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{1559,720}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>slots_avenger_loading.png</string>
+            <key>size</key>
+            <string>{1561,722}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:39d486dab1c17efe8d3b776cdd07fee2:e851d3c8df974abe6e7ab949806a0721:8abf1d164e12579f3c4a6b7088665f8a$</string>
+            <key>textureFileName</key>
+            <string>slots_avenger_loading.png</string>
+        </dict>
+    </dict>
+</plist>

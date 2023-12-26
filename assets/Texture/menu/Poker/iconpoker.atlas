@@ -1,0 +1,76 @@
+
+iconpoker.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ACE
+  rotate: true
+  xy: 401, 27
+  size: 85, 93
+  orig: 85, 93
+  offset: 0, 0
+  index: -1
+Buttefly
+  rotate: false
+  xy: 236, 13
+  size: 163, 95
+  orig: 163, 95
+  offset: 0, 0
+  index: -1
+Card 1
+  rotate: false
+  xy: 203, 110
+  size: 128, 143
+  orig: 128, 143
+  offset: 0, 0
+  index: -1
+Card 2
+  rotate: false
+  xy: 333, 114
+  size: 112, 139
+  orig: 112, 139
+  offset: 0, 0
+  index: -1
+E
+  rotate: true
+  xy: 447, 166
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+K
+  rotate: false
+  xy: 191, 2
+  size: 43, 50
+  orig: 43, 50
+  offset: 0, 0
+  index: -1
+O
+  rotate: true
+  xy: 447, 209
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+Overlay
+  rotate: false
+  xy: 2, 54
+  size: 199, 199
+  orig: 199, 199
+  offset: 0, 0
+  index: -1
+P
+  rotate: false
+  xy: 2, 7
+  size: 139, 45
+  orig: 139, 45
+  offset: 0, 0
+  index: -1
+R
+  rotate: true
+  xy: 143, 5
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1

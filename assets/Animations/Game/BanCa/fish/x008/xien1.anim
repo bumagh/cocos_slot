@@ -1,0 +1,39 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "xien1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 24.016666666666666,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            787.74,
+            367.331,
+            0
+          ]
+        },
+        {
+          "frame": 24.016666666666666,
+          "value": [
+            -810.389,
+            -357.437,
+            0
+          ]
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 25
+        }
+      ]
+    }
+  },
+  "events": []
+}

@@ -1,0 +1,56 @@
+{
+  "ver": "1.2.4",
+  "uuid": "d75e118b-8c28-419d-91a9-fa0143bc103d",
+  "rawTextureUuid": "c2f96499-9efa-4156-940a-f6c5b51c1110",
+  "size": {
+    "width": 1561,
+    "height": 1444
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "avenger_bg.png": {
+      "ver": "1.0.4",
+      "uuid": "5c738dd6-9e4d-40eb-a05c-9216a748e046",
+      "rawTextureUuid": "c2f96499-9efa-4156-940a-f6c5b51c1110",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1559,
+      "height": 720,
+      "rawWidth": 1559,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    },
+    "avenger_bg_1.png": {
+      "ver": "1.0.4",
+      "uuid": "fef83c54-20b0-424f-8c40-498368f18211",
+      "rawTextureUuid": "c2f96499-9efa-4156-940a-f6c5b51c1110",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 723,
+      "width": 1559,
+      "height": 720,
+      "rawWidth": 1559,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "47de6fac-faa8-4d43-8100-3ecf694f9b7f",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 64,
+  "platformSettings": {},
+  "subMetas": {
+    "MiniPoker-Quay": {
+      "ver": "1.0.4",
+      "uuid": "b0a6e766-5816-4dc8-a572-7f57078b31de",
+      "rawTextureUuid": "47de6fac-faa8-4d43-8100-3ecf694f9b7f",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -10,
+      "offsetY": 3.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 488,
+      "height": 53,
+      "rawWidth": 512,
+      "rawHeight": 64,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

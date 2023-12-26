@@ -1,0 +1,55 @@
+
+xocdialobby.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+dia
+  rotate: false
+  xy: 270, 178
+  size: 98, 60
+  orig: 98, 60
+  offset: 0, 0
+  index: -1
+diaa
+  rotate: false
+  xy: 370, 180
+  size: 84, 58
+  orig: 84, 58
+  offset: 0, 0
+  index: -1
+diaduoi
+  rotate: false
+  xy: 176, 139
+  size: 92, 99
+  orig: 92, 99
+  offset: 0, 0
+  index: -1
+khungXD
+  rotate: false
+  xy: 2, 66
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+xoc
+  rotate: false
+  xy: 2, 2
+  size: 97, 62
+  orig: 97, 62
+  offset: 0, 0
+  index: -1
+xucxac1
+  rotate: false
+  xy: 270, 139
+  size: 40, 37
+  orig: 40, 37
+  offset: 0, 0
+  index: -1
+xucxac2
+  rotate: false
+  xy: 176, 65
+  size: 82, 72
+  orig: 82, 72
+  offset: 0, 0
+  index: -1

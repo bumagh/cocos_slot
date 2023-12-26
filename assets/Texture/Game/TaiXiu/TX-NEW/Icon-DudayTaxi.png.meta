@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "ac28e55d-434a-4b6d-b07f-b825e3a3e844",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 256,
+  "platformSettings": {},
+  "subMetas": {
+    "Icon-DudayTaxi": {
+      "ver": "1.0.4",
+      "uuid": "4208e6d1-4c86-4aec-9939-b33d77aef53b",
+      "rawTextureUuid": "ac28e55d-434a-4b6d-b07f-b825e3a3e844",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -17.5,
+      "offsetY": 2,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 473,
+      "height": 248,
+      "rawWidth": 512,
+      "rawHeight": 256,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

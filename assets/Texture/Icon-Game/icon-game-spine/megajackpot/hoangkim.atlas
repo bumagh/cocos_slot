@@ -1,0 +1,48 @@
+
+hoangkim.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 295, 257
+  size: 229, 221
+  orig: 229, 221
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 2, 34
+  size: 151, 149
+  orig: 151, 149
+  offset: 0, 0
+  index: -1
+hoangkim
+  rotate: false
+  xy: 2, 2
+  size: 123, 30
+  orig: 123, 30
+  offset: 0, 0
+  index: -1
+hu1
+  rotate: false
+  xy: 526, 365
+  size: 150, 113
+  orig: 150, 113
+  offset: 0, 0
+  index: -1
+khung1
+  rotate: false
+  xy: 295, 206
+  size: 165, 49
+  orig: 165, 49
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 2, 185
+  size: 291, 293
+  orig: 291, 293
+  offset: 0, 0
+  index: -1

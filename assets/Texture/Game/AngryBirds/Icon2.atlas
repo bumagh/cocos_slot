@@ -1,0 +1,41 @@
+
+Icon2.png
+size: 512,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Xe dien/main/fx-2
+  rotate: false
+  xy: 138, 26
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+Xe dien/minigame/icon2/den
+  rotate: false
+  xy: 138, 2
+  size: 69, 22
+  orig: 69, 22
+  offset: 0, 0
+  index: -1
+Xe dien/minigame/icon2/nhaymat
+  rotate: false
+  xy: 240, 107
+  size: 50, 19
+  orig: 50, 19
+  offset: 0, 0
+  index: -1
+Xe dien/minigame/icon2/than
+  rotate: false
+  xy: 2, 12
+  size: 134, 114
+  orig: 134, 114
+  offset: 0, 0
+  index: -1
+Xe dien/minigame/icon2/trongmat
+  rotate: false
+  xy: 209, 6
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1

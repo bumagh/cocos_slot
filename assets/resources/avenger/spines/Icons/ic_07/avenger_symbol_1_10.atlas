@@ -1,0 +1,20 @@
+
+avenger_symbol_1_10.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DR STRANGE NECKLACE
+  rotate: false
+  xy: 2, 2
+  size: 175, 138
+  orig: 175, 138
+  offset: 0, 0
+  index: -1
+STONE LIGHT
+  rotate: false
+  xy: 179, 18
+  size: 122, 122
+  orig: 122, 122
+  offset: 0, 0
+  index: -1

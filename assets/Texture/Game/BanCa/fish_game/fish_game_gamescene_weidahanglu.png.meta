@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "b8bb4b0c-81ef-4cf0-9ac7-0190894720d4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1280,
+  "height": 720,
+  "platformSettings": {},
+  "subMetas": {
+    "fish_game_gamescene_weidahanglu": {
+      "ver": "1.0.4",
+      "uuid": "c92b7f9c-d872-4f07-8ac5-46e6e8ef1d96",
+      "rawTextureUuid": "b8bb4b0c-81ef-4cf0-9ac7-0190894720d4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1280,
+      "height": 720,
+      "rawWidth": 1280,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

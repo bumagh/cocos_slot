@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4345c369-d001-4bbf-bbe5-f0070b1c1725",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "HULK BUSTER2": {
+      "ver": "1.0.4",
+      "uuid": "db6c0800-7eb1-4344-b84c-77ffa361cc1f",
+      "rawTextureUuid": "4345c369-d001-4bbf-bbe5-f0070b1c1725",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -0.5,
+      "offsetY": -0.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 507,
+      "height": 509,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

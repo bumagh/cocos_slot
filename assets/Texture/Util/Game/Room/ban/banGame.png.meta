@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "141a149a-06c3-4e80-9980-4e6ae3b7e78e",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 247,
+  "height": 1161,
+  "platformSettings": {},
+  "subMetas": {
+    "banGame": {
+      "ver": "1.0.4",
+      "uuid": "4ded11b4-96fc-4121-865c-bba0937bbdd5",
+      "rawTextureUuid": "141a149a-06c3-4e80-9980-4e6ae3b7e78e",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -1,
+      "trimX": 0,
+      "trimY": 2,
+      "width": 247,
+      "height": 1159,
+      "rawWidth": 247,
+      "rawHeight": 1161,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

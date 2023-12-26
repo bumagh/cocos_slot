@@ -1,0 +1,64 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sign2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 14.6,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            791,
+            -227
+          ],
+          "motionPath": [
+            [
+              -338,
+              -188,
+              -2,
+              -349,
+              -692,
+              -19
+            ]
+          ]
+        },
+        {
+          "frame": 14.6,
+          "value": [
+            -584,
+            479
+          ],
+          "motionPath": []
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 0
+        },
+        {
+          "frame": 4.216666666666667,
+          "value": 3
+        },
+        {
+          "frame": 6.833333333333333,
+          "value": -6
+        },
+        {
+          "frame": 11.433333333333334,
+          "value": -68
+        },
+        {
+          "frame": 13.2,
+          "value": -88
+        }
+      ]
+    }
+  },
+  "events": []
+}

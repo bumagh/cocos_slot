@@ -1,0 +1,90 @@
+
+xoc dia.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 5
+  rotate: false
+  xy: 2, 109
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 512, 104
+  size: 178, 182
+  orig: 178, 182
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 752, 227
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+XÓC
+  rotate: true
+  xy: 273, 2
+  size: 131, 79
+  orig: 131, 79
+  offset: 0, 0
+  index: -1
+bat
+  rotate: true
+  xy: 900, 212
+  size: 143, 109
+  orig: 143, 109
+  offset: 0, 0
+  index: -1
+bat up
+  rotate: false
+  xy: 2, 30
+  size: 194, 77
+  orig: 194, 77
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 273, 135
+  size: 237, 375
+  orig: 237, 375
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 752, 357
+  size: 237, 153
+  orig: 237, 153
+  offset: 0, 0
+  index: -1
+line
+  rotate: false
+  xy: 512, 284
+  size: 238, 226
+  orig: 238, 226
+  offset: 0, 0
+  index: -1
+nut 1
+  rotate: true
+  xy: 471, 54
+  size: 79, 32
+  orig: 79, 32
+  offset: 0, 0
+  index: -1
+nut 2
+  rotate: true
+  xy: 696, 203
+  size: 79, 33
+  orig: 79, 33
+  offset: 0, 0
+  index: -1
+ĐĨA
+  rotate: false
+  xy: 354, 50
+  size: 115, 83
+  orig: 115, 83
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "22761529-91d2-4396-9981-72938050fbf4",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 567,
+  "height": 567,
+  "platformSettings": {},
+  "subMetas": {
+    "Franko_Gold-export": {
+      "ver": "1.0.4",
+      "uuid": "0b9ed6ae-d9fd-4a27-8492-81ff683c5f45",
+      "rawTextureUuid": "22761529-91d2-4396-9981-72938050fbf4",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 563,
+      "height": 563,
+      "rawWidth": 567,
+      "rawHeight": 567,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

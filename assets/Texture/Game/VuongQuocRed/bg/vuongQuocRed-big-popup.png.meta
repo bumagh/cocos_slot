@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "9ea615c0-ec9f-413e-9926-6a3b751593f3",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 764,
+  "height": 403,
+  "platformSettings": {},
+  "subMetas": {
+    "vuongQuocRed-big-popup": {
+      "ver": "1.0.4",
+      "uuid": "1000e34b-0f5a-461b-a66b-29849d343154",
+      "rawTextureUuid": "9ea615c0-ec9f-413e-9926-6a3b751593f3",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 764,
+      "height": 403,
+      "rawWidth": 764,
+      "rawHeight": 403,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

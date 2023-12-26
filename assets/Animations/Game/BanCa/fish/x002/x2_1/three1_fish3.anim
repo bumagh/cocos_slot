@@ -1,0 +1,62 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "anim1_fish3",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 14.016666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -828,
+            -61
+          ],
+          "motionPath": [
+            [
+              430,
+              -174,
+              -32,
+              -175,
+              631,
+              -174
+            ]
+          ]
+        },
+        {
+          "frame": 14.016666666666667,
+          "value": [
+            741,
+            -60
+          ],
+          "motionPath": []
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": -1
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": -5
+        },
+        {
+          "frame": 9.95,
+          "value": 5
+        },
+        {
+          "frame": 14.016666666666667,
+          "value": 35
+        }
+      ]
+    }
+  },
+  "events": []
+}

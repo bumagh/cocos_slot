@@ -1,0 +1,76 @@
+
+tai suu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 12
+  rotate: false
+  xy: 512, 201
+  size: 237, 271
+  orig: 237, 271
+  offset: 0, 0
+  index: -1
+Layer 13
+  rotate: false
+  xy: 751, 218
+  size: 237, 254
+  orig: 237, 254
+  offset: 0, 0
+  index: -1
+Layer 14
+  rotate: false
+  xy: 2, 71
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+Layer 15
+  rotate: false
+  xy: 895, 136
+  size: 78, 80
+  orig: 78, 80
+  offset: 0, 0
+  index: -1
+Layer 16
+  rotate: false
+  xy: 779, 100
+  size: 114, 116
+  orig: 114, 116
+  offset: 0, 0
+  index: -1
+Layer 17
+  rotate: true
+  xy: 660, 70
+  size: 129, 117
+  orig: 129, 117
+  offset: 0, 0
+  index: -1
+Layer 737 copy
+  rotate: true
+  xy: 512, 71
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+Taøi
+  rotate: false
+  xy: 2, 2
+  size: 103, 67
+  orig: 103, 67
+  offset: 0, 0
+  index: -1
+Xæu
+  rotate: false
+  xy: 107, 16
+  size: 94, 53
+  orig: 94, 53
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 273, 97
+  size: 237, 375
+  orig: 237, 375
+  offset: 0, 0
+  index: -1

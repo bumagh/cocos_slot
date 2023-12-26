@@ -1,0 +1,232 @@
+{
+"skeleton": { "hash": "YqsWsl6WfD+QGT1fWjBgHJVL3mE", "spine": "3.6.53", "width": 1535, "height": 1037.81, "images": "" },
+"bones": [
+	{ "name": "root" },
+	{ "name": "Tong", "parent": "root", "y": 518.82 },
+	{ "name": "5", "parent": "Tong", "y": -73.6 },
+	{ "name": "1", "parent": "5", "y": 16.07 },
+	{ "name": "2", "parent": "5", "y": 73.6 },
+	{ "name": "3", "parent": "5", "y": 73.6 },
+	{ "name": "4", "parent": "Tong", "length": 825.57, "rotation": 90.22, "x": 2.63, "y": -426.54 }
+],
+"slots": [
+	{ "name": "anh sang", "bone": "1", "attachment": "anh sang" },
+	{ "name": "chao mung", "bone": "4", "attachment": "chao mung" },
+	{ "name": "cong game uy tin", "bone": "4", "attachment": "cong game uy tin" },
+	{ "name": "hay nhat vn", "bone": "4", "attachment": "hay nhat vn" },
+	{ "name": "hinh giua", "bone": "2", "attachment": "hinh giua" },
+	{ "name": "coin", "bone": "3", "attachment": "coin" }
+],
+"skins": {
+	"default": {
+		"anh sang": {
+			"anh sang": { "y": 1.14, "width": 955, "height": 922 }
+		},
+		"chao mung": {
+			"chao mung": { "x": 869.89, "y": -3.16, "rotation": -90.22, "width": 1159, "height": 116 }
+		},
+		"coin": {
+			"coin": { "x": -6.95, "y": -131.87, "width": 1056, "height": 377 }
+		},
+		"cong game uy tin": {
+			"cong game uy tin": { "x": -57.87, "y": 11.49, "rotation": -90.22, "width": 1535, "height": 104 }
+		},
+		"hay nhat vn": {
+			"hay nhat vn": { "x": 766.02, "y": -4.18, "rotation": -90.22, "width": 727, "height": 176 }
+		},
+		"hinh giua": {
+			"hinh giua": { "x": -1.85, "y": -72.16, "width": 705, "height": 608 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"slots": {
+			"anh sang": {
+				"color": [
+					{ "time": 0, "color": "bf5dff00" },
+					{ "time": 0.3333, "color": "ffffffff" },
+					{ "time": 0.6333, "color": "ffffffa9" },
+					{ "time": 1.2667, "color": "ffffffff" },
+					{ "time": 1.9, "color": "ffffffaa" },
+					{ "time": 2.5, "color": "bf5dffff" },
+					{ "time": 3.1333, "color": "ffffffaa" },
+					{ "time": 3.7667, "color": "ffffffff" },
+					{ "time": 4.3667, "color": "ffffffaa" },
+					{ "time": 5, "color": "bf5dffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "anh sang" },
+					{ "time": 5, "name": "anh sang" }
+				]
+			},
+			"chao mung": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "chao mung" }
+				]
+			},
+			"coin": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "coin" }
+				]
+			},
+			"cong game uy tin": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "cong game uy tin" }
+				]
+			},
+			"hay nhat vn": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				],
+				"attachment": [
+					{ "time": 0, "name": "hay nhat vn" }
+				]
+			},
+			"hinh giua": {
+				"color": [
+					{ "time": 0, "color": "ffffff00" },
+					{ "time": 0.3333, "color": "ffffffff" }
+				]
+			}
+		},
+		"bones": {
+			"root": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 1.9 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"Tong": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"1": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 2.5, "angle": 179 },
+					{ "time": 5, "angle": -2 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 5, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 5, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 5, "x": 0, "y": 0 }
+				]
+			},
+			"2": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1 },
+					{ "time": 0.3333, "x": 0.95, "y": 0.95 },
+					{ "time": 0.7, "x": 1, "y": 1 },
+					{ "time": 1.1, "x": 0.95, "y": 0.95 },
+					{ "time": 1.5333, "x": 1, "y": 1 },
+					{ "time": 1.9333, "x": 0.95, "y": 0.95 },
+					{ "time": 2.3667, "x": 1, "y": 1 },
+					{ "time": 2.7667, "x": 0.95, "y": 0.95 },
+					{ "time": 3.2, "x": 1, "y": 1 },
+					{ "time": 3.6, "x": 0.95, "y": 0.95 },
+					{ "time": 4.0333, "x": 1, "y": 1 },
+					{ "time": 4.4333, "x": 0.95, "y": 0.95 },
+					{ "time": 4.8667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"3": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 0.3333, "x": 1, "y": 1 },
+					{ "time": 0.7, "x": 0.95, "y": 0.95 },
+					{ "time": 1.1, "x": 1, "y": 1 },
+					{ "time": 1.5333, "x": 0.95, "y": 0.95 },
+					{ "time": 1.9333, "x": 1, "y": 1 },
+					{ "time": 2.3667, "x": 0.95, "y": 0.95 },
+					{ "time": 2.7667, "x": 1, "y": 1 },
+					{ "time": 3.2, "x": 0.95, "y": 0.95 },
+					{ "time": 3.6, "x": 1, "y": 1 },
+					{ "time": 4.0333, "x": 0.95, "y": 0.95 },
+					{ "time": 4.4333, "x": 1, "y": 1 },
+					{ "time": 4.8667, "x": 0.95, "y": 0.95 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"4": {
+				"rotate": [
+					{ "time": 0, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 3, "y": 3 },
+					{ "time": 0.3333, "x": 1, "y": 1 },
+					{ "time": 0.4, "x": 1.1, "y": 1.1 },
+					{ "time": 0.4667, "x": 1, "y": 1 }
+				],
+				"shear": [
+					{ "time": 0, "x": 0, "y": 0 }
+				]
+			},
+			"5": {
+				"scale": [
+					{ "time": 0, "x": 0.2, "y": 0.2 },
+					{ "time": 0.4, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

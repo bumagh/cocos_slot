@@ -1,0 +1,175 @@
+
+THOR ANIM.png
+size: 296,475
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BORDER_1
+  rotate: false
+  xy: 2, 2
+  size: 145, 471
+  orig: 145, 471
+  offset: 0, 0
+  index: -1
+BORDER_2
+  rotate: false
+  xy: 149, 2
+  size: 145, 471
+  orig: 145, 471
+  offset: 0, 0
+  index: -1
+
+THOR ANIM2.png
+size: 304,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+$
+  rotate: true
+  xy: 178, 7
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+1,000
+  rotate: true
+  xy: 264, 91
+  size: 69, 36
+  orig: 69, 36
+  offset: 0, 0
+  index: -1
+EFFECT_1
+  rotate: true
+  xy: 2, 162
+  size: 309, 300
+  orig: 309, 300
+  offset: 0, 0
+  index: -1
+HAND_L
+  rotate: true
+  xy: 2, 2
+  size: 158, 174
+  orig: 158, 174
+  offset: 0, 0
+  index: -1
+STONE
+  rotate: false
+  xy: 178, 29
+  size: 84, 131
+  orig: 84, 131
+  offset: 0, 0
+  index: -1
+
+THOR ANIM3.png
+size: 308,473
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DOWN
+  rotate: true
+  xy: 177, 60
+  size: 186, 129
+  orig: 186, 129
+  offset: 0, 0
+  index: -1
+DOWN BORDER
+  rotate: false
+  xy: 2, 248
+  size: 299, 223
+  orig: 299, 223
+  offset: 0, 0
+  index: -1
+HAND_R
+  rotate: false
+  xy: 2, 2
+  size: 173, 244
+  orig: 173, 244
+  offset: 0, 0
+  index: -1
+
+THOR ANIM4.png
+size: 271,474
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AO_CHOANG_2
+  rotate: true
+  xy: 180, 30
+  size: 91, 73
+  orig: 91, 73
+  offset: 0, 0
+  index: -1
+BACK_1
+  rotate: false
+  xy: 2, 123
+  size: 267, 349
+  orig: 267, 349
+  offset: 0, 0
+  index: -1
+UP
+  rotate: true
+  xy: 2, 2
+  size: 119, 176
+  orig: 119, 176
+  offset: 0, 0
+  index: -1
+
+THOR ANIM5.png
+size: 281,467
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HAMMER
+  rotate: false
+  xy: 2, 2
+  size: 212, 247
+  orig: 212, 247
+  offset: 0, 0
+  index: -1
+THOR_ICON
+  rotate: true
+  xy: 2, 251
+  size: 214, 277
+  orig: 214, 277
+  offset: 0, 0
+  index: -1
+
+THOR ANIM6.png
+size: 292,416
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+AO_CHOANG_1
+  rotate: true
+  xy: 2, 49
+  size: 365, 124
+  orig: 365, 124
+  offset: 0, 0
+  index: -1
+AO_CHOANG_BACK
+  rotate: true
+  xy: 128, 2
+  size: 205, 134
+  orig: 205, 134
+  offset: 0, 0
+  index: -1
+SPACE STONE 2
+  rotate: false
+  xy: 128, 209
+  size: 162, 205
+  orig: 162, 205
+  offset: 0, 0
+  index: -1
+
+THOR ANIM7.png
+size: 159,287
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+THOR_BODY
+  rotate: false
+  xy: 2, 2
+  size: 155, 283
+  orig: 155, 283
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,90 @@
+
+tai xiu.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Taøi
+  rotate: false
+  xy: 104, 2
+  size: 96, 59
+  orig: 96, 59
+  offset: 0, 0
+  index: -1
+Xæu
+  rotate: false
+  xy: 2, 2
+  size: 100, 59
+  orig: 100, 59
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 273, 133
+  size: 237, 375
+  orig: 237, 375
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: true
+  xy: 966, 308
+  size: 200, 40
+  orig: 200, 40
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 63
+  size: 208, 42
+  orig: 208, 42
+  offset: 0, 0
+  index: -1
+coin
+  rotate: true
+  xy: 512, 113
+  size: 128, 146
+  orig: 128, 146
+  offset: 0, 0
+  index: -1
+fx1
+  rotate: false
+  xy: 744, 247
+  size: 220, 261
+  orig: 220, 261
+  offset: 0, 0
+  index: -1
+fx2
+  rotate: false
+  xy: 512, 243
+  size: 230, 265
+  orig: 230, 265
+  offset: 0, 0
+  index: -1
+khung
+  rotate: false
+  xy: 2, 107
+  size: 269, 401
+  orig: 269, 401
+  offset: 0, 0
+  index: -1
+xx1
+  rotate: false
+  xy: 660, 128
+  size: 104, 113
+  orig: 104, 113
+  offset: 0, 0
+  index: -1
+xx2
+  rotate: false
+  xy: 766, 145
+  size: 97, 100
+  orig: 97, 100
+  offset: 0, 0
+  index: -1
+xx3
+  rotate: false
+  xy: 865, 147
+  size: 81, 98
+  orig: 81, 98
+  offset: 0, 0
+  index: -1

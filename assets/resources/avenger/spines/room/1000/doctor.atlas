@@ -1,0 +1,125 @@
+
+doctor.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1,000
+  rotate: true
+  xy: 1104, 109
+  size: 74, 33
+  orig: 74, 33
+  offset: 0, 0
+  index: -1
+Layer 0
+  rotate: false
+  xy: 2, 2
+  size: 1002, 1002
+  orig: 1002, 1002
+  offset: 0, 0
+  index: -1
+Layer 23
+  rotate: false
+  xy: 1006, 185
+  size: 143, 468
+  orig: 143, 468
+  offset: 0, 0
+  index: -1
+Layer 23 copy
+  rotate: true
+  xy: 1275, 861
+  size: 143, 468
+  orig: 143, 468
+  offset: 0, 0
+  index: -1
+Layer 24
+  rotate: false
+  xy: 1875, 333
+  size: 147, 178
+  orig: 147, 178
+  offset: 0, 0
+  index: -1
+Layer 26
+  rotate: false
+  xy: 1151, 350
+  size: 295, 303
+  orig: 295, 303
+  offset: 0, 0
+  index: -1
+Layer 34
+  rotate: false
+  xy: 1006, 655
+  size: 267, 349
+  orig: 267, 349
+  offset: 0, 0
+  index: -1
+Layer 35
+  rotate: true
+  xy: 1151, 141
+  size: 207, 271
+  orig: 207, 271
+  offset: 0, 0
+  index: -1
+Layer 36
+  rotate: false
+  xy: 1745, 773
+  size: 301, 231
+  orig: 301, 231
+  offset: 0, 0
+  index: -1
+Layer 55
+  rotate: true
+  xy: 1006, 5
+  size: 65, 81
+  orig: 65, 81
+  offset: 0, 0
+  index: -1
+Layer 56
+  rotate: false
+  xy: 1006, 72
+  size: 96, 111
+  orig: 96, 111
+  offset: 0, 0
+  index: -1
+Layer 57
+  rotate: true
+  xy: 1275, 659
+  size: 200, 341
+  orig: 200, 341
+  offset: 0, 0
+  index: -1
+Layer 59
+  rotate: false
+  xy: 1641, 287
+  size: 232, 224
+  orig: 232, 224
+  offset: 0, 0
+  index: -1
+Layer 60
+  rotate: false
+  xy: 1448, 361
+  size: 191, 296
+  orig: 191, 296
+  offset: 0, 0
+  index: -1
+Layer 61
+  rotate: true
+  xy: 1618, 792
+  size: 67, 106
+  orig: 67, 106
+  offset: 0, 0
+  index: -1
+Layer 62
+  rotate: false
+  xy: 1641, 513
+  size: 260, 258
+  orig: 260, 258
+  offset: 0, 0
+  index: -1
+Layer 62 copy
+  rotate: false
+  xy: 1424, 310
+  size: 22, 38
+  orig: 22, 38
+  offset: 0, 0
+  index: -1

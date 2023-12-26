@@ -1,0 +1,64 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sign4",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 14.6,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            799,
+            -312
+          ],
+          "motionPath": [
+            [
+              -133,
+              266,
+              328,
+              211,
+              -396,
+              295
+            ]
+          ]
+        },
+        {
+          "frame": 14.6,
+          "value": [
+            -839,
+            -117
+          ],
+          "motionPath": []
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": -50
+        },
+        {
+          "frame": 2.95,
+          "value": -46
+        },
+        {
+          "frame": 5.333333333333333,
+          "value": -40
+        },
+        {
+          "frame": 6.616666666666666,
+          "value": -30
+        },
+        {
+          "frame": 10.2,
+          "value": 30
+        }
+      ]
+    }
+  },
+  "events": []
+}

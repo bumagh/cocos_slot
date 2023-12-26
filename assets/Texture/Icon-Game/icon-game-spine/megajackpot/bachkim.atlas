@@ -1,0 +1,48 @@
+
+bachkim.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+2
+  rotate: false
+  xy: 2, 33
+  size: 220, 212
+  orig: 220, 212
+  offset: 0, 0
+  index: -1
+BG2
+  rotate: false
+  xy: 261, 373
+  size: 133, 131
+  orig: 133, 131
+  offset: 0, 0
+  index: -1
+bachkim
+  rotate: false
+  xy: 2, 2
+  size: 108, 29
+  orig: 108, 29
+  offset: 0, 0
+  index: -1
+hu2
+  rotate: false
+  xy: 261, 292
+  size: 136, 79
+  orig: 136, 79
+  offset: 0, 0
+  index: -1
+khung2
+  rotate: true
+  xy: 224, 80
+  size: 165, 49
+  orig: 165, 49
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 2, 247
+  size: 257, 257
+  orig: 257, 257
+  offset: 0, 0
+  index: -1

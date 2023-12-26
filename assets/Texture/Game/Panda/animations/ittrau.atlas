@@ -1,0 +1,34 @@
+
+ittrau.png
+size: 462,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 571
+  rotate: false
+  xy: 306, 43
+  size: 129, 129
+  orig: 129, 129
+  offset: 0, 0
+  index: -1
+nen
+  rotate: true
+  xy: 158, 3
+  size: 169, 146
+  orig: 169, 146
+  offset: 0, 0
+  index: -1
+trau
+  rotate: true
+  xy: 2, 5
+  size: 167, 154
+  orig: 167, 154
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 306, 2
+  size: 154, 39
+  orig: 154, 39
+  offset: 0, 0
+  index: -1

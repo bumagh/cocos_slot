@@ -1,0 +1,28 @@
+info face="bm_tambangphu" size=32 bold=0 italic=0 charset="" unicode=0 stretchH=100 smooth=1 aa=1 padding=0,0,0,0 spacing=1,1
+common lineHeight=37 base=26 scaleW=97 scaleH=103 pages=1 packed=0 alphaChnl=1 redChnl=0 greenChnl=0 blueChnl=0
+page id=0 file="bm_tambangphu.png"
+chars count=20
+
+char id=48 x=82 y=0 width=28 height=43 xoffset=0 yoffset=1 xadvance=25 page=0 chnl=0 letter="0"
+char id=49 x=127 y=86 width=26 height=42 xoffset=0 yoffset=2 xadvance=20 page=0 chnl=0 letter="1"
+char id=50 x=37 y=49 width=31 height=44 xoffset=0 yoffset=0 xadvance=25 page=0 chnl=0 letter="2"
+char id=51 x=69 y=49 width=28 height=42 xoffset=0 yoffset=1 xadvance=24 page=0 chnl=0 letter="3"
+char id=52 x=34 y=95 width=32 height=42 xoffset=0 yoffset=1 xadvance=27 page=0 chnl=0 letter="4"
+char id=53 x=98 y=44 width=28 height=41 xoffset=0 yoffset=3 xadvance=24 page=0 chnl=0 letter="5"
+char id=54 x=99 y=86 width=27 height=42 xoffset=0 yoffset=2 xadvance=25 page=0 chnl=0 letter="6"
+char id=55 x=67 y=94 width=31 height=42 xoffset=0 yoffset=2 xadvance=25 page=0 chnl=0 letter="7"
+char id=56 x=111 y=0 width=28 height=43 xoffset=0 yoffset=1 xadvance=25 page=0 chnl=0 letter="8"
+char id=57 x=127 y=44 width=27 height=41 xoffset=0 yoffset=2 xadvance=25 page=0 chnl=0 letter="9"
+char id=58 x=140 y=0 width=17 height=31 xoffset=0 yoffset=7 xadvance=17 page=0 chnl=0 letter=":"
+char id=75 x=0 y=47 width=36 height=47 xoffset=0 yoffset=2 xadvance=36 page=0 chnl=0 letter="K"
+char id=77 x=0 y=0 width=48 height=46 xoffset=0 yoffset=2 xadvance=48 page=0 chnl=0 letter="M"
+char id=126 x=0 y=139 width=27 height=18 xoffset=0 yoffset=15 xadvance=27 page=0 chnl=0 letter="~"
+char id=47 x=0 y=95 width=33 height=43 xoffset=0 yoffset=0 xadvance=33 page=0 chnl=0 letter="/"
+char id=46 x=53 y=138 width=17 height=17 xoffset=1 yoffset=28 xadvance=13 page=0 chnl=0 letter="."
+char id=45 x=28 y=139 width=24 height=15 xoffset=0 yoffset=15 xadvance=24 page=0 chnl=0 letter="-"
+char id=44 x=71 y=137 width=16 height=16 xoffset=1 yoffset=27 xadvance=13 page=0 chnl=0 letter=","
+char id=43 x=99 y=129 width=26 height=26 xoffset=0 yoffset=9 xadvance=26 page=0 chnl=0 letter="+"
+char id=36 x=49 y=0 width=32 height=48 xoffset=0 yoffset-3 xadvance=32 page=0 chnl=0 letter="$"
+char id=32 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=15 page=0 chnl=0 letter=" "
+char id=9 x=0 y=0 width=0 height=0 xoffset=0 yoffset=0 xadvance=120 page=0 chnl=0 letter="	"
+kernings count=0

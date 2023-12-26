@@ -1,0 +1,41 @@
+
+MiniPoker-Quay.png
+size: 512,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CTL/pp-vinh-danh-tách_0020_Group-61
+  rotate: true
+  xy: 128, 2
+  size: 53, 122
+  orig: 53, 122
+  offset: 0, 0
+  index: -1
+CTL/pp-vinh-danh-tách_0021_Group-63
+  rotate: true
+  xy: 348, 2
+  size: 53, 81
+  orig: 53, 81
+  offset: 0, 0
+  index: -1
+CTL/pp-vinh-danh-tách_0022_Group-64
+  rotate: true
+  xy: 431, 2
+  size: 53, 59
+  orig: 53, 59
+  offset: 0, 0
+  index: -1
+CTL/pp-vinh-danh-tách_0023_Group-62
+  rotate: true
+  xy: 252, 2
+  size: 53, 94
+  orig: 53, 94
+  offset: 0, 0
+  index: -1
+CTL/pp-vinh-danh-tách_0024_Group-60
+  rotate: true
+  xy: 2, 2
+  size: 53, 124
+  orig: 53, 124
+  offset: 0, 0
+  index: -1

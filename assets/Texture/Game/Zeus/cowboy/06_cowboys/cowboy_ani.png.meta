@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "a6cf86b5-5018-4391-ab3f-e81372e40a94",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 550,
+  "height": 549,
+  "platformSettings": {},
+  "subMetas": {
+    "cowboy_ani": {
+      "ver": "1.0.4",
+      "uuid": "3e54dc85-1bf6-4b8e-a093-3961a7365442",
+      "rawTextureUuid": "a6cf86b5-5018-4391-ab3f-e81372e40a94",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": 67.5,
+      "trimX": 2,
+      "trimY": 12,
+      "width": 540,
+      "height": 390,
+      "rawWidth": 550,
+      "rawHeight": 549,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

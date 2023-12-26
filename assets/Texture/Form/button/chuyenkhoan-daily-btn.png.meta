@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "8b6bf37f-44bc-47d1-9d9d-b3e62a5c4b33",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 303,
+  "height": 110,
+  "platformSettings": {},
+  "subMetas": {
+    "chuyenkhoan-daily-btn": {
+      "ver": "1.0.4",
+      "uuid": "fbfd9b91-813f-4b88-b0ab-a05a37c479ff",
+      "rawTextureUuid": "8b6bf37f-44bc-47d1-9d9d-b3e62a5c4b33",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 303,
+      "height": 110,
+      "rawWidth": 303,
+      "rawHeight": 110,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

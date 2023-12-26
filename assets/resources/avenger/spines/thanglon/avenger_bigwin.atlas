@@ -1,0 +1,342 @@
+
+avenger_bigwin.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+B
+  rotate: false
+  xy: 2, 2
+  size: 101, 114
+  orig: 101, 114
+  offset: 0, 0
+  index: -1
+EFFECT-1_0000_STORMBREAKER_00019
+  rotate: false
+  xy: 2, 1741
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0001_STORMBREAKER_00018
+  rotate: false
+  xy: 2, 1468
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0002_STORMBREAKER_00017
+  rotate: false
+  xy: 293, 1741
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0003_STORMBREAKER_00016
+  rotate: false
+  xy: 2, 1195
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0004_STORMBREAKER_00015
+  rotate: false
+  xy: 293, 1468
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0005_STORMBREAKER_00014
+  rotate: false
+  xy: 584, 1741
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0006_STORMBREAKER_00013
+  rotate: false
+  xy: 2, 922
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0007_STORMBREAKER_00012
+  rotate: false
+  xy: 293, 1195
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0008_STORMBREAKER_00011
+  rotate: false
+  xy: 584, 1468
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0009_STORMBREAKER_00010
+  rotate: false
+  xy: 875, 1741
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0010_STORMBREAKER_00009
+  rotate: false
+  xy: 2, 649
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0011_STORMBREAKER_00008
+  rotate: false
+  xy: 293, 922
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0012_STORMBREAKER_00007
+  rotate: false
+  xy: 584, 1195
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0013_STORMBREAKER_00006
+  rotate: false
+  xy: 875, 1468
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0014_STORMBREAKER_00005
+  rotate: false
+  xy: 1166, 1741
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0015_STORMBREAKER_00004
+  rotate: false
+  xy: 2, 376
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0016_STORMBREAKER_00003
+  rotate: false
+  xy: 293, 649
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0017_STORMBREAKER_00002
+  rotate: false
+  xy: 584, 922
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0018_STORMBREAKER_00001
+  rotate: false
+  xy: 875, 1195
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-1_0019_STORMBREAKER_00000
+  rotate: false
+  xy: 1166, 1468
+  size: 289, 271
+  orig: 289, 271
+  offset: 0, 0
+  index: -1
+EFFECT-2_0000_MIHORNIR_00019
+  rotate: false
+  xy: 1457, 1756
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0001_MIHORNIR_00018
+  rotate: false
+  xy: 2, 118
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0002_MIHORNIR_00017
+  rotate: false
+  xy: 293, 391
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0003_MIHORNIR_00016
+  rotate: false
+  xy: 584, 664
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0004_MIHORNIR_00015
+  rotate: false
+  xy: 875, 937
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0005_MIHORNIR_00014
+  rotate: false
+  xy: 1166, 1210
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0006_MIHORNIR_00013
+  rotate: false
+  xy: 1457, 1498
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0007_MIHORNIR_00012
+  rotate: false
+  xy: 1737, 1756
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0008_MIHORNIR_00011
+  rotate: false
+  xy: 1737, 1498
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0009_MIHORNIR_00010
+  rotate: false
+  xy: 1457, 1240
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0010_MIHORNIR_00009
+  rotate: false
+  xy: 1737, 1240
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0011_MIHORNIR_00008
+  rotate: false
+  xy: 1446, 982
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0012_MIHORNIR_00007
+  rotate: false
+  xy: 1726, 982
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0013_MIHORNIR_00006
+  rotate: false
+  xy: 1166, 952
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0014_MIHORNIR_00005
+  rotate: false
+  xy: 1446, 724
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0015_MIHORNIR_00004
+  rotate: false
+  xy: 1726, 724
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0016_MIHORNIR_00003
+  rotate: false
+  xy: 293, 133
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0017_MIHORNIR_00002
+  rotate: false
+  xy: 584, 406
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0018_MIHORNIR_00001
+  rotate: false
+  xy: 573, 148
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+EFFECT-2_0019_MIHORNIR_00000
+  rotate: false
+  xy: 875, 679
+  size: 278, 256
+  orig: 278, 256
+  offset: 0, 0
+  index: -1
+G
+  rotate: false
+  xy: 1080, 553
+  size: 71, 124
+  orig: 71, 124
+  offset: 0, 0
+  index: -1
+I
+  rotate: false
+  xy: 299, 17
+  size: 54, 114
+  orig: 54, 114
+  offset: 0, 0
+  index: -1
+I2
+  rotate: true
+  xy: 864, 420
+  size: 55, 114
+  orig: 55, 114
+  offset: 0, 0
+  index: -1
+Mjohnir
+  rotate: false
+  xy: 864, 477
+  size: 214, 200
+  orig: 214, 200
+  offset: 0, 0
+  index: -1
+N
+  rotate: false
+  xy: 105, 2
+  size: 101, 114
+  orig: 101, 114
+  offset: 0, 0
+  index: -1
+StormBreaker
+  rotate: false
+  xy: 1155, 715
+  size: 251, 235
+  orig: 251, 235
+  offset: 0, 0
+  index: -1
+W
+  rotate: false
+  xy: 208, 2
+  size: 89, 114
+  orig: 89, 114
+  offset: 0, 0
+  index: -1

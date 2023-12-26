@@ -1,0 +1,209 @@
+
+avenger_symbol_1_0.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 1238
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 1631
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 405, 1631
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 845
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 405, 1238
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 808, 1631
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 452
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 405, 845
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 808, 1238
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 1211, 1631
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 2, 59
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 405, 452
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 808, 845
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1211, 1238
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1614, 1631
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 405, 59
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 808, 452
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1211, 845
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 1614, 1238
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 808, 59
+  size: 401, 391
+  orig: 401, 391
+  offset: 0, 0
+  index: -1
+BACK
+  rotate: false
+  xy: 1614, 1117
+  size: 100, 119
+  orig: 100, 119
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: true
+  xy: 1614, 1006
+  size: 109, 43
+  orig: 109, 43
+  offset: 0, 0
+  index: -1
+BORDER
+  rotate: false
+  xy: 1211, 704
+  size: 138, 139
+  orig: 138, 139
+  offset: 0, 0
+  index: -1
+CAPTAIN MARVEL HEAD
+  rotate: false
+  xy: 1351, 745
+  size: 64, 98
+  orig: 64, 98
+  offset: 0, 0
+  index: -1
+HAIR 1
+  rotate: false
+  xy: 1211, 619
+  size: 117, 83
+  orig: 117, 83
+  offset: 0, 0
+  index: -1
+HAIR 2
+  rotate: false
+  xy: 114, 10
+  size: 77, 47
+  orig: 77, 47
+  offset: 0, 0
+  index: -1
+HAIR BACK 1
+  rotate: false
+  xy: 1716, 1136
+  size: 50, 100
+  orig: 50, 100
+  offset: 0, 0
+  index: -1
+HAIR BACK 2
+  rotate: false
+  xy: 1211, 552
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+WILD
+  rotate: false
+  xy: 2, 2
+  size: 110, 55
+  orig: 110, 55
+  offset: 0, 0
+  index: -1

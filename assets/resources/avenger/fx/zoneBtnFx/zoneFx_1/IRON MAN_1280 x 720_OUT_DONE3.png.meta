@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "51a9e741-ce99-49a0-8fd8-f8487e682efb",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 306,
+  "height": 466,
+  "platformSettings": {},
+  "subMetas": {
+    "IRON MAN_1280 x 720_OUT_DONE3": {
+      "ver": "1.0.4",
+      "uuid": "75d3c277-3ba5-49ff-ae8c-bb9b9334b17d",
+      "rawTextureUuid": "51a9e741-ce99-49a0-8fd8-f8487e682efb",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 3,
+      "trimY": 3,
+      "width": 300,
+      "height": 460,
+      "rawWidth": 306,
+      "rawHeight": 466,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "f7647cce-629a-4dbf-bca7-88b0c10497ee",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "IRON MEN2": {
+      "ver": "1.0.4",
+      "uuid": "5945aed0-5020-4866-b758-81710510df45",
+      "rawTextureUuid": "f7647cce-629a-4dbf-bca7-88b0c10497ee",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -5.5,
+      "offsetY": 2.5,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 501,
+      "height": 507,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

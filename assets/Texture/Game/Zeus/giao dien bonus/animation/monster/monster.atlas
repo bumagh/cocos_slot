@@ -1,0 +1,160 @@
+
+monster.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 106
+  rotate: true
+  xy: 654, 127
+  size: 127, 141
+  orig: 127, 141
+  offset: 0, 0
+  index: -1
+Layer 107
+  rotate: false
+  xy: 2, 64
+  size: 250, 190
+  orig: 250, 190
+  offset: 0, 0
+  index: -1
+Layer 108
+  rotate: true
+  xy: 580, 8
+  size: 67, 83
+  orig: 67, 83
+  offset: 0, 0
+  index: -1
+Layer 109
+  rotate: false
+  xy: 492, 126
+  size: 160, 128
+  orig: 160, 128
+  offset: 0, 0
+  index: -1
+Layer 110
+  rotate: false
+  xy: 797, 142
+  size: 105, 112
+  orig: 105, 112
+  offset: 0, 0
+  index: -1
+Layer 111
+  rotate: true
+  xy: 665, 17
+  size: 59, 102
+  orig: 59, 102
+  offset: 0, 0
+  index: -1
+Layer 112
+  rotate: true
+  xy: 492, 2
+  size: 73, 86
+  orig: 73, 86
+  offset: 0, 0
+  index: -1
+Layer 113
+  rotate: false
+  xy: 2, 2
+  size: 65, 60
+  orig: 65, 60
+  offset: 0, 0
+  index: -1
+Layer 114
+  rotate: false
+  xy: 254, 58
+  size: 236, 196
+  orig: 236, 196
+  offset: 0, 0
+  index: -1
+Layer 115
+  rotate: false
+  xy: 821, 5
+  size: 47, 86
+  orig: 47, 86
+  offset: 0, 0
+  index: -1
+Layer 116
+  rotate: true
+  xy: 904, 59
+  size: 44, 113
+  orig: 44, 113
+  offset: 0, 0
+  index: -1
+Layer 117
+  rotate: true
+  xy: 654, 78
+  size: 47, 113
+  orig: 47, 113
+  offset: 0, 0
+  index: -1
+Layer 118
+  rotate: true
+  xy: 797, 93
+  size: 47, 105
+  orig: 47, 105
+  offset: 0, 0
+  index: -1
+Layer 119
+  rotate: true
+  xy: 870, 11
+  size: 46, 112
+  orig: 46, 112
+  offset: 0, 0
+  index: -1
+Layer 120
+  rotate: true
+  xy: 246, 10
+  size: 46, 105
+  orig: 46, 105
+  offset: 0, 0
+  index: -1
+Layer 121
+  rotate: true
+  xy: 492, 77
+  size: 47, 125
+  orig: 47, 125
+  offset: 0, 0
+  index: -1
+Layer 122
+  rotate: true
+  xy: 904, 204
+  size: 50, 116
+  orig: 50, 116
+  offset: 0, 0
+  index: -1
+Layer 123
+  rotate: true
+  xy: 69, 14
+  size: 48, 119
+  orig: 48, 119
+  offset: 0, 0
+  index: -1
+Layer 124
+  rotate: true
+  xy: 904, 105
+  size: 45, 114
+  orig: 45, 114
+  offset: 0, 0
+  index: -1
+Layer 125
+  rotate: true
+  xy: 904, 152
+  size: 50, 116
+  orig: 50, 116
+  offset: 0, 0
+  index: -1
+Layer 126
+  rotate: false
+  xy: 769, 2
+  size: 50, 89
+  orig: 50, 89
+  offset: 0, 0
+  index: -1
+Layer 127
+  rotate: true
+  xy: 190, 20
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1

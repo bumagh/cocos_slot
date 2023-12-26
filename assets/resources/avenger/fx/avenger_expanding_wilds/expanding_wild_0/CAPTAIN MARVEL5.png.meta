@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "63853ce5-555a-4bb1-81f0-e1dfb0f9b897",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "CAPTAIN MARVEL5": {
+      "ver": "1.0.4",
+      "uuid": "dd544d28-2c8f-4545-a0b8-02dbf38c701d",
+      "rawTextureUuid": "63853ce5-555a-4bb1-81f0-e1dfb0f9b897",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -3,
+      "offsetY": 16.5,
+      "trimX": 8,
+      "trimY": 1,
+      "width": 490,
+      "height": 477,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

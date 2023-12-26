@@ -1,0 +1,27 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NenNoHuXanh
+  rotate: false
+  xy: 2, 91
+  size: 1440, 720
+  orig: 1440, 720
+  offset: 0, 0
+  index: -1
+NgocLucBao
+  rotate: false
+  xy: 2, 2
+  size: 369, 87
+  orig: 369, 87
+  offset: 0, 0
+  index: -1
+RongNgocXanh
+  rotate: false
+  xy: 1444, 240
+  size: 590, 571
+  orig: 590, 571
+  offset: 0, 0
+  index: -1

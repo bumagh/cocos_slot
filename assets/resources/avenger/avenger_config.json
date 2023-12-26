@@ -1,0 +1,754 @@
+{
+  "Config": {
+    "settings_btn": {
+      "pX": 0.955,
+      "pY": -0.5
+    },
+    "settings_btn_2": {
+      "pX": 0.74,
+      "pY": 0.067
+    },
+    "back_btn": {
+      "pX": 0.045,
+      "pY": -0.5
+    },
+    "back_btn_2": {
+      "pX": 0.26,
+      "pY": 0.067
+    },
+    "settings_amthanh_btn": {
+      "pX": 0.5,
+      "pY": 0.82,
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt"
+    },
+    "settings_nhacnen_btn": {
+      "pX": 0.5,
+      "pY": 0.62,
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt"
+    },
+    "settings_bang_vinh_danh": {
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    "settings_lsgd": {
+      "pX": 0.5,
+      "pY": 0.42,
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt"
+    },
+    "settings_lsh": {
+      "pX": 0.5,
+      "pY": 0.22,
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt"
+    },
+    "settings_btn_close": {
+      "pX": 0.923,
+      "pY": 0.896
+    },
+    "bangthuong_btn": {
+      "pX": 0.945,
+      "pY": -1.34,
+      "pos": 0
+    },
+    "bangthuong_bg": {
+      "pX": 0.5,
+      "pY": 0.5,
+      "pages": 5,
+      "prev_pX": 0.05,
+      "prev_pY": 0.5,
+      "next_pX": 0.95,
+      "next_pY": 0.5,
+      "pageViewSize": [
+        1041,
+        576
+      ]
+    },
+    "bangthuong_btn_close": {
+      "pX": 0.947,
+      "pY": 0.915
+    },
+    "quay_btn": {
+      "pX": 0.87,
+      "pY": 0.5,
+      "zoomScale": 0
+    },
+    "quay_btn_spine": {
+      "pX": 0,
+      "pY": -57
+    },
+    "tu_quay_btn": {
+      "pX": 0.735,
+      "pY": 0.32
+    },
+    "sieu_toc_btn": {
+      "pX": 0.695,
+      "pY": 0.5
+    },
+    "slot_machine": {
+      "trialJackpot": 100000000,
+      "showHeader": 0,
+      "showJackpot": 1,
+      "showLinesOnTop": 0,
+      "slotType": 1,
+      "lineChooserType": 3,
+      "lineFont": "resources/slot/avenger/fonts/avenger_font_line.fnt",
+      "lineOffset": 32,
+      "lineStyle": 4,
+      "pX": 0.5,
+      "pY": 0.5,
+      "scale": 1.0,
+      "sizeX": 960,
+      "sizeY": 456,
+      "row": 3,
+      "col": 5,
+      "timeToShowLines": 0.7,
+      "timeToShowResults": 2.7,
+      "timeToShowPerLines": 2.5,
+      "velocity": 2000,
+      "lineNumbScale": 0.8,
+      "symbolsCount": 15,
+      "commonSymbols": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "symbols_fx_1": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "symbols_fx_2": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "symbols_fx_3": [
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        1
+      ],
+      "lineTexturesCount": 1,
+      "lineNumbTexturesCount": 2,
+      "zoneFxPosX": [
+        0,
+        0,
+        0,
+        0
+      ],
+      "zoneFxPosY": [
+        0,
+        -375,
+        -375,
+        -375
+      ],
+      "zoneBtnsCount": 4,
+      "zone0pX": 0.5,
+      "zone0pY": 0.06,
+      "zone1pX": 0.17,
+      "zone1pY": 0.64,
+      "zone2pX": 0.5,
+      "zone2pY": 0.64,
+      "zone3pX": 0.83,
+      "zone3pY": 0.64,
+      "bgTopCount": 3,
+      "zoneBgCount": 3,
+      "zoneBgMusicCount": 1,
+      "miniGameType": 2,
+      "miniGameItemsCount": 6,
+      "miniGameItemsPosX": [
+        -75,
+        -225,
+        -375,
+        75,
+        225,
+        375
+      ],
+      "miniGameItemsPosY": [
+        0.45,
+        0.45,
+        0.45,
+        0.45,
+        0.45,
+        0.45
+      ],
+      "spinTimes": [
+        0.3,
+        0.9,
+        1.3,
+        1.8,
+        2.5
+      ],
+      "superSpeedSpinTimes": [
+        0.1,
+        0.1,
+        0.1,
+        0.1,
+        0.1
+      ],
+      "outdoorItemsCount": 1,
+      "outdoorItemsPosX": [
+        -210,
+        0,
+        210
+      ],
+      "outdoorItemsPosY": [
+        0.35,
+        0.35,
+        0.35
+      ]
+    },
+    "expanding_wilds": {
+      "ids": [
+        0,
+        1
+      ],
+      "posX": [
+        0.5,
+        0.5
+      ],
+      "posY": [
+        0.5,
+        0.5
+      ]
+    },
+    "zone_bet_lb": {
+      "pX": 0.57,
+      "pY": 0.123,
+      "font": "resources/slot/avenger/fonts/avenger_font_dong.fnt",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "scale": 1.0
+    },
+    "zone_jackpot_lb": {
+      "pX": 0,
+      "pY": -233,
+      "font": "resources/slot/avenger/fonts/avenger_font_money3.fnt",
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "scale": 0.8
+    },
+    "jackpot_fx": {
+      "type": 2,
+      "name_fx": "avenger_jackpot",
+      "effect_pX": 0.5,
+      "effect_pY": 0.5,
+      "finish_zOrder": 2,
+      "finish_pX": 0.5,
+      "finish_pY": 0.5,
+      "glow_pX": 0.5,
+      "glow_pY": 0.1,
+      "money_bg_pX": 0.5,
+      "money_lb_font": "resources/slot/avenger/fonts/avenger_font_thang.fnt",
+      "money_bg_pY": 0.1,
+      "money_lb_scale": 1.0,
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.71,
+      "particle_pX": -590,
+      "particle_pY": 0,
+      "free_spin_bg_pX": 0.5,
+      "free_spin_bg_pY": -10.0,
+      "free_spin_bg_scale": 1.8,
+      "free_spin_lb_font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "free_spin_lb_pX": 0.58,
+      "free_spin_lb_pY": 0.58,
+      "free_spin_lb_scale": 0.6,
+      "free_spin_count_lb_font": "resources/slot/avenger/fonts/avenger_font_thang.fnt",
+      "free_spin_count_lb_pX": -70,
+      "free_spin_count_lb_pY": 0.53,
+      "free_spin_count_lb_scale": 0.35
+    },
+    "win_fx": {
+      "type": 2,
+      "name_fx": "avenger_bigwin",
+      "effect_pX": 0.5,
+      "effect_pY": 0.5,
+      "finish_zOrder": 1,
+      "finish_pX": 0.5,
+      "finish_pY": 0.4,
+      "glow_pX": 0.5,
+      "glow_pY": 0.1,
+      "money_bg_pX": 0.5,
+      "money_lb_font": "resources/slot/avenger/fonts/avenger_font_thang.fnt",
+      "money_bg_pY": -0.9,
+      "money_lb_scale": 1.0,
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.71,
+      "particle_pX": -640,
+      "particle_pY": 50,
+      "free_spin_bg_pX": 0.5,
+      "free_spin_bg_pY": -10.0,
+      "free_spin_bg_scale": 1.8,
+      "free_spin_lb_font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "free_spin_lb_pX": 0.58,
+      "free_spin_lb_pY": 0.58,
+      "free_spin_lb_scale": 0.6,
+      "free_spin_count_lb_font": "resources/slot/avenger/fonts/avenger_font_thang.fnt",
+      "free_spin_count_lb_pX": -70,
+      "free_spin_count_lb_pY": 0.53,
+      "free_spin_count_lb_scale": 0.35
+    },
+    "free_spin_fx": {
+      "type": 2,
+      "name_fx": "avenger_freespin",
+      "effect_pX": 0.5,
+      "effect_pY": 0.5,
+      "text": "Lượt Miễn Phí",
+      "finish_zOrder": 1,
+      "finish_pX": 0.5,
+      "finish_pY": 0.45,
+      "glow_pX": 0.5,
+      "glow_pY": 0.1,
+      "money_bg_pX": 0.5,
+      "money_lb_font": "resources/slot/avenger/fonts/avenger_font_thang.fnt",
+      "money_bg_pY": -0.9,
+      "money_lb_scale": 1.2,
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.71,
+      "particle_pX": -640,
+      "particle_pY": 50,
+      "free_spin_bg_pX": 0.5,
+      "free_spin_bg_pY": -10.0,
+      "free_spin_bg_scale": 1.8,
+      "free_spin_lb_font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "free_spin_lb_pX": 0.58,
+      "free_spin_lb_pY": 0.55,
+      "free_spin_lb_scale": 0.6,
+      "free_spin_count_lb_font": "resources/slot/avenger/fonts/avenger_font_thang.fnt",
+      "free_spin_count_lb_pX": -70,
+      "free_spin_count_lb_pY": 0.53,
+      "free_spin_count_lb_scale": 0.35
+    },
+    "line_btn": {
+      "pX": 0.142,
+      "pY": 0.32
+    },
+    "line_lb": {
+      "pX": 0.5,
+      "pY": 0.75,
+      "scale": 0.85,
+      "text": "",
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt"
+    },
+    "number_of_lines_lb": {
+      "pX": 0.47,
+      "pY": 0.37,
+      "pX_2": 0,
+      "pY_2": 34,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "font": "resources/slot/avenger/fonts/avenger_font_dong.fnt",
+      "scale": 1.0
+    },
+    "minigame_start_btn": {
+      "pX": 0.5,
+      "pY": 0.5
+    },
+    "bet_btn": {
+      "pX": 0.287,
+      "pY": 0.36
+    },
+    "bet_lb": {
+      "pX": 0.5,
+      "pY": 0.75,
+      "scale": 0.85,
+      "text": "",
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt"
+    },
+    "current_bet_lb": {
+      "pX": 0.47,
+      "pY": 0.37,
+      "pX_2": -2,
+      "pY_2": -5,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "font": "resources/slot/avenger/fonts/avenger_font_dong.fnt",
+      "scale": 1.0
+    },
+    "jackpot_bg": {
+      "type_fx": 2,
+      "effect_pX": 0.5,
+      "effect_pY": 0.5,
+      "effect_zOder": 0,
+      "pX": 0.193,
+      "pY": 0.6,
+      "lb_pX": 0.5,
+      "lb_pY": 0.5,
+      "font": "resources/slot/avenger/fonts/avenger_font_money.fnt",
+      "scale": 1.0
+    },
+    "this_player_bg": {
+      "pX": 0.8,
+      "pY": 0.6,
+      "style": 1,
+      "font": "resources/slot/avenger/fonts/avenger_font_money.fnt",
+      "lb_pX": 0.5,
+      "lb_pY": 0.62,
+      "scale": 0.6
+    },
+    "thong_tin_bg": {
+      "type_fx": 2,
+      "effect_zOder": 0,
+      "effect_pX": 0.5,
+      "effect_pY": 0.5,
+      "pX": 0.5,
+      "pY": 0.6
+    },
+    "x2_game": {
+      "x2_btn_pX": 0.5,
+      "x2_btn_pY": 0.74,
+      "dathang_bg_pX": 0.2,
+      "dathang_bg_pY": 0.35,
+      "x2_bg_pX": 0.8,
+      "x2_bg_pY": 0.35,
+      "dathang_lb_pX": 0.5,
+      "dathang_lb_pY": 0.47,
+      "dathang_font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "x2_lb_pX": 0.5,
+      "x2_lb_pY": 0.47,
+      "x2_font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "state_lb_pX": 0.5,
+      "state_lb_pY": 0.79,
+      "state_font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "state_1": "Chọn 1 trong 4 đối tượng",
+      "state_2": "Chúc mừng bạn đã vượt qua thử thách",
+      "state_3": "Bạn đã thua cuộc",
+      "stop_btn1_pX": 0.5,
+      "stop_btn1_pY": 0.15,
+      "stop_btn2_pX": 0.65,
+      "stop_btn2_pY": 0.15,
+      "continue_btn_pX": 0.35,
+      "continue_btn_pY": 0.15,
+      "x2ItemsPosX": [
+        -240,
+        -80,
+        80,
+        240
+      ],
+      "x2ItemsPosY": [
+        0.59,
+        0.59,
+        0.59,
+        0.59
+      ],
+      "huong_dan_btn_pX": 0.84,
+      "huong_dan_btn_pY": 0.88,
+      "huong_dan_btn_close_pX": 0.92,
+      "huong_dan_btn_close_pY": 0.92,
+      "huong_dan_pX": 0.5,
+      "huong_dan_pY": 0.6
+    },
+    "vua_thang_lb": {
+      "pX": 0.05,
+      "pY": 0.7,
+      "scale": 0.85,
+      "anchorX": 0,
+      "anchorY": 0.5,
+      "text": "",
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt"
+    },
+    "vua_thang_numb_lb": {
+      "pX": 0.5,
+      "pY": 0.4,
+      "scale": 1.0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "font": "resources/slot/avenger/fonts/avenger_font_money2.fnt"
+    },
+    "tong_gold_lb": {
+      "pX": 0.05,
+      "pY": 0.3,
+      "scale": 0.85,
+      "anchorX": 0,
+      "anchorY": 0.5,
+      "text": "",
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt"
+    },
+    "tong_gold_numb_lb": {
+      "type": 2,
+      "pos": 1,
+      "pX": 0.78,
+      "pY": 0.55,
+      "pX_2": 27,
+      "pY_2": -4,
+      "scale": 1.0,
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "r": 255,
+      "g": 255,
+      "b": 255,
+      "font": "resources/slot/avenger/fonts/avenger_font_dong.fnt"
+    },
+    "free_spins_bg": {
+      "pos": 2,
+      "pX": 0.92,
+      "pY": 1.4,
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "font2": "resources/slot/avenger/fonts/avenger_font_money2.fnt",
+      "text": "",
+      "free_spins_lb_pX": 0.5,
+      "free_spins_lb_pY": 0.5,
+      "current_free_spins_lb_pX": 0.715,
+      "current_free_spins_lb_pY": 0.65
+    },
+    "play_trial_bg": {
+      "pX": 0.5,
+      "pY": 1.04
+    },
+    "multi_rate": {
+      "pX": 0.5,
+      "pY": 0.17,
+      "pos": 2,
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "lb_pX": 0.5,
+      "lb_pY": 0.62,
+      "text": "Hệ Số: "
+    },
+    "minigame_top_bg": {
+      "type": 2,
+      "pX": 0.5,
+      "pY": 0.5,
+      "effect_pX": 0.5,
+      "effect_pY": 0.4,
+      "effect_zOder": 1
+    },
+    "minigame_btn_close": {
+      "pX": 0.923,
+      "pY": 0.896
+    },
+    "minigame_fx": {
+      "type": 2,
+      "name_fx": "avenger_bonus",
+      "pX": 0.5,
+      "pY": 0.3
+    },
+    "minigame_reward": {
+      "type": 2,
+      "font": "resources/slot/avenger/fonts/avenger_font_bonus.fnt",
+      "scale": 0.8,
+      "pX": 0.5,
+      "pY": 0.79,
+      "moveY": 140
+    },
+    "minigame_item_idle_fx": {
+      "name_fx": "avenger_minigame_item",
+      "pX": 60,
+      "pY": 70,
+      "type": 2,
+      "z_order": 1
+    },
+    "minigame_item_open_fx": {
+      "name_fx": "fx/open",
+      "pX": -300,
+      "pY": -390,
+      "type": 2,
+      "z_order": -1
+    },
+    "minigame_text_1": {
+      "pX": 0.5,
+      "pY": 0.84,
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "text": "Tìm Vật Phẩm",
+      "bg_pX": 0.5,
+      "bg_pY": 0.4
+    },
+    "minigame_text_2": {
+      "pX": 0.5,
+      "pY": 0.73,
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "text": "",
+      "bg_pX": 0.5,
+      "bg_pY": 0.4
+    },
+    "minigame_countdown_1": {
+      "pos": 1,
+      "pX": 0.5,
+      "pY": 0.7,
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "text": "Tự động chơi sau: ",
+      "bg_pX": 0.5,
+      "bg_pY": 0.3
+    },
+    "minigame_countdown_2": {
+      "pos": 1,
+      "pX": 0.5,
+      "pY": -0.3,
+      "font": "resources/slot/avenger/fonts/avenger_font_countdown.fnt",
+      "text": "",
+      "bg_pX": 0.5,
+      "bg_pY": 0.5
+    },
+    "outdoor_stg": {
+      "pY": -100
+    },
+    "outdoor_item_idle_fx": {
+      "name_fx": "fx/light",
+      "pX": -320,
+      "pY": -390,
+      "type": 0,
+      "z_order": -1
+    },
+    "outdoor_item_open_fx": {
+      "name_fx": "fx/open",
+      "pX": -300,
+      "pY": -390,
+      "type": 0,
+      "z_order": -1
+    },
+    "x2_item_idle_fx": {
+      "name_fx": "fx/light",
+      "pX": -320,
+      "pY": -390,
+      "type": 0,
+      "z_order": -1
+    },
+    "x2_item_open_fx": {
+      "name_fx": "fx/light",
+      "pX": -300,
+      "pY": -420,
+      "type": 1,
+      "z_order": -1
+    },
+    "congrate_lb": {
+      "scale": 1.0,
+      "money_lb_scale": 1.0,
+      "lb_2_scale": 1.0,
+      "pX": 0.5,
+      "pY": 0.7,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "text_1": "Chúc mừng bạn đã trúng",
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.55,
+      "font2": "resources/slot/avenger/fonts/avenger_font_money2.fnt",
+      "text_2": "từ bonus game Đá Vô Cực.",
+      "font3": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "lb2_pX": 0.5,
+      "lb2_pY": 0.4
+    },
+    "congrate_x2_lb": {
+      "scale": 1.0,
+      "money_lb_scale": 1.0,
+      "lb_2_scale": 1.0,
+      "pX": 0.5,
+      "pY": 0.7,
+      "r": 0,
+      "g": 0,
+      "b": 0,
+      "text_1": "Chúc mừng bạn đã thắng",
+      "font": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "money_lb_pX": 0.5,
+      "money_lb_pY": 0.55,
+      "font2": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "text_2": "từ minigame X2",
+      "font3": "resources/slot/avenger/fonts/avenger_text_game.fnt",
+      "lb2_pX": 0.5,
+      "lb2_pY": 0.4
+    },
+    "vinhdanh_btn": {
+      "pX": 2.165,
+      "pY": 0.56
+    },
+    "lsgd_btn": {
+      "pX": 0.319,
+      "pY": 0.4
+    },
+    "idle_game_fx": {
+      "type": 0,
+      "name_fx": "fish_bb",
+      "effect_pX": 0.85,
+      "effect_pY": 0.3,
+      "effect_zOder": 2
+    },
+    "spinner_fx": {
+      "type": 0,
+      "name_fx": "avenger_spinner_fx",
+      "effect_pX": 0,
+      "effect_pY": 0,
+      "effect_zOder": -2
+    },
+    "jackpot_event": {
+      "jackpot1_bg_pX": 0.6,
+      "jackpot1_bg_pY": 0.47,
+      "jackpot2_bg_pX": 0.85,
+      "jackpot2_bg_pY": 0.47,
+      "bet_lb_pX": 0.5,
+      "bet_lb_pY": 0.8,
+      "bet_lb_scale": 0.65,
+      "jackpot_lb_pX": 0.5,
+      "jackpot_lb_pY": 0.4
+    },
+    "line_chooser": {
+      "btn_close_pX": 0.965,
+      "btn_close_pY": 0.97,
+      "btn_dongle_pX": 0.38,
+      "btn_dongle_pY": 0.12,
+      "btn_dongchan_pX": 0.14,
+      "btn_dongchan_pY": 0.12,
+      "btn_tatca_pX": 0.62,
+      "btn_tatca_pY": 0.12,
+      "btn_bochon_pX": 0.86,
+      "btn_bochon_pY": 0.12,
+      "btn_start_pX": 0.16,
+      "btn_start_pY": 0.86,
+      "btn_distance_X": 168,
+      "btn_distance_Y": 88,
+      "btn_per_row": 5
+    }
+  }
+}

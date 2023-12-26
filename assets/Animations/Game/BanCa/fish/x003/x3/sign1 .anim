@@ -1,0 +1,94 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "sign1 ",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 16,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -769,
+            250
+          ],
+          "motionPath": [
+            [
+              550,
+              -99,
+              550,
+              -98,
+              550.3,
+              -99.4
+            ]
+          ]
+        },
+        {
+          "frame": 16,
+          "value": [
+            -767,
+            26
+          ],
+          "motionPath": []
+        }
+      ],
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 8.083333333333334,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": -1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 8.166666666666666,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 16,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": -23
+        },
+        {
+          "frame": 8.083333333333334,
+          "value": -23
+        },
+        {
+          "frame": 8.166666666666666,
+          "value": -3
+        },
+        {
+          "frame": 16,
+          "value": -3
+        }
+      ]
+    }
+  },
+  "events": []
+}

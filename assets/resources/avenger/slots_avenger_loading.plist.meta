@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "3b303ddd-3045-4e6f-a93b-392612a0e1be",
+  "rawTextureUuid": "caf27e2f-4e7f-4669-9bed-b845b4d21902",
+  "size": {
+    "width": 1561,
+    "height": 722
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "avenger_bg_loading.png": {
+      "ver": "1.0.4",
+      "uuid": "d0c31e8c-b313-466d-bb1e-237dd03b061c",
+      "rawTextureUuid": "caf27e2f-4e7f-4669-9bed-b845b4d21902",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 1559,
+      "height": 720,
+      "rawWidth": 1559,
+      "rawHeight": 720,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

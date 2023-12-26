@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4dc99e7b-1bfe-4bb8-8262-2832c322c55c",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 88,
+  "height": 70,
+  "platformSettings": {},
+  "subMetas": {
+    "fish_icon_bailongwang": {
+      "ver": "1.0.4",
+      "uuid": "d1d158e9-117b-49a8-9b8b-fbb2899dcae5",
+      "rawTextureUuid": "4dc99e7b-1bfe-4bb8-8262-2832c322c55c",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": -2.5,
+      "trimX": 0,
+      "trimY": 11,
+      "width": 88,
+      "height": 53,
+      "rawWidth": 88,
+      "rawHeight": 70,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

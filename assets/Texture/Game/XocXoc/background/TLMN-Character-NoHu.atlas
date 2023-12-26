@@ -1,0 +1,104 @@
+
+TLMN-Character-NoHu.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 243, 148
+  size: 93, 103
+  orig: 95, 105
+  offset: 1, 1
+  index: -1
+14-2
+  rotate: true
+  xy: 124, 28
+  size: 47, 108
+  orig: 49, 110
+  offset: 1, 1
+  index: -1
+15-2
+  rotate: true
+  xy: 2, 2
+  size: 31, 100
+  orig: 33, 102
+  offset: 1, 1
+  index: -1
+15-3
+  rotate: false
+  xy: 104, 4
+  size: 9, 29
+  orig: 11, 31
+  offset: 1, 1
+  index: -1
+6
+  rotate: false
+  xy: 261, 92
+  size: 63, 54
+  orig: 65, 56
+  offset: 1, 1
+  index: -1
+8-2
+  rotate: false
+  xy: 435, 171
+  size: 66, 80
+  orig: 68, 82
+  offset: 1, 1
+  index: -1
+9-1
+  rotate: true
+  xy: 326, 64
+  size: 42, 90
+  orig: 44, 92
+  offset: 1, 1
+  index: -1
+9-2
+  rotate: false
+  xy: 338, 108
+  size: 100, 41
+  orig: 102, 43
+  offset: 1, 1
+  index: -1
+Char-NoHu-P/2
+  rotate: false
+  xy: 124, 129
+  size: 117, 122
+  orig: 119, 124
+  offset: 1, 1
+  index: -1
+Char-NoHu-P/3
+  rotate: false
+  xy: 338, 151
+  size: 95, 100
+  orig: 97, 102
+  offset: 1, 1
+  index: -1
+Char-NoHu-P/4
+  rotate: false
+  xy: 435, 157
+  size: 51, 12
+  orig: 53, 14
+  offset: 1, 1
+  index: -1
+Char-NoHu-P/5
+  rotate: false
+  xy: 2, 35
+  size: 120, 216
+  orig: 122, 218
+  offset: 1, 1
+  index: -1
+Char-NoHu-P/6
+  rotate: true
+  xy: 124, 77
+  size: 50, 135
+  orig: 52, 137
+  offset: 1, 1
+  index: -1
+card-2
+  rotate: true
+  xy: 234, 32
+  size: 43, 40
+  orig: 43, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+Minipoker.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Card 1
+  rotate: false
+  xy: 191, 141
+  size: 132, 89
+  orig: 132, 89
+  offset: 0, 0
+  index: -1
+Card 2
+  rotate: false
+  xy: 325, 127
+  size: 113, 103
+  orig: 113, 103
+  offset: 0, 0
+  index: -1
+Card 3
+  rotate: true
+  xy: 191, 67
+  size: 72, 90
+  orig: 72, 90
+  offset: 0, 0
+  index: -1
+Coin
+  rotate: false
+  xy: 440, 183
+  size: 51, 47
+  orig: 51, 47
+  offset: 0, 0
+  index: -1
+Coin 2
+  rotate: false
+  xy: 440, 139
+  size: 43, 42
+  orig: 43, 42
+  offset: 0, 0
+  index: -1
+Coin 3
+  rotate: false
+  xy: 311, 89
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+Mini Pocker
+  rotate: false
+  xy: 2, 2
+  size: 165, 74
+  orig: 165, 74
+  offset: 0, 0
+  index: -1
+Rollet
+  rotate: false
+  xy: 2, 78
+  size: 187, 152
+  orig: 187, 152
+  offset: 0, 0
+  index: -1
+Rollet CTL
+  rotate: false
+  xy: 283, 87
+  size: 26, 52
+  orig: 26, 52
+  offset: 0, 0
+  index: -1

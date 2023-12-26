@@ -1,0 +1,27 @@
+
+Sukien-RongThan.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Phoenix 2
+  rotate: false
+  xy: 2, 2
+  size: 753, 508
+  orig: 753, 508
+  offset: 0, 0
+  index: -1
+Untitled-1_0000_Trieuhoi
+  rotate: false
+  xy: 808, 463
+  size: 182, 47
+  orig: 182, 47
+  offset: 0, 0
+  index: -1
+Untitled-1_0001_Phuong-hoang
+  rotate: true
+  xy: 757, 181
+  size: 329, 49
+  orig: 329, 49
+  offset: 0, 0
+  index: -1

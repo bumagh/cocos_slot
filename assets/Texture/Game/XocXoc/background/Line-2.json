@@ -1,0 +1,77 @@
+{
+"skeleton": { "hash": "u9gQl1EY39vAOIPVYiUZz6dEEhg", "spine": "3.6.53", "width": 266, "height": 125, "images": "C:/Users/Dragon-X/Desktop" },
+"bones": [
+	{ "name": "root" }
+],
+"slots": [
+	{ "name": "Line-2", "bone": "root", "attachment": "Line-2/0" }
+],
+"skins": {
+	"default": {
+		"Line-2": {
+			"Line-2/0": { "width": 266, "height": 125 },
+			"Line-2/1": { "width": 266, "height": 125 },
+			"Line-2/2": { "width": 266, "height": 125 },
+			"Line-2/3": { "width": 266, "height": 125 },
+			"Line-2/4": { "width": 266, "height": 125 },
+			"Line-2/5": { "width": 266, "height": 125 },
+			"Line-2/6": { "width": 266, "height": 125 },
+			"Line-2/7": { "width": 266, "height": 125 },
+			"Line-2/8": { "width": 266, "height": 125 },
+			"Line-2/9": { "width": 266, "height": 125 },
+			"Line-2/10": { "width": 266, "height": 125 },
+			"Line-2/11": { "width": 266, "height": 125 },
+			"Line-2/12": { "width": 266, "height": 125 },
+			"Line-2/13": { "width": 266, "height": 125 },
+			"Line-2/14": { "width": 266, "height": 125 },
+			"Line-2/15": { "width": 266, "height": 125 },
+			"Line-2/16": { "width": 266, "height": 125 },
+			"Line-2/17": { "width": 266, "height": 125 },
+			"Line-2/18": { "width": 266, "height": 125 },
+			"Line-2/19": { "width": 266, "height": 125 },
+			"Line-2/20": { "width": 266, "height": 125 },
+			"Line-2/21": { "width": 266, "height": 125 },
+			"Line-2/22": { "width": 266, "height": 125 },
+			"Line-2/23": { "width": 266, "height": 125 },
+			"Line-2/24": { "width": 266, "height": 125 },
+			"Line-2/25": { "width": 266, "height": 125 }
+		}
+	}
+},
+"animations": {
+	"Idle": {
+		"slots": {
+			"Line-2": {
+				"attachment": [
+					{ "time": 0, "name": "Line-2/0" },
+					{ "time": 0.0333, "name": "Line-2/1" },
+					{ "time": 0.0667, "name": "Line-2/2" },
+					{ "time": 0.1, "name": "Line-2/3" },
+					{ "time": 0.1333, "name": "Line-2/4" },
+					{ "time": 0.1667, "name": "Line-2/5" },
+					{ "time": 0.2, "name": "Line-2/6" },
+					{ "time": 0.2333, "name": "Line-2/7" },
+					{ "time": 0.2667, "name": "Line-2/8" },
+					{ "time": 0.3, "name": "Line-2/9" },
+					{ "time": 0.3333, "name": "Line-2/10" },
+					{ "time": 0.3667, "name": "Line-2/11" },
+					{ "time": 0.4, "name": "Line-2/12" },
+					{ "time": 0.4333, "name": "Line-2/13" },
+					{ "time": 0.4667, "name": "Line-2/14" },
+					{ "time": 0.5, "name": "Line-2/15" },
+					{ "time": 0.5333, "name": "Line-2/16" },
+					{ "time": 0.5667, "name": "Line-2/17" },
+					{ "time": 0.6, "name": "Line-2/18" },
+					{ "time": 0.6333, "name": "Line-2/19" },
+					{ "time": 0.6667, "name": "Line-2/20" },
+					{ "time": 0.7, "name": "Line-2/21" },
+					{ "time": 0.7333, "name": "Line-2/22" },
+					{ "time": 0.7667, "name": "Line-2/23" },
+					{ "time": 0.8, "name": "Line-2/24" },
+					{ "time": 0.8333, "name": "Line-2/25" }
+				]
+			}
+		}
+	}
+}
+}

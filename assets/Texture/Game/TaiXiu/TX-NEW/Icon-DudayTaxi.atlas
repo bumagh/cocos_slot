@@ -1,0 +1,97 @@
+
+Icon-DudayTaxi.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 141
+  size: 373, 109
+  orig: 375, 111
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 2, 69
+  size: 344, 70
+  orig: 344, 70
+  offset: 0, 0
+  index: -1
+3-1
+  rotate: false
+  xy: 409, 220
+  size: 28, 30
+  orig: 30, 32
+  offset: 1, 1
+  index: -1
+3-10
+  rotate: true
+  xy: 439, 233
+  size: 17, 36
+  orig: 19, 38
+  offset: 1, 1
+  index: -1
+3-11
+  rotate: false
+  xy: 348, 108
+  size: 27, 31
+  orig: 29, 33
+  offset: 1, 1
+  index: -1
+3-2
+  rotate: false
+  xy: 2, 2
+  size: 25, 31
+  orig: 27, 33
+  offset: 1, 1
+  index: -1
+3-3
+  rotate: false
+  xy: 377, 149
+  size: 24, 30
+  orig: 26, 32
+  offset: 1, 1
+  index: -1
+3-4
+  rotate: false
+  xy: 377, 181
+  size: 29, 33
+  orig: 31, 35
+  offset: 1, 1
+  index: -1
+3-5
+  rotate: false
+  xy: 36, 38
+  size: 26, 29
+  orig: 28, 31
+  offset: 1, 1
+  index: -1
+3-6
+  rotate: false
+  xy: 348, 77
+  size: 21, 29
+  orig: 23, 31
+  offset: 1, 1
+  index: -1
+3-7
+  rotate: false
+  xy: 377, 216
+  size: 30, 34
+  orig: 32, 36
+  offset: 1, 1
+  index: -1
+3-8
+  rotate: true
+  xy: 64, 53
+  size: 14, 30
+  orig: 16, 32
+  offset: 1, 1
+  index: -1
+3-9
+  rotate: false
+  xy: 2, 35
+  size: 32, 32
+  orig: 34, 34
+  offset: 1, 1
+  index: -1

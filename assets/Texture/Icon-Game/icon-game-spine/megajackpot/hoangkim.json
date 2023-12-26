@@ -1,0 +1,146 @@
+{
+"skeleton": {
+	"hash": "NO8fNg3+177FSjR4rRr0m955smU",
+	"spine": "3.6.53",
+	"width": 349.2,
+	"height": 351.6,
+	"images": "C:/Users/MyPC/Desktop/HUTOP/lobby/anim/hurong/images"
+},
+"bones": [
+	{ "name": "root" },
+	{ "name": "bone", "parent": "root", "scaleX": 1.2, "scaleY": 1.2 },
+	{ "name": "1", "parent": "bone" },
+	{ "name": "hoangkim", "parent": "root", "x": -3.42, "y": -25.62 },
+	{ "name": "light1", "parent": "1", "x": -1.35, "y": 18.54 }
+],
+"slots": [
+	{ "name": "bg1", "bone": "bone", "attachment": "bg1" },
+	{ "name": "1", "bone": "1", "attachment": "1" },
+	{ "name": "light1", "bone": "light1", "attachment": "light1" },
+	{ "name": "hu1", "bone": "bone", "attachment": "hu1" },
+	{ "name": "khung1", "bone": "root", "attachment": "khung1" },
+	{ "name": "hoangkim", "bone": "hoangkim", "attachment": "hoangkim" }
+],
+"skins": {
+	"default": {
+		"1": {
+			"1": { "width": 229, "height": 221 }
+		},
+		"bg1": {
+			"bg1": { "width": 151, "height": 149 }
+		},
+		"hoangkim": {
+			"hoangkim": { "x": 4.42, "y": 1.12, "width": 123, "height": 30 }
+		},
+		"hu1": {
+			"hu1": { "x": -0.5, "y": 18, "width": 150, "height": 113 }
+		},
+		"khung1": {
+			"khung1": { "y": -53, "width": 165, "height": 49 }
+		},
+		"light1": {
+			"light1": { "x": -0.65, "y": -12.54, "width": 291, "height": 293 }
+		}
+	}
+},
+"animations": {
+	"animation": {
+		"bones": {
+			"1": {
+				"rotate": [
+					{ "time": 0, "angle": 0 },
+					{ "time": 0.5, "angle": -120 },
+					{ "time": 1, "angle": 120 },
+					{ "time": 1.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.5, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{ "time": 0, "x": 1, "y": 1, "curve": "stepped" },
+					{ "time": 1.5, "x": 1, "y": 1 }
+				]
+			},
+			"hoangkim": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.7667, "angle": 0, "curve": "stepped" },
+					{ "time": 1.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.7667, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.5, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 1.048,
+						"y": 1.048,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1333,
+						"x": 1.048,
+						"y": 1.048,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "x": 1, "y": 1 }
+				]
+			},
+			"light1": {
+				"rotate": [
+					{ "time": 0, "angle": 0, "curve": "stepped" },
+					{ "time": 0.7667, "angle": 0, "curve": "stepped" },
+					{ "time": 1.5, "angle": 0 }
+				],
+				"translate": [
+					{ "time": 0, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 0.7667, "x": 0, "y": 0, "curve": "stepped" },
+					{ "time": 1.5, "x": 0, "y": 0 }
+				],
+				"scale": [
+					{
+						"time": 0,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.4,
+						"x": 1.05,
+						"y": 1.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 0.7667,
+						"x": 1,
+						"y": 1,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{
+						"time": 1.1333,
+						"x": 1.05,
+						"y": 1.05,
+						"curve": [ 0.25, 0, 0.75, 1 ]
+					},
+					{ "time": 1.5, "x": 1, "y": 1 }
+				]
+			}
+		}
+	}
+}
+}

@@ -1,0 +1,76 @@
+
+logo game.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+HK86
+  rotate: false
+  xy: 2, 132
+  size: 333, 99
+  orig: 333, 99
+  offset: 0, 0
+  index: -1
+bai
+  rotate: false
+  xy: 2, 2
+  size: 120, 95
+  orig: 120, 95
+  offset: 0, 0
+  index: -1
+canh1
+  rotate: false
+  xy: 337, 106
+  size: 221, 125
+  orig: 221, 125
+  offset: 0, 0
+  index: -1
+chip
+  rotate: false
+  xy: 740, 96
+  size: 128, 135
+  orig: 128, 135
+  offset: 0, 0
+  index: -1
+fxchip
+  rotate: false
+  xy: 560, 90
+  size: 178, 141
+  orig: 178, 141
+  offset: 0, 0
+  index: -1
+light1
+  rotate: false
+  xy: 870, 148
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+light2
+  rotate: false
+  xy: 870, 148
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+light3
+  rotate: false
+  xy: 870, 148
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+light4
+  rotate: false
+  xy: 870, 148
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+txt
+  rotate: false
+  xy: 2, 99
+  size: 329, 31
+  orig: 329, 31
+  offset: 0, 0
+  index: -1

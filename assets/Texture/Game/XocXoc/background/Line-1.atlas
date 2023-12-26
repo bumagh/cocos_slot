@@ -1,0 +1,160 @@
+
+Line-1.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Line-1/0
+  rotate: false
+  xy: 273, 192
+  size: 111, 76
+  orig: 134, 77
+  offset: 11, 0
+  index: -1
+Line-1/21
+  rotate: false
+  xy: 273, 192
+  size: 111, 76
+  orig: 134, 77
+  offset: 11, 0
+  index: -1
+Line-1/1
+  rotate: false
+  xy: 367, 113
+  size: 78, 77
+  orig: 134, 77
+  offset: 28, 0
+  index: -1
+Line-1/10
+  rotate: false
+  xy: 274, 349
+  size: 124, 76
+  orig: 134, 77
+  offset: 5, 0
+  index: -1
+Line-1/11
+  rotate: false
+  xy: 273, 113
+  size: 92, 77
+  orig: 134, 77
+  offset: 21, 0
+  index: -1
+Line-1/12
+  rotate: true
+  xy: 134, 2
+  size: 58, 77
+  orig: 134, 77
+  offset: 38, 0
+  index: -1
+Line-1/13
+  rotate: false
+  xy: 137, 62
+  size: 86, 77
+  orig: 134, 77
+  offset: 24, 0
+  index: -1
+Line-1/14
+  rotate: false
+  xy: 273, 270
+  size: 122, 77
+  orig: 134, 77
+  offset: 6, 0
+  index: -1
+Line-1/15
+  rotate: false
+  xy: 2, 348
+  size: 134, 77
+  orig: 134, 77
+  offset: 0, 0
+  index: -1
+Line-1/16
+  rotate: false
+  xy: 2, 192
+  size: 133, 76
+  orig: 134, 77
+  offset: 0, 0
+  index: -1
+Line-1/17
+  rotate: false
+  xy: 138, 205
+  size: 133, 65
+  orig: 134, 77
+  offset: 0, 5
+  index: -1
+Line-1/18
+  rotate: false
+  xy: 2, 270
+  size: 134, 76
+  orig: 134, 77
+  offset: 0, 0
+  index: -1
+Line-1/19
+  rotate: false
+  xy: 138, 350
+  size: 134, 76
+  orig: 134, 77
+  offset: 0, 0
+  index: -1
+Line-1/2
+  rotate: false
+  xy: 400, 348
+  size: 65, 77
+  orig: 134, 77
+  offset: 34, 0
+  index: -1
+Line-1/20
+  rotate: false
+  xy: 2, 38
+  size: 130, 76
+  orig: 134, 77
+  offset: 2, 0
+  index: -1
+Line-1/3
+  rotate: false
+  xy: 408, 428
+  size: 99, 76
+  orig: 134, 77
+  offset: 17, 0
+  index: -1
+Line-1/4
+  rotate: false
+  xy: 274, 427
+  size: 132, 77
+  orig: 134, 77
+  offset: 1, 0
+  index: -1
+Line-1/5
+  rotate: false
+  xy: 2, 427
+  size: 134, 77
+  orig: 134, 77
+  offset: 0, 0
+  index: -1
+Line-1/6
+  rotate: false
+  xy: 2, 116
+  size: 133, 74
+  orig: 134, 77
+  offset: 0, 1
+  index: -1
+Line-1/7
+  rotate: false
+  xy: 137, 141
+  size: 134, 62
+  orig: 134, 77
+  offset: 0, 7
+  index: -1
+Line-1/8
+  rotate: false
+  xy: 138, 428
+  size: 134, 76
+  orig: 134, 77
+  offset: 0, 0
+  index: -1
+Line-1/9
+  rotate: false
+  xy: 138, 272
+  size: 133, 76
+  orig: 134, 77
+  offset: 0, 0
+  index: -1

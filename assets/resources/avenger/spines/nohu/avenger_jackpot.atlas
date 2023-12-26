@@ -1,0 +1,237 @@
+
+avenger_jackpot.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_0000_EFFECT_00023
+  rotate: true
+  xy: 992, 1702
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0001_EFFECT_00022
+  rotate: true
+  xy: 1341, 1702
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0002_EFFECT_00021
+  rotate: true
+  xy: 1690, 1702
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0003_EFFECT_00020
+  rotate: true
+  xy: 992, 1362
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0004_EFFECT_00019
+  rotate: true
+  xy: 571, 1336
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0005_EFFECT_00018
+  rotate: true
+  xy: 2, 1275
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0006_EFFECT_00017
+  rotate: true
+  xy: 1341, 1362
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0007_EFFECT_00016
+  rotate: true
+  xy: 1690, 1362
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0008_EFFECT_00015
+  rotate: true
+  xy: 920, 1022
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0009_EFFECT_00014
+  rotate: true
+  xy: 529, 996
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0010_EFFECT_00013
+  rotate: true
+  xy: 2, 935
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0011_EFFECT_00012
+  rotate: true
+  xy: 2, 595
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0012_EFFECT_00011
+  rotate: true
+  xy: 1269, 1022
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0013_EFFECT_00010
+  rotate: true
+  xy: 1618, 1022
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0014_EFFECT_00009
+  rotate: false
+  xy: 878, 673
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0015_EFFECT_00008
+  rotate: true
+  xy: 529, 656
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0016_EFFECT_00007
+  rotate: false
+  xy: 878, 324
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0017_EFFECT_00006
+  rotate: true
+  xy: 351, 316
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0018_EFFECT_00005
+  rotate: true
+  xy: 2, 255
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0019_EFFECT_00004
+  rotate: true
+  xy: 1218, 682
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0020_EFFECT_00003
+  rotate: true
+  xy: 1567, 682
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0021_EFFECT_00002
+  rotate: false
+  xy: 1218, 333
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0022_EFFECT_00001
+  rotate: true
+  xy: 1558, 342
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+EFFECT_0023_EFFECT_00000
+  rotate: true
+  xy: 1558, 2
+  size: 338, 347
+  orig: 338, 347
+  offset: 0, 0
+  index: -1
+Layer 10
+  rotate: true
+  xy: 351, 1026
+  size: 137, 176
+  orig: 137, 176
+  offset: 0, 0
+  index: -1
+Layer 11
+  rotate: false
+  xy: 2, 1615
+  size: 567, 425
+  orig: 567, 425
+  offset: 0, 0
+  index: -1
+Layer 4
+  rotate: true
+  xy: 351, 1446
+  size: 167, 176
+  orig: 167, 176
+  offset: 0, 0
+  index: -1
+Layer 5
+  rotate: true
+  xy: 351, 1304
+  size: 140, 176
+  orig: 140, 176
+  offset: 0, 0
+  index: -1
+Layer 6
+  rotate: true
+  xy: 351, 910
+  size: 114, 176
+  orig: 114, 176
+  offset: 0, 0
+  index: -1
+Layer 7
+  rotate: true
+  xy: 351, 802
+  size: 106, 176
+  orig: 106, 176
+  offset: 0, 0
+  index: -1
+Layer 8
+  rotate: true
+  xy: 351, 697
+  size: 103, 176
+  orig: 103, 176
+  offset: 0, 0
+  index: -1
+Layer 9
+  rotate: true
+  xy: 351, 1165
+  size: 137, 176
+  orig: 137, 176
+  offset: 0, 0
+  index: -1
+Levels 5 copy 6
+  rotate: true
+  xy: 571, 1676
+  size: 364, 419
+  orig: 364, 419
+  offset: 0, 0
+  index: -1

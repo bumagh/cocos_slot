@@ -1,0 +1,91 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "Rung2",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 0.15,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 0,
+  "curveData": {
+    "props": {
+      "scale": [
+        {
+          "frame": 0,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        },
+        {
+          "frame": 0.06666666666666667,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1.03,
+            "y": 1.03
+          }
+        },
+        {
+          "frame": 0.15,
+          "value": {
+            "__type__": "cc.Vec2",
+            "x": 1,
+            "y": 1
+          }
+        }
+      ],
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            0,
+            0,
+            0
+          ]
+        },
+        {
+          "frame": 0.03333333333333333,
+          "value": [
+            0,
+            10,
+            0
+          ]
+        },
+        {
+          "frame": 0.05,
+          "value": [
+            10,
+            -10,
+            0
+          ]
+        },
+        {
+          "frame": 0.08333333333333333,
+          "value": [
+            -10,
+            10,
+            0
+          ]
+        },
+        {
+          "frame": 0.11666666666666667,
+          "value": [
+            10,
+            -10,
+            0
+          ]
+        },
+        {
+          "frame": 0.15,
+          "value": [
+            0,
+            0,
+            0
+          ]
+        }
+      ]
+    }
+  },
+  "events": []
+}

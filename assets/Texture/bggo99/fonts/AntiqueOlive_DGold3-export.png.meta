@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "bf4341b2-0ce1-4551-884e-19fd638121c0",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 512,
+  "platformSettings": {},
+  "subMetas": {
+    "AntiqueOlive_DGold3-export": {
+      "ver": "1.0.4",
+      "uuid": "b7908f92-3f53-4610-8ccc-2df8d3915470",
+      "rawTextureUuid": "bf4341b2-0ce1-4551-884e-19fd638121c0",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -68.5,
+      "offsetY": 1,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 375,
+      "height": 510,
+      "rawWidth": 512,
+      "rawHeight": 512,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

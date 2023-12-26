@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "4461403f-f4e6-4ead-b287-5f9fcfa87940",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 1706,
+  "height": 960,
+  "platformSettings": {},
+  "subMetas": {
+    "giao-dien-bonus-demo": {
+      "ver": "1.0.4",
+      "uuid": "f394cbe9-6949-4bd9-ad66-33c45aead692",
+      "rawTextureUuid": "4461403f-f4e6-4ead-b287-5f9fcfa87940",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 0,
+      "trimY": 0,
+      "width": 1706,
+      "height": 960,
+      "rawWidth": 1706,
+      "rawHeight": 960,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

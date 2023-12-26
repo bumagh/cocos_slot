@@ -1,0 +1,55 @@
+
+opfrontlobby.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Base
+  rotate: false
+  xy: 309, 53
+  size: 256, 185
+  orig: 256, 185
+  offset: 0, 0
+  index: -1
+Flame Fist
+  rotate: false
+  xy: 2, 2
+  size: 305, 236
+  orig: 305, 236
+  offset: 0, 0
+  index: -1
+Front Feet
+  rotate: false
+  xy: 567, 91
+  size: 179, 147
+  orig: 179, 147
+  offset: 0, 0
+  index: -1
+Head
+  rotate: true
+  xy: 748, 69
+  size: 100, 121
+  orig: 100, 121
+  offset: 0, 0
+  index: -1
+OP Text
+  rotate: false
+  xy: 748, 171
+  size: 187, 67
+  orig: 187, 67
+  offset: 0, 0
+  index: -1
+Other Fist
+  rotate: false
+  xy: 309, 6
+  size: 83, 45
+  orig: 83, 45
+  offset: 0, 0
+  index: -1
+Scarf
+  rotate: false
+  xy: 937, 202
+  size: 68, 36
+  orig: 68, 36
+  offset: 0, 0
+  index: -1

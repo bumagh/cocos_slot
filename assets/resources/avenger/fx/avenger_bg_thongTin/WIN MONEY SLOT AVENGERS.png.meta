@@ -1,0 +1,36 @@
+{
+  "ver": "2.3.4",
+  "uuid": "c9943294-8fd5-4871-b70c-dd24afd7215a",
+  "type": "sprite",
+  "wrapMode": "clamp",
+  "filterMode": "bilinear",
+  "premultiplyAlpha": false,
+  "genMipmaps": false,
+  "packable": true,
+  "width": 512,
+  "height": 128,
+  "platformSettings": {},
+  "subMetas": {
+    "WIN MONEY SLOT AVENGERS": {
+      "ver": "1.0.4",
+      "uuid": "2d984370-98aa-45c2-a18c-1f35fbf21c68",
+      "rawTextureUuid": "c9943294-8fd5-4871-b70c-dd24afd7215a",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": -73,
+      "offsetY": 19.5,
+      "trimX": 2,
+      "trimY": 2,
+      "width": 362,
+      "height": 85,
+      "rawWidth": 512,
+      "rawHeight": 128,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "subMetas": {}
+    }
+  }
+}

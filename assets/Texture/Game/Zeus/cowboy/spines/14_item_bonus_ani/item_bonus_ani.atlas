@@ -1,0 +1,34 @@
+
+item_bonus_ani.png
+size: 175,174
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Bag of Gold
+  rotate: false
+  xy: 1, 46
+  size: 139, 127
+  orig: 139, 127
+  offset: 0, 0
+  index: -1
+g1
+  rotate: true
+  xy: 112, 15
+  size: 30, 24
+  orig: 30, 24
+  offset: 0, 0
+  index: -1
+g2
+  rotate: false
+  xy: 141, 152
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+text_Bn
+  rotate: false
+  xy: 1, 6
+  size: 110, 39
+  orig: 110, 39
+  offset: 0, 0
+  index: -1

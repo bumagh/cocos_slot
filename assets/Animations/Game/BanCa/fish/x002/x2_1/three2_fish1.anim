@@ -1,0 +1,58 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "three2_fish1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 11.866666666666667,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": 1,
+  "curveData": {
+    "props": {
+      "position": [
+        {
+          "frame": 0,
+          "value": [
+            -798,
+            103
+          ],
+          "motionPath": [
+            [
+              163,
+              117,
+              -189,
+              248,
+              541,
+              -23
+            ]
+          ]
+        },
+        {
+          "frame": 11.866666666666667,
+          "value": [
+            664,
+            -441
+          ],
+          "motionPath": []
+        }
+      ],
+      "scaleX": [
+        {
+          "frame": 0,
+          "value": -1
+        }
+      ],
+      "angle": [
+        {
+          "frame": 0,
+          "value": 28
+        },
+        {
+          "frame": 11.866666666666667,
+          "value": -62
+        }
+      ]
+    }
+  },
+  "events": []
+}
