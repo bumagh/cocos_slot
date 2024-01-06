@@ -51,6 +51,7 @@ cc.Class({
 		iconTxtXiu:cc.Label,
 	},
 	onLoad: function () {
+		cc.view.enableAutoFullScreen(false);
 		this.dialog.init();
 		this.newsContents.init(this);
 		if (void 0 === cc.RedT) {
