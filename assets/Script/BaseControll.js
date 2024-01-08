@@ -84,8 +84,7 @@ module.exports = {
 		//console.log("Socket error", JSON.stringify(message));
 	},
 	reconnect: function(){
-		// this.connect('127.0.0.1','/client');
-		this.connect('8.218.154.84','/client');
+		this.connect('127.0.0.1','/client');
 	},
 	init: function(){
 		cc.view.setResizeCallback(function(){
