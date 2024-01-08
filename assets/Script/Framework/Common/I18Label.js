@@ -7,7 +7,7 @@ cc.Class({
         zhString: cc.String,
         vieString: cc.String,
         buString: cc.String,
-        thString: cc.String
+        thString: cc.String,
     },
     onLoad: function () {
 
