@@ -20,6 +20,7 @@ cc.Class({
 		this.isLoadConfig = !1;
 		this.initOneSign();
 		cc.sys.isBrowser ? this.loadAssets() : (this.initHotUpdate(), this.checkUpdate());
+		cc.view.enableAutoFullScreen(false);
 	},
 	initOneSign: function() {
 		this.checkPlugin() && (sdkbox.PluginOneSignal.init(),
@@ -62,41 +63,41 @@ cc.Class({
 		}
 	},
 	initHotUpdate: function() {
-		this.updateProgress(0);
-		this._storagePath = (jsb.fileUtils ? jsb.fileUtils.getWritablePath() : "/") + "go88-remote-asset";
-		this._am = new jsb.AssetsManager("", this._storagePath, this.versionCompareHandle);
-		this._am.setVerifyCallback(function(t, e) {
-			e.compressed;
-			return !0
-		}
-		.bind(this));
-		cc.sys.os === cc.sys.OS_ANDROID && this._am.setMaxConcurrentTask(2);
+		// this.updateProgress(0);
+		// this._storagePath = (jsb.fileUtils ? jsb.fileUtils.getWritablePath() : "/") + "go88-remote-asset";
+		// this._am = new jsb.AssetsManager("", this._storagePath, this.versionCompareHandle);
+		// this._am.setVerifyCallback(function(t, e) {
+		// 	e.compressed;
+		// 	return !0
+		// }
+		// .bind(this));
+		// cc.sys.os === cc.sys.OS_ANDROID && this._am.setMaxConcurrentTask(2);
 	},
 	checkUpdate: function() {
-		if (this._updating) {
-			this.messageLabel.string = "Đang kiểm tra phiên bản ...";
-			return;
-		}
+		// if (this._updating) {
+		// 	this.messageLabel.string = "Đang kiểm tra phiên bản ...";
+		// 	return;
+		// }
 
-		if (this._am.getState() === jsb.AssetsManager.State.UNINITED) {
-			this._am.loadLocalManifest(this.manifestUrl.nativeUrl);
-		}
+		// if (this._am.getState() === jsb.AssetsManager.State.UNINITED) {
+		// 	this._am.loadLocalManifest(this.manifestUrl.nativeUrl);
+		// }
 
-		this._am.setEventCallback(this.checkCb.bind(this));
-		this._am.checkUpdate();
-		this._updating = true;
+		// this._am.setEventCallback(this.checkCb.bind(this));
+		// this._am.checkUpdate();
+		// this._updating = true;
 	},
 	hotUpdate: function() {
-		if (this._am && !this._updating) {
-			this._am.setEventCallback(this.updateCb.bind(this));
+		// if (this._am && !this._updating) {
+		// 	this._am.setEventCallback(this.updateCb.bind(this));
 
-			if (this._am.getState() === jsb.AssetsManager.State.UNINITED) {
-				this._am.loadLocalManifest(this.manifestUrl.nativeUrl);
-			}
-			this._failCount = 0;
-			this._am.update();
-			this._updating = true;
-		}
+		// 	if (this._am.getState() === jsb.AssetsManager.State.UNINITED) {
+		// 		this._am.loadLocalManifest(this.manifestUrl.nativeUrl);
+		// 	}
+		// 	this._failCount = 0;
+		// 	this._am.update();
+		// 	this._updating = true;
+		// }
 	},
 	retry: function() {
 		!this._updating && this._canRetry && (this.retryButtonNode.active = !1,
